@@ -67,3 +67,27 @@ XUA = { # Xuantu
 		priority = 1
 	}
 }
+
+OKJ = { # Okjeo
+	flag_definition = {
+		coa = OKJ
+		subject_canton = OKJ
+		priority = 1
+	}
+}
+
+ESH = { # Emishi
+	flag_definition = {
+		coa = ESH
+		subject_canton = ESH
+		priority = 1
+	}
+}
+
+MSH = { # Emishi
+	flag_definition = {
+		coa = MSH
+		subject_canton = MSH
+		priority = 1
+	}
+}

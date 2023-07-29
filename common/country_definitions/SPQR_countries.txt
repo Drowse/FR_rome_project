@@ -50,6 +50,36 @@ OKJ = { #Okjeo
 	cultures = { korean }
 	religion = mahayana
 	
-	capital = STATE_SOUTHERN_MANCHURIA
+	capital = STATE_SARIWON
 	is_named_from_capital = yes
+}
+
+ESH = { #Emishi
+	color = { 129 167 32 }
+	
+	tier = decentralized
+	
+	country_type = unrecognized
+	
+	cultures = { ainu }
+	religion = animist
+	
+	capital = STATE_TOHOKU
+	is_named_from_capital = yes
+}
+
+MSH = { #Mishihase
+	color = { 48 135 30 }
+
+	tier = decentralized
+
+	country_type = unrecognized
+
+	cultures = {
+		ainu
+	}
+	religion = animist
+
+	captial = STATE_TOHOKU
+	is_named_from_capital = no
 }
