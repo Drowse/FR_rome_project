@@ -51,3 +51,19 @@ SPR = { # Rome
 		priority = 1
 	}
 }
+
+XNG = { # Xiongnu
+	flag_definition = {
+		coa = XNG
+		subject_canton = XNG
+		priority = 1
+	}
+}
+
+XUA = { # Xuantu
+	flag_definition = {
+		coa = XUA
+		subject_canton = XUA
+		priority = 1
+	}
+}

@@ -11,3 +11,45 @@
 	capital = STATE_LAZIO
 	is_named_from_capital = yes
 }
+
+XNG = { #Xiongnu Confederation
+	color = { 180  102  0 }
+	
+	tier = kingdom
+	
+	country_type = unrecognized
+	
+	cultures = { mongol }
+	religion = mahayana
+	
+	capital = STATE_URGA
+	is_named_from_capital = yes
+}
+
+XUA = { #Xuantu Commandery
+	color = { 189  176  18 }
+	
+	tier = decentralized
+	
+	country_type = unrecognized
+	
+	cultures = { han }
+	religion = mahayana
+	
+	capital = STATE_SOUTHERN_MANCHURIA
+	is_named_from_capital = yes
+}
+
+OKJ = { #Okjeo
+	color = { 63 94 199 }
+	
+	tier = decentralized
+	
+	country_type = unrecognized
+	
+	cultures = { korean }
+	religion = mahayana
+	
+	capital = STATE_SOUTHERN_MANCHURIA
+	is_named_from_capital = yes
+}
