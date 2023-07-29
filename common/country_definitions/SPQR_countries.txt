@@ -1,9 +1,9 @@
 ﻿SPR = { #Rome
 	color = { 142  0  28 } #RGB color values
 	
-	tier = kingdom #[principality] [decentralized] [kingdom] [empire]
+	tier = kingdom #[principality] [kingdom] [empire]
 	
-	country_type = recognized #[colonial] [unrecognized] [recognized]
+	country_type = recognized #[colonial]  [decentralized] [unrecognized] [recognized]
 	
 	cultures = { north_italian south_italian } #need to rework these for classical era cultures
 	religion = catholic #Need to add Classical era religions
