@@ -83,3 +83,99 @@ MSH = { #Mishihase
 	captial = STATE_TOHOKU
 	is_named_from_capital = no
 }
+
+KYE = { #Ye
+	color = { 112 144 128 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SEOUL
+	is_named_from_capital = no
+}
+
+JHN = { #Jinhan
+	color = { 48 80 128 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_BUSAN
+	is_named_from_capital = yes
+}
+
+BYH = { #Byeonhan
+	color = { 155 168 181 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_BUSAN
+	is_named_from_capital = no
+}
+
+MHN = { #Mahan
+	color = { 164 138 139 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_YANGHO
+	is_named_from_capital = no
+}
+
+BKJ = { #Baekje
+	color = { 160 226 238 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SEOUL
+	is_named_from_capital = no
+}
+
+BYO = { #Buyeo
+	color = { 84 183 30 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SOUTHERN_MANCHURIA
+	is_named_from_capital = no
+}
