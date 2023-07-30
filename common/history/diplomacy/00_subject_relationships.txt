@@ -61,17 +61,20 @@
 	}
 	c:CHI = {
 		create_diplomatic_pact = {
-			country = c:TIB
+			country = c:XUA
 			type = vassal
 		}
+
 		create_diplomatic_pact = {
-			country = c:KOR
+			country = c:BYO
 			type = tributary
 		}
+	}
+	c:MHN = {
 		create_diplomatic_pact = {
-			country = c:LAN
+			country = c:BKJ
 			type = tributary
-		}			
+		}
 	}
 	c:AUS = {
 		create_diplomatic_pact = {
