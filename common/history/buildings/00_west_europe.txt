@@ -1434,7 +1434,7 @@
 		}
 	}
 	s:STATE_PROVENCE={
-		region_state:SAR={
+		region_state:SPR={
 			create_building={
 				building="building_fishing_wharf"
 				level=1
@@ -1448,7 +1448,7 @@
 				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_vineyards" }
 			}
 		}
-		region_state:FRA={
+		region_state:SPR={
 			create_building={
 				building="building_textile_mills"
 				level=3
@@ -1552,7 +1552,7 @@
 		}
 	}
 	s:STATE_LANGUEDOC={
-		region_state:FRA={
+		region_state:SPR={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -1598,7 +1598,7 @@
 		}
 	}
 	s:STATE_RHONE={
-		region_state:FRA={
+		region_state:SPR={
 			create_building={
 				building="building_construction_sector"
 				level=2

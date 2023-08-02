@@ -22,3 +22,13 @@ SPR = {
 		color1 = "yellow"
 	}
 }
+
+CAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_right.dds"
+		color1 = "red"
+	}
+}

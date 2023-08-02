@@ -1,9 +1,9 @@
 ﻿SPR = { #Rome
 	color = { 142  0  28 } #RGB color values
 	
-	tier = kingdom #[principality] [kingdom] [empire]
+	tier = kingdom #[principality] [decentralized] [kingdom] [empire]
 	
-	country_type = recognized #[colonial]  [decentralized] [unrecognized] [recognized]
+	country_type = recognized #[colonial] [unrecognized] [recognized]
 	
 	cultures = { north_italian south_italian } #need to rework these for classical era cultures
 	religion = catholic #Need to add Classical era religions
@@ -82,4 +82,18 @@ MSH = { #Mishihase
 
 	captial = STATE_TOHOKU
 	is_named_from_capital = no
+}
+
+CAR = { #Carthage
+	color = { 14  71  142 }
+	
+	tier = kingdom 
+	
+	country_type = recognized 
+	
+	cultures = { maghrebi } 
+	religion = sunni 
+	
+	capital = STATE_TUNISIA
+	is_named_from_capital = yes
 }

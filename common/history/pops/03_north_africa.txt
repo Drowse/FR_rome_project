@@ -372,7 +372,7 @@
 		}
 	}
 	s:STATE_MARRAKECH = {
-		region_state:MOR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 686700
@@ -393,7 +393,7 @@
 		}
 	}
 	s:STATE_FEZ = {
-		region_state:MOR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 878696
@@ -414,7 +414,7 @@
 		}
 	}
 	s:STATE_AL_RIF = {
-		region_state:MOR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 374188
@@ -433,7 +433,7 @@
 				size = 34000
 			}
 		}
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 46400
@@ -536,7 +536,7 @@
 		}
 	}
 	s:STATE_CONSTANTINE = {
-		region_state:CON = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 245953
@@ -559,7 +559,7 @@
 				size = 32020
 			}
 		}
-		region_state:AIT = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 18124
@@ -578,7 +578,7 @@
 				size = 9281
 			}
 		}
-		region_state:FRA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 18830
@@ -606,7 +606,7 @@
 		}
 	}
 	s:STATE_ORAN = {
-		region_state:MAS = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 612178
@@ -629,7 +629,7 @@
 				size = 18401
 			}
 		}
-		region_state:FRA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 41020
@@ -657,7 +657,7 @@
 		}
 	}
 	s:STATE_TUNISIA = {
-		region_state:TUN = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 1165804
@@ -696,7 +696,7 @@
 		}
 	}
 	s:STATE_TRIPOLI = {
-		region_state:TRI = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
 				size = 169628
@@ -721,7 +721,7 @@
 		}
 	}
 	s:STATE_LIBYA = {
-		region_state:TRI = {
+		region_state:CAR = {
 			create_pop = {
 				culture = bedouin
 				size = 171604
@@ -746,7 +746,7 @@
 		}
 	}
 	s:STATE_LIBYAN_DESERT = {
-		region_state:TRI = {
+		region_state:CAR = {
 			create_pop = {
 				culture = bedouin
 				size = 30000
