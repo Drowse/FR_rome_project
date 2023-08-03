@@ -1,6 +1,6 @@
 ﻿BUILDINGS={
 	s:STATE_DAGESTAN={
-		region_state:RUS={
+		region_state:ARM={
 			create_building={
 				building="building_wheat_farm"
 				level=1
@@ -25,8 +25,6 @@
 				reserves=1
 				activate_production_methods={ "pm_line_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
-		}
-		region_state:CHC={
 			create_building={
 				building="building_livestock_ranch"
 				level=1
@@ -68,7 +66,7 @@
 				activate_production_methods={ "pm_line_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:CIR={
+		region_state:PON={
 			create_building={
 				building="building_wheat_farm"
 				level=1
@@ -90,7 +88,7 @@
 		}
 	}
 	s:STATE_ARMENIA={
-		region_state:RUS={
+		region_state:ARM={
 			create_building={
 				building="building_wheat_farm"
 				level=2
@@ -100,7 +98,7 @@
 		}
 	}
 	s:STATE_AZERBAIJAN={
-		region_state:RUS={
+		region_state:ARM={
 			create_building={
 				building="building_rice_farm"
 				level=1
@@ -116,7 +114,7 @@
 		}
 	}
 	s:STATE_GREATER_CAUCASUS={
-		region_state:RUS={
+		region_state:PON={
 			create_building={
 				building="building_textile_mills"
 				level=1
@@ -366,7 +364,7 @@
 		}
 	}
 	s:STATE_TURKMENIA={
-		region_state:KHI={
+		region_state:PRT={
 			create_building={
 				building="building_livestock_ranch"
 				level=2
@@ -422,7 +420,7 @@
 		}
 	}
 	s:STATE_PASHTUNISTAN={
-		region_state:PAN={
+		region_state:IGK={
 			create_building={
 				building="building_wheat_farm"
 				level=4
@@ -450,7 +448,7 @@
 		}
 	}
 	s:STATE_WESTERN_AFGHANISTAN={
-		region_state:AFG={
+		region_state:IGK={
 			create_building={
 				building="building_textile_mills"
 				level=1
@@ -484,7 +482,7 @@
 		}
 	}
 	s:STATE_EASTERN_AFGHANISTAN={
-		region_state:AFG={
+		region_state:IGK={
 			create_building={
 				building="building_government_administration"
 				level=1

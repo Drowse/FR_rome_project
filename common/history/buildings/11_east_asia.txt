@@ -308,7 +308,7 @@
 		}
 	}
 	s:STATE_OUTER_MANCHURIA={
-		region_state:CHI={
+		region_state:SKH={
 			create_building={
 				building="building_logging_camp"
 				level=4
@@ -330,7 +330,7 @@
 		}
 	}
 	s:STATE_SOUTHERN_MANCHURIA={
-		region_state:CHI={
+		region_state:XUA={
 			create_building={
 				building="building_government_administration"
 				level=6
@@ -364,7 +364,7 @@
 		}
 	}
 	s:STATE_NORTHERN_MANCHURIA={
-		region_state:CHI={
+		region_state:XNG={
 			create_building={
 				building="building_logging_camp"
 				level=6
@@ -1614,18 +1614,12 @@
 		}
 	}
 	s:STATE_TOHOKU={
-		region_state:JAP={
+		region_state:ESH={
 			create_building={
 				building="building_government_administration"
 				level=3
 				reserves=1
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
-			}
-			create_building={
-				building="building_logging_camp"
-				level=5
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_merchant_guilds_building_logging_camp" "pm_no_equipment" "pm_road_carts" "pm_no_hardwood" }
 			}
 			create_building={
 				building="building_rice_farm"
@@ -1634,21 +1628,35 @@
 				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
 			}
 			create_building={
+				building="building_barracks"
+				level=7
+				reserves=1
+				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
+			}
+		}
+		region_state:MSH={
+			create_building={
+				building="building_barracks"
+				level=6
+				reserves=1
+				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
+			}
+			create_building={
+				building="building_logging_camp"
+				level=5
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_merchant_guilds_building_logging_camp" "pm_no_equipment" "pm_road_carts" "pm_no_hardwood" }
+			}
+			create_building={
 				building="building_tobacco_plantation"
 				level=3
 				reserves=1
 				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
 			}
-			create_building={
-				building="building_barracks"
-				level=15
-				reserves=1
-				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
-			}
 		}
 	}
 	s:STATE_KANTO={
-		region_state:JAP={
+		region_state:ESH={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -1706,7 +1714,7 @@
 		}
 	}
 	s:STATE_CHUBU={
-		region_state:JAP={
+		region_state:ESH={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -1738,12 +1746,6 @@
 				activate_production_methods={ "pm_simple_forestry" "pm_merchant_guilds_building_logging_camp" "pm_no_equipment" "pm_road_carts" "pm_hardwood" }
 			}
 			create_building={
-				building="building_livestock_ranch"
-				level=2
-				reserves=1
-				activate_production_methods={ "pm_simple_ranch" "pm_privately_owned" "pm_standard_fences" "pm_unrefrigerated" "pm_open_air_stockyards" }
-			}
-			create_building={
 				building="building_rice_farm"
 				level=2
 				reserves=1
@@ -1756,16 +1758,24 @@
 				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
 			}
 			create_building={
+				building="building_barracks"
+				level=15
+				reserves=1
+				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
+			}
+		}
+		region_state:MSH={
+			create_building={
 				building="building_tea_plantation"
 				level=4
 				reserves=1
 				activate_production_methods={ "default_building_tea_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
 			}
 			create_building={
-				building="building_barracks"
-				level=15
+				building="building_livestock_ranch"
+				level=2
 				reserves=1
-				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
+				activate_production_methods={ "pm_simple_ranch" "pm_privately_owned" "pm_standard_fences" "pm_unrefrigerated" "pm_open_air_stockyards" }
 			}
 		}
 	}

@@ -348,7 +348,7 @@
 		}
 	}
 	s:STATE_CRIMEA={
-		region_state:RUS={
+		region_state:PON={
 			create_building={
 				building="building_naval_base"
 				level=5

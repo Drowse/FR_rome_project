@@ -16,3 +16,24 @@
 
  MSH:0 "Mishihase"
  MSH_ADJ:0 "Mishihase"
+
+ SEL:0 "Selucid Empire"
+ SEL_ADJ:0 "Selucid"
+
+ ARM:0 "Armenia"
+ ARM_ADJ:0 "Armenian"
+
+ CHI:0 "Western Han"
+ CHI_ADJ:0 "Imperial Chinese"
+
+ PRT:0 "Parthia"
+ PRT_ADJ:0 "Parthian"
+
+ IGK:0 "Yavanarajya"
+ IGK_ADJ:0 "Indo-Greek"
+
+ PON:0 "Pontus"
+ PON_ADJ:0 "Pontic"
+
+ JAP:0 "Yayoi"
+ JAP_ADJ:0 "Japanese"

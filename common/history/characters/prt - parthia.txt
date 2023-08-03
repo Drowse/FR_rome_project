@@ -1,17 +1,16 @@
 CHARACTERS = {
-	c:XNG = {
+	c:PRT = {
 		create_character = {
 			is_general = yes
-			first_name = "Qiedihou"
-			last_name = "Qiedi"
+			first_name = "Mithridates II"
+			last_name = "Arsacid"
 			historical = yes
 			ruler = yes
-			birth_date = 603.8.11
-			interest_group = ig_landowners
-			ideology = ideology_moderate
+			birth_date = 607.1.1
+			interest_group = ig_armed_forces
+			ideology = ideology_stratocratic
 			traits = {
 				ambitious
-				reckless
 			}
 			on_created = {
 				set_variable = is_married
