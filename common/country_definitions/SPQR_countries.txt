@@ -1,9 +1,9 @@
 ﻿SPR = { #Rome
 	color = { 142  0  28 } #RGB color values
 	
-	tier = kingdom #[principality] [kingdom] [empire]
+	tier = kingdom #[principality] [decentralized] [kingdom] [empire]
 	
-	country_type = recognized #[colonial]  [decentralized] [unrecognized] [recognized]
+	country_type = recognized #[colonial] [unrecognized] [recognized]
 	
 	cultures = { north_italian south_italian } #need to rework these for classical era cultures
 	religion = catholic #Need to add Classical era religions
@@ -84,77 +84,16 @@ MSH = { #Mishihase
 	is_named_from_capital = no
 }
 
-SEL = {
-	color = { 40 121 173 }
-
-	tier = empire
-
-	country_type = recognized
-
-	cultures = { greek persian }
-	religion = hellenism
-
-	capital = STATE_ALEPPO
-
-	is_named_from_capital = yes
-}
-
-ARM = {
-	color = { 172  58  52 }
-
-	tier = kingdom
-
-	country_type = recognized
-
-	cultures = { armenian }
-	religion = oriental_orthodox
-
-	capital = STATE_ARMENIA
-
-	is_named_from_capital = yes
-}
-
-PRT = {
-	color = { 102 106 195 }
-
-	tier = empire
-
-	country_type = unrecognized
-
-	cultures = { persian } #should be Scythian
-	religion = zoroastrian
-
-	capital = STATE_TURKMENIA
-
-	is_named_from_capital = yes
-}
-
-IGK = {
-	color = { 143 63 78 }
-
-	tier = kingdom
-
-	country_type = recognized
-
-	cultures = { greek pashtun panjabi }
-	religion = hellenism
-
-	capital = STATE_EASTERN_AFGHANISTAN
-
-	is_named_from_capital = yes
-}
-
-PON = {
-	color = { 275 30 94 }
-
-	tier = kingdom
-
-	country_type = recognized
-
-	cultures = { greek }
-	religion = hellenism
-
-	capital = STATE_TRABZON
-
+CAR = { #Carthage
+	color = { 14  71  142 }
+	
+	tier = kingdom 
+	
+	country_type = recognized 
+	
+	cultures = { maghrebi } 
+	religion = sunni 
+	
+	capital = STATE_TUNISIA
 	is_named_from_capital = yes
 }

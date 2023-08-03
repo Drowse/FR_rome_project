@@ -51,6 +51,20 @@ SPR = { # Rome
 		priority = 1
 	}
 }
+CAR = { # Rome
+	flag_definition = {
+		coa = CAR
+		subject_canton = CAR
+		priority = 1
+	}
+}
+SPR = { # Rome
+	flag_definition = {
+		coa = SPR
+		subject_canton = SPR
+		priority = 1
+	}
+}
 
 XNG = { # Xiongnu
 	flag_definition = {

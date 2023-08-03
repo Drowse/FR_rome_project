@@ -1,6 +1,6 @@
 ﻿POPS = {
 	s:STATE_LOMBARDY = {
-		region_state:AUS = {
+		region_state:SPR = {
 			create_pop = {
 				culture = north_italian
 				size = 2376996
@@ -58,7 +58,7 @@
 		}
 	}
 	s:STATE_CORSICA = {
-		region_state:FRA = {
+		region_state:SPR = {
 			create_pop = {
 				culture = corsican
 				size = 190540
@@ -139,7 +139,7 @@
 				size = 108408
 			}
 		}
-		region_state:MOD = {
+		region_state:SPR = {
 			create_pop = {
 				culture = north_italian
 				size = 648400
@@ -202,7 +202,7 @@
 		}
 	}
 	s:STATE_TOLEDO = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 1268400
@@ -264,7 +264,7 @@
 		}
 	}
 	s:STATE_ARAGON = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 401200
@@ -280,7 +280,7 @@
 		}
 	}
 	s:STATE_CATALONIA = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = catalan
 				size = 704308
@@ -292,7 +292,7 @@
 		}
 	}
 	s:STATE_BALEARES = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = catalan
 				size = 145244
@@ -304,7 +304,7 @@
 		}
 	}
 	s:STATE_ANDALUSIA = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 1057592
@@ -312,20 +312,16 @@
 		}
 	}
 	s:STATE_GRANADA = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 1218404
 			}
 		}
-		region_state:GBR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 49024
-			}
-			create_pop = {
-				culture = british
-				size = 12336
 			}
 			create_pop = {
 				culture = sephardic
@@ -334,7 +330,7 @@
 		}
 	}
 	s:STATE_BADAJOZ = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 579992
@@ -342,7 +338,7 @@
 		}
 	}
 	s:STATE_VALENCIA = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 989604
@@ -370,7 +366,7 @@
 		}
 	}
 	s:STATE_ALENTEJO = {
-		region_state:POR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = portuguese
 				size = 372508
@@ -604,7 +600,7 @@
 		}
 	}
 	s:STATE_DALMATIA = {
-		region_state:AUS = {
+		region_state:SPR = {
 			create_pop = {
 				culture = croat
 				size = 297796
@@ -620,7 +616,7 @@
 		}
 	}
 	s:STATE_CROATIA = {
-		region_state:AUS = {
+		region_state:SPR = {
 			create_pop = {
 				culture = croat
 				size = 563592
@@ -665,7 +661,7 @@
 		}
 	}
 	s:STATE_ISTRIA = {
-		region_state:AUS = {
+		region_state:SPR = {
 			create_pop = {
 				culture = north_italian
 				size = 197800

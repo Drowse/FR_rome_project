@@ -289,7 +289,7 @@
 		}
 	}
 	s:STATE_MARRAKECH={
-		region_state:MOR={
+		region_state:CAR={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -329,7 +329,7 @@
 		}
 	}
 	s:STATE_FEZ={
-		region_state:MOR={
+		region_state:CAR={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -369,7 +369,7 @@
 		}
 	}
 	s:STATE_AL_RIF={
-		region_state:MOR={
+		region_state:CAR={
 			create_building={
 				building="building_livestock_ranch"
 				level=1
@@ -389,7 +389,7 @@
 				activate_production_methods={ "pm_irregular_infantry" "pm_cannon_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:SPA={
+		region_state:CAR={
 			create_building={
 				building="building_wheat_farm"
 				level=1
@@ -433,7 +433,7 @@
 		}
 	}
 	s:STATE_ALGIERS={
-		region_state:MAS={
+		region_state:CAR={
 			create_building={
 				building="building_fishing_wharf"
 				level=1
@@ -477,7 +477,7 @@
 				activate_production_methods={ "pm_skirmish_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:FRA={
+		region_state:CAR={
 			create_building={
 				building="building_port"
 				level=2
@@ -511,7 +511,7 @@
 		}
 	}
 	s:STATE_CONSTANTINE={
-		region_state:CON={
+		region_state:CAR={
 			create_building={
 				building="building_government_administration"
 				level=2
@@ -537,7 +537,7 @@
 				activate_production_methods={ "pm_irregular_infantry" "pm_cannon_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:AIT={
+		region_state:CAR={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -569,7 +569,7 @@
 				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_merchant_guilds_building_logging_camp" }
 			}
 		}
-		region_state:FRA={
+		region_state:CAR={
 			create_building={
 				building="building_port"
 				level=1
@@ -585,7 +585,7 @@
 		}
 	}
 	s:STATE_ORAN={
-		region_state:MAS={
+		region_state:CAR={
 			create_building={
 				building="building_wheat_farm"
 				level=3
@@ -611,7 +611,7 @@
 				activate_production_methods={ "pm_irregular_infantry" "pm_cannon_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}	
 		}
-		region_state:FRA={
+		region_state:CAR={
 			create_building={
 				building="building_port"
 				level=1
@@ -633,7 +633,7 @@
 		}
 	}
 	s:STATE_TUNISIA={
-		region_state:TUN={
+		region_state:CAR={
 			create_building={
 				building="building_textile_mills"
 				level=1
@@ -679,7 +679,7 @@
 		}
 	}
 	s:STATE_TRIPOLI={
-		region_state:TRI={
+		region_state:CAR={
 			create_building={
 				building="building_fishing_wharf"
 				level=1
@@ -707,7 +707,7 @@
 		}
 	}
 	s:STATE_LIBYA={
-		region_state:TRI={
+		region_state:CAR={
 			create_building={
 				building="building_fishing_wharf"
 				level=1

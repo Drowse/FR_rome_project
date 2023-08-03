@@ -1,6 +1,9 @@
 ﻿l_english:
  SPR:0 "Rome"
  SPR_ADJ:0 "Roman"
+ 
+ CAR:0 "Carthage"
+ CAR_ADJ:0 "Carthaginian"
 
  XNG:0 "Xiongnu Confederation"
  XNG_ADJ:0 "Xiongnu"
