@@ -51,17 +51,17 @@ SPR = { # Rome
 		priority = 1
 	}
 }
-CAR = { # Rome
+CAR = { # Carthage
 	flag_definition = {
 		coa = CAR
 		subject_canton = CAR
 		priority = 1
 	}
 }
-SPR = { # Rome
+GAU = { # Gaul
 	flag_definition = {
-		coa = SPR
-		subject_canton = SPR
+		coa = GAU
+		subject_canton = GAU
 		priority = 1
 	}
 }

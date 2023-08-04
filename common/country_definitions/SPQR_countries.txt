@@ -84,8 +84,83 @@ MSH = { #Mishihase
 	is_named_from_capital = no
 }
 
+SEL = {
+	color = { 40 121 173 }
+
+	tier = empire
+
+	country_type = recognized
+
+	cultures = { greek persian }
+	religion = hellenism
+
+	capital = STATE_ALEPPO
+
+	is_named_from_capital = yes
+}
+
+ARM = {
+	color = { 172  58  52 }
+
+	tier = kingdom
+
+	country_type = recognized
+
+	cultures = { armenian }
+	religion = oriental_orthodox
+
+	capital = STATE_ARMENIA
+
+	is_named_from_capital = yes
+}
+
+PRT = {
+	color = { 102 106 195 }
+
+	tier = empire
+
+	country_type = unrecognized
+
+	cultures = { persian } #should be Scythian
+	religion = zoroastrian
+
+	capital = STATE_TURKMENIA
+
+	is_named_from_capital = yes
+}
+
+IGK = {
+	color = { 143 63 78 }
+
+	tier = kingdom
+
+	country_type = recognized
+
+	cultures = { greek pashtun panjabi }
+	religion = hellenism
+
+	capital = STATE_EASTERN_AFGHANISTAN
+
+	is_named_from_capital = yes
+}
+
+PON = {
+	color = { 275 30 94 }
+
+	tier = kingdom
+
+	country_type = recognized
+
+	cultures = { greek }
+	religion = hellenism
+
+	capital = STATE_TRABZON
+
+	is_named_from_capital = yes
+}
+
 CAR = { #Carthage
-	color = { 14  71  142 }
+	color = { 14 71 142 }
 	
 	tier = kingdom 
 	
@@ -93,6 +168,20 @@ CAR = { #Carthage
 	
 	cultures = { maghrebi } 
 	religion = sunni 
+	
+	capital = STATE_TUNISIA
+	is_named_from_capital = yes
+}
+
+GAU = { #Gaul
+	color = { 94 169 51 }
+	
+	tier = principality 
+	
+	country_type = recognized 
+	
+	cultures = { french } 
+	religion = catholic 
 	
 	capital = STATE_TUNISIA
 	is_named_from_capital = yes
