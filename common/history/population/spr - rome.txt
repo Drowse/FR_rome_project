@@ -17,4 +17,16 @@
 		effect_starting_pop_literacy_very_low = yes
 		
 	}
+	c:AQU = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
+	c:LUS = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
 }

@@ -42,3 +42,23 @@ GAU = {
 		color1 = "red"
 	}
 }
+
+AQU = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "green"
+	}
+}
+
+LUS = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "green"
+	}
+}

@@ -1,9 +1,9 @@
 ﻿SPR = { #Rome
 	color = { 142  0  28 } #RGB color values
 	
-	tier = kingdom #[principality] [decentralized] [kingdom] [empire]
+	tier = kingdom #[principality] [kingdom] [empire]
 	
-	country_type = recognized #[colonial] [unrecognized] [recognized]
+	country_type = recognized #[colonial] [decentralized] [unrecognized] [recognized]
 	
 	cultures = { north_italian south_italian } #need to rework these for classical era cultures
 	religion = catholic #Need to add Classical era religions
@@ -29,7 +29,7 @@ XNG = { #Xiongnu Confederation
 XUA = { #Xuantu Commandery
 	color = { 189  176  18 }
 	
-	tier = decentralized
+	tier = principality
 	
 	country_type = unrecognized
 	
@@ -43,7 +43,7 @@ XUA = { #Xuantu Commandery
 OKJ = { #Okjeo
 	color = { 63 94 199 }
 	
-	tier = decentralized
+	tier = principality
 	
 	country_type = unrecognized
 	
@@ -57,7 +57,7 @@ OKJ = { #Okjeo
 ESH = { #Emishi
 	color = { 129 167 32 }
 	
-	tier = decentralized
+	tier = principality
 	
 	country_type = unrecognized
 	
@@ -71,7 +71,7 @@ ESH = { #Emishi
 MSH = { #Mishihase
 	color = { 48 135 30 }
 
-	tier = decentralized
+	tier = principality
 
 	country_type = unrecognized
 
@@ -178,11 +178,36 @@ GAU = { #Gaul
 	
 	tier = principality 
 	
-	country_type = recognized 
+	country_type = unrecognized 
 	
-	cultures = { french } 
+	cultures = { french occitan } 
 	religion = catholic 
 	
 	capital = STATE_TUNISIA
 	is_named_from_capital = yes
+}
+
+AQU = { #Aquitani
+	color = { 0 155 72 }
+	
+	tier = principality 
+	
+	country_type = decentralized 
+	
+	cultures = { basque occitan } 
+	religion = catholic 
+	
+	capital = STATE_AQUITAINE
+	is_named_from_capital = yes
+}
+
+LUS = {
+	color = { 98 158 154 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { portuguese }
+	capital = STATE_ESTREMADURA
 }

@@ -248,7 +248,7 @@
 		}
 	}
 	s:STATE_NAVARRA = {
-		region_state:SPA = {
+		region_state:AQU = {
 			create_pop = {
 				culture = spanish
 				size = 579200
@@ -350,7 +350,7 @@
 		}
 	}
 	s:STATE_BEIRA = {
-		region_state:POR = {
+		region_state:LUS = {
 			create_pop = {
 				culture = portuguese
 				size = 1620800
@@ -358,7 +358,7 @@
 		}
 	}
 	s:STATE_ESTREMADURA = {
-		region_state:POR = {
+		region_state:LUS = {
 			create_pop = {
 				culture = portuguese
 				size = 860796

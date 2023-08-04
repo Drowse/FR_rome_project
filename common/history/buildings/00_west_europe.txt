@@ -2118,7 +2118,7 @@
 		}
 	}
 	s:STATE_AQUITAINE={
-		region_state:FRA={
+		region_state:AQU={
 			create_building={
 				building="building_government_administration"
 				level=3

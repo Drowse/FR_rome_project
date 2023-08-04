@@ -854,7 +854,7 @@
 		}
 	}
 	s:STATE_AQUITAINE = {
-		region_state:FRA = {
+		region_state:AQU = {
 			create_pop = {
 				culture = occitan
 				size = 1703916

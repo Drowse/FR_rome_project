@@ -1004,7 +1004,7 @@
 		}
 	}
 	s:STATE_NAVARRA={
-		region_state:SPA={
+		region_state:AQU={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -1344,7 +1344,7 @@
 		}
 	}
 	s:STATE_BEIRA={
-		region_state:POR={
+		region_state:LUS={
 			create_building={
 				building="building_government_administration"
 				level=2
@@ -1402,7 +1402,7 @@
 		}
 	}
 	s:STATE_ESTREMADURA={
-		region_state:POR={
+		region_state:LUS={
 			create_building={
 				building="building_government_administration"
 				level=4
