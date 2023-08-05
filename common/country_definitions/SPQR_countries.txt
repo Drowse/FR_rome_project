@@ -54,7 +54,7 @@ OKJ = { #Okjeo
 	is_named_from_capital = yes
 }
 
-ESH = { #Emishi
+ESH = { #Emishi, North Honshu
 	color = { 129 167 32 }
 	
 	tier = principality
@@ -68,7 +68,7 @@ ESH = { #Emishi
 	is_named_from_capital = yes
 }
 
-MSH = { #Mishihase
+MSH = { #Mishihase, North Honshu
 	color = { 48 135 30 }
 
 	tier = principality
@@ -84,7 +84,7 @@ MSH = { #Mishihase
 	is_named_from_capital = no
 }
 
-SEL = {
+SEL = { #Selucids
 	color = { 40 121 173 }
 
 	tier = empire
@@ -99,7 +99,7 @@ SEL = {
 	is_named_from_capital = yes
 }
 
-ARM = {
+ARM = { #Armenia, obviously
 	color = { 172  58  52 }
 
 	tier = kingdom
@@ -114,7 +114,7 @@ ARM = {
 	is_named_from_capital = yes
 }
 
-PRT = {
+PRT = { #Parthia
 	color = { 102 106 195 }
 
 	tier = empire
@@ -129,7 +129,7 @@ PRT = {
 	is_named_from_capital = yes
 }
 
-IGK = {
+IGK = { #Indo-Greek Kingdom
 	color = { 143 63 78 }
 
 	tier = kingdom
@@ -144,7 +144,7 @@ IGK = {
 	is_named_from_capital = yes
 }
 
-PON = {
+PON = { #Pontus
 	color = { 275 30 94 }
 
 	tier = kingdom
@@ -201,7 +201,7 @@ AQU = { #Aquitani
 	is_named_from_capital = yes
 }
 
-LUS = {
+LUS = { #Lusitani
 	color = { 98 158 154 }
 	
 	country_type = decentralized
@@ -210,4 +210,20 @@ LUS = {
 	
 	cultures = { portuguese }
 	capital = STATE_ESTREMADURA
+}
+
+GRE = { #Greece, Antigonids at start
+	color = { 80 126 165 }
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = {
+		greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_WESTERN_THRACE
 }

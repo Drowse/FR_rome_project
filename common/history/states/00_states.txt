@@ -1057,12 +1057,11 @@ STATES = {
 	}
 	s:STATE_IONIAN_ISLANDS = {
 		create_state = {
-			country = c:ION
+			country = c:GRE
 			owned_provinces = { x4B79CA x405060 }
 		}	
 		
 		add_homeland = greek
-		add_claim = c:GRE
 	}
 	s:STATE_PELOPONNESE = {
 		create_state = {
@@ -1074,7 +1073,7 @@ STATES = {
 	}
 	s:STATE_ALBANIA = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { x7BE071 xC42EC6 x71C0E0 xD0A061 x5A148F xC771E0 x51A061 x68131C xB77F92 }
 		}
 		
@@ -4008,7 +4007,7 @@ STATES = {
 	}
 	s:STATE_SKOPIA = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { x11E0A0 x7CF777 x419E6F x800FE7 x596DE2 x494421 xE0118B }
 		}
 		
@@ -4019,7 +4018,7 @@ STATES = {
 	}
 	s:STATE_MACEDONIA = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { x90E0A0 x01D060 x75CAD1 xBA7B5B x506020 x70A0E0 xE48F39 xD2619E x021374 }
 		}
 		
@@ -4028,16 +4027,15 @@ STATES = {
 	}
 	s:STATE_THESSALIA = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { xACFFA7 x80D060 xE6E868 x01D0E0 x8050E0 x18C9AD }
 		}
 		
 		add_homeland = greek
-		add_claim = c:GRE
 	}
 	s:STATE_WESTERN_THRACE = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { xBE51B7 x6181D2 xF02020 x0261AB xEDECFB x702020 xB2249C }
 		}
 		
@@ -4047,7 +4045,7 @@ STATES = {
 	}
 	s:STATE_NORTHERN_THRACE = {
 		create_state = {
-			country = c:TUR
+			country = c:GRE
 			owned_provinces = { x95BCE8 xF0A0E0 xC7D441 xF021A0 x6E7192 x9D0D6C x15CDCD x455522 xAF56D0 x7121A0 x0DE556 }
 		}
 		

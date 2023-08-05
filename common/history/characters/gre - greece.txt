@@ -1,0 +1,17 @@
+CHARACTERS = {
+	c:GRE = {
+		create_character = {
+			is_general = yes
+			first_name = "Alexander"
+			last_name = "Antigonid"
+			historical = no
+			ruler = yes
+			birth_date = 576.1.1
+			interest_group = ig_landowners
+			ideology = ideology_jingoist
+			traits = {
+				
+			}
+		}
+	}
+}
