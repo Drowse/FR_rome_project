@@ -211,7 +211,7 @@
 	}
 	s:STATE_GALICIA = {
 		# 840792
-		region_state:SPA = {
+		region_state:GLI = {
 			create_pop = {
 				culture = galician
 				size = 828528
@@ -224,7 +224,7 @@
 	}
 	s:STATE_ASTURIAS = {
 		# please don't ask for a source
-		region_state:SPA = {
+		region_state:CNT = {
 			create_pop = {
 				culture = spanish
 				size = 614264
@@ -236,7 +236,7 @@
 		}	
 	}
 	s:STATE_CASTILE = {
-		region_state:SPA = {
+		region_state:VAC = {
 			create_pop = {
 				culture = spanish
 				size = 1430808
@@ -400,7 +400,7 @@
 	}
 
 	s:STATE_CANARY_ISLANDS = {
-		region_state:SPA = {
+		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 208004
@@ -409,7 +409,7 @@
 	}
 
 	s:STATE_AZORES = {
-		region_state:POR = {
+		region_state:CAR = {
 			create_pop = {
 				culture = portuguese
 				size = 103532

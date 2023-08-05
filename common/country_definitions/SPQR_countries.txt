@@ -212,6 +212,39 @@ LUS = { #Lusitani
 	capital = STATE_ESTREMADURA
 }
 
+VAC = { #Vaccaei
+	color = { 219 194 125 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { spanish }
+	capital = STATE_CASTILE
+}
+
+GLI = { #Gallaeci
+	color = { 125 243 255 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { galician }
+	capital = STATE_GALICIA
+}
+
+CNT = { #Cantabri
+	color = { 0 128 255 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { spanish }
+	capital = STATE_ASTURIAS
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 

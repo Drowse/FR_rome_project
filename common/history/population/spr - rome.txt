@@ -29,4 +29,22 @@
 		effect_starting_pop_literacy_very_low = yes
 		
 	}
+	c:VAC = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
+	c:GLI = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
+	c:CNT = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
 }

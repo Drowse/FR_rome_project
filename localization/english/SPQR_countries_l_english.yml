@@ -50,5 +50,14 @@
  LUS:0 "Lusitania"
  LUS_ADJ:0 "Lusitanians"
 
+ VAC:0 "Vaccaei"
+ VAC_ADJ:0 "Vaccaei"
+ 
+ GLI:0 "Gallaeci"
+ GLI_ADJ:0 "Gallaecian"
+ 
+ CNT:0 "Cantabri"
+ CNT_ADJ:0 "Cantabrian"
+
  GRE:0 "Antigonid Kingdom"
  GRE_ADJ:0 "Antigonid"

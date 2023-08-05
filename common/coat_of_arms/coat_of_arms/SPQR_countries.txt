@@ -49,7 +49,7 @@ AQU = {
 
 	colored_emblem = {
 		texture = "ce_cross_celtic.dds"
-		color1 = "green"
+		color1 = "light_green"
 	}
 }
 
@@ -59,6 +59,36 @@ LUS = {
 
 	colored_emblem = {
 		texture = "ce_cross_celtic.dds"
-		color1 = "green"
+		color1 = "green_light"
+	}
+}
+
+VAC = {
+	pattern = "pattern_solid.tga"
+	color1 = "brown_light"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "red"
+	}
+}
+
+GLI = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_bend_dexter.dds"
+		color1 = "blue_light"
+	}
+}
+
+CNT = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "yellow"
 	}
 }

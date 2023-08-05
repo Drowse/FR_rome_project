@@ -1,6 +1,6 @@
 ﻿NGame = {
-	START_DATE = "654.1.1" # Drowse
-	END_DATE = "754.1.1" # Drowse
+	START_DATE = "654.1.1" # Drowse -- Julious Ceaser's Birth year 100bc
+	END_DATE = "822.1.1" # Drowse --  Year following Nero's Death, end of the Ceaser Dynasty 69ad
 	SAVE_VERSION = 0
 	MP_LAG_TICKS_BOUNDS = 28 # Host will advance up to a week ahead of players ( 7 * 4 )
 	DEAD_OBJ_UNDESTROYED_DAYS = 22	# number of days "killed"/removed objects will persist in memory before ultimately destroyed as they are referenced by events etc. Needs to be bigger than MESSAGE_FEED_NUMBER_OF_DAYS_SHOWN in order to not risk notifications regarding dead people etc returning null_objs.

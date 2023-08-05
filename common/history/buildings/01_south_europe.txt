@@ -878,7 +878,7 @@
 		}
 	}
 	s:STATE_GALICIA={
-		region_state:SPA={
+		region_state:GLI={
 			create_building={
 				building="building_naval_base"
 				level=10
@@ -918,7 +918,7 @@
 		}
 	}
 	s:STATE_ASTURIAS={
-		region_state:SPA={
+		region_state:CNT={
 			create_building={
 				building="building_naval_base"
 				level=5
@@ -958,7 +958,7 @@
 		}
 	}
 	s:STATE_CASTILE={
-		region_state:SPA={
+		region_state:VAC={
 			create_building={
 				building="building_government_administration"
 				level=2
