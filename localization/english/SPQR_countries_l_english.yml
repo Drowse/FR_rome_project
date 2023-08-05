@@ -58,6 +58,12 @@
  
  CNT:0 "Cantabri"
  CNT_ADJ:0 "Cantabrian"
+ 
+ CTU:0 "Catuvellauni"
+ CTU_ADJ:0 "Catuvellauni"
+ 
+ DUM:0 "Dumnonii"
+ DUM_ADJ:0 "Dumnonii"
 
  GRE:0 "Antigonid Kingdom"
  GRE_ADJ:0 "Antigonid"

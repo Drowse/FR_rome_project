@@ -47,4 +47,16 @@
 		effect_starting_pop_literacy_very_low = yes
 		
 	}
+	c:DAM = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
+	c:CTU = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+		
+	}
 }

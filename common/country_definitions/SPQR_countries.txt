@@ -245,6 +245,28 @@ CNT = { #Cantabri
 	capital = STATE_ASTURIAS
 }
 
+DUM = { #Dumnonii
+	color = { 255 255 0 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_WEST_COUNTRY
+}
+
+CTU = { #Catuvellauni
+	color = { 128 128 255 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_EAST_ANGLIA
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 

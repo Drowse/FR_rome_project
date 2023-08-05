@@ -227,7 +227,7 @@
 		}
 	}
 	s:STATE_HOME_COUNTIES = {
-		region_state:GBR = {
+		region_state:BEL = {
 			create_pop = {
 				culture = british
 				size = 2657596
@@ -325,7 +325,7 @@
 		}
 	}
 	s:STATE_EAST_ANGLIA = {
-		region_state:GBR = {
+		region_state:CTU = {
 			create_pop = {
 				culture = british
 				size = 1565208
@@ -338,7 +338,7 @@
 		}
 	}
 	s:STATE_WEST_COUNTRY = {
-		region_state:GBR = {
+		region_state:DUM = {
 			create_pop = {
 				culture = british
 				size = 1969600
