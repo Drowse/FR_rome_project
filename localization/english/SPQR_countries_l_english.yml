@@ -62,8 +62,35 @@
  CTU:0 "Catuvellauni"
  CTU_ADJ:0 "Catuvellauni"
  
+ CRT:0 "Corieltauvi"
+ CRT_ADJ:0 "Corieltauvi"
+ 
+ BRG:0 "Brigantes"
+ BRG_ADJ:0 "Brigantes"
+ 
+ ORD:0 "Ordovices"
+ ORD_ADJ:0 "Ordovices"
+ 
+ VOT:0 "Votadini"
+ VOT_ADJ:0 "Votadini"
+ 
+ CLD:0 "Caledonia"
+ CLD_ADJ:0 "Caledonian"
+ 
+ ROB:0 "Robogdii"
+ ROB_ADJ:0 "Robogdii"
+ 
  DUM:0 "Dumnonii"
  DUM_ADJ:0 "Dumnonii"
+ 
+ EBL:0 "Eblani"
+ EBL_ADJ:0 "Eblani"
+ 
+ NGT:0 "Nagnatae"
+ NGT_ADJ:0 "Nagnatae"
+ 
+ IVE:0 "Iverni"
+ IVE_ADJ:0 "Iverni"
 
  GRE:0 "Antigonid Kingdom"
  GRE_ADJ:0 "Antigonid"

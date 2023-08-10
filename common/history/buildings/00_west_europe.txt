@@ -668,7 +668,7 @@
 		}
 	}
 	s:STATE_LANCASHIRE={
-		region_state:GBR={
+		region_state:BRG={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -756,7 +756,7 @@
 		}
 	}
 	s:STATE_WALES={
-		region_state:GBR={
+		region_state:ORD={
 			create_building={
 				building="building_paper_mills"
 				level=5
@@ -802,7 +802,7 @@
 		}
 	}
 	s:STATE_YORKSHIRE={
-		region_state:GBR={
+		region_state:BRG={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -890,7 +890,7 @@
 		}
 	}
 	s:STATE_HIGHLANDS={
-		region_state:GBR={
+		region_state:CLD={
 			create_building={
 				building="building_barracks"
 				level=5
@@ -918,7 +918,7 @@
 		}
 	}
 	s:STATE_MIDLANDS={
-		region_state:GBR={
+		region_state:CRT={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -1158,7 +1158,7 @@
 		}
 	}
 	s:STATE_LOWLANDS={
-		region_state:GBR={
+		region_state:VOT={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -1240,7 +1240,7 @@
 		}
 	}
 	s:STATE_ULSTER={
-		region_state:GBR={
+		region_state:ROB={
 			create_building={
 				building="building_livestock_ranch"
 				level=2
@@ -1274,7 +1274,7 @@
 		}
 	}
 	s:STATE_MUNSTER={
-		region_state:GBR={
+		region_state:IVE={
 			create_building={
 				building="building_rye_farm"
 				level=3
@@ -1302,7 +1302,7 @@
 		}
 	}
 	s:STATE_LEINSTER={
-		region_state:GBR={
+		region_state:EBL={
 			create_building={
 				building="building_university"
 				level=1
@@ -1348,7 +1348,7 @@
 		}
 	}
 	s:STATE_CONNAUGHT={
-		region_state:GBR={
+		region_state:NGT={
 			create_building={
 				building="building_rye_farm"
 				level=2

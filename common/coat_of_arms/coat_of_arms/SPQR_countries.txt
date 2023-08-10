@@ -18,7 +18,7 @@ SPR = {
 	color1 = "red"
 
 	colored_emblem = {
-		texture = "ce_bicolor_right.dds"
+		texture = "ce_wreath.dds"
 		color1 = "yellow"
 	}
 }
@@ -28,8 +28,8 @@ CAR = {
 	color1 = "blue"
 
 	colored_emblem = {
-		texture = "ce_bicolor_right.dds"
-		color1 = "red"
+		texture = "ce_crescent_pale.dds"
+		color1 = "yellow"
 	}
 }
 
@@ -104,6 +104,17 @@ DUM = {
 	}
 }
 
+ORD = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "white"
+	color2 = "green_light"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "red"
+	}
+}
+
 CTU = {
 	pattern = "pattern_solid.tga"
 	color1 = "white"
@@ -112,5 +123,86 @@ CTU = {
 		texture = "ce_cross_celtic.dds"
 		color1 = "red"
 		color2 = "yellow"
+	}
+}
+
+CRT = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "yellow"
+	}
+}
+
+BRG = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_stripes_08.dds"
+		color1 = "red"
+	}
+}
+
+VOT = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "blue"
+	}
+}
+
+CLD = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_cross_celtic.dds"
+		color1 = "red"
+	}
+}
+
+ROB = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_deer_supporter.dds"
+		color1 = "red"
+	}
+}
+
+EBL = {
+	pattern = "pattern_solid.tga"
+	color1 = "green_dark"
+
+	colored_emblem = {
+		texture = "ce_deer_supporter.dds"
+		color1 = "yellow"
+	}
+}
+
+NGT = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_deer_supporter.dds"
+		color1 = "blue"
+	}
+}
+
+IVE = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_crown_oudh.dds"
+		color1 = "yellow"
+		color2 = "blue"
 	}
 }

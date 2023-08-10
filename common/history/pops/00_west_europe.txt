@@ -249,7 +249,7 @@
 		}
 	}
 	s:STATE_LANCASHIRE = {
-		region_state:GBR = {
+		region_state:BRG = {
 			create_pop = {
 				culture = british
 				size = 1986404
@@ -266,7 +266,7 @@
 		}
 	}
 	s:STATE_WALES = {
-		region_state:GBR = {
+		region_state:ORD = {
 			create_pop = {
 				culture = welsh
 				size = 778557
@@ -278,7 +278,7 @@
 		}
 	}
 	s:STATE_YORKSHIRE = {
-		region_state:GBR = {
+		region_state:BRG = {
 			create_pop = {
 				culture = british
 				size = 2026592
@@ -295,7 +295,7 @@
 		}
 	}
 	s:STATE_HIGHLANDS = {
-		region_state:GBR = {
+		region_state:CLD = {
 			create_pop = {
 				culture = scottish
 				size = 672396
@@ -308,7 +308,7 @@
 		}
 	}
 	s:STATE_MIDLANDS = {
-		region_state:GBR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = british
 				size = 2543604
@@ -355,7 +355,7 @@
 		}
 	}
 	s:STATE_LOWLANDS = {
-		region_state:GBR = {
+		region_state:VOT = {
 			create_pop = {
 				culture = scottish
 				size = 1397200
@@ -372,7 +372,7 @@
 		}
 	}
 	s:STATE_ULSTER = {
-		region_state:GBR = {
+		region_state:ROB = {
 			create_pop = {
 				culture = irish # Catholics
 				size = 1183122
@@ -398,7 +398,7 @@
 		}
 	}
 	s:STATE_MUNSTER = {
-		region_state:GBR = {
+		region_state:IVE = {
 			create_pop = {
 				culture = irish # Catholics
 				size = 2214388
@@ -424,7 +424,7 @@
 		}
 	}
 	s:STATE_LEINSTER = {
-		region_state:GBR = {
+		region_state:EBL = {
 			create_pop = {
 				culture = irish # Catholics
 				size = 1677581
@@ -459,7 +459,7 @@
 		}
 	}
 	s:STATE_CONNAUGHT = {
-		region_state:GBR = {
+		region_state:NGT = {
 			create_pop = {
 				culture = irish # Catholics
 				size = 1319428

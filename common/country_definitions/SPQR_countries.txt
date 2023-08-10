@@ -267,6 +267,105 @@ CTU = { #Catuvellauni
 	capital = STATE_EAST_ANGLIA
 }
 
+CRT = { #Corieltauvi
+	color = { 15 57 139 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_MIDLANDS
+}
+
+BRG = { #Brigantes
+	color = { 255 232 0 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_LANCASHIRE
+}
+
+ORD = { #Ordovices
+	color = { 0 174 88 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_LANCASHIRE
+}
+
+VOT = { #Votadini
+	color = { 186 212 222 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_LANCASHIRE
+}
+
+CLD = { #Caledonia
+	color = { 245 224 91 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { british }
+	capital = STATE_LANCASHIRE
+}
+
+ROB = { #Robogdii
+	color = { 194 158 39 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { irish }
+	capital = STATE_ULSTER
+}
+
+EBL = { #Eblani
+	color = { 55 130 40 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { irish }
+	capital = STATE_LEINSTER
+}
+
+NGT = { #Nagnatae
+	color = { 149 174 207 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { irish }
+	capital = STATE_CONNAUGHT
+}
+
+IVE = { #Iverni
+	color = { 16 32 64 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { irish }
+	capital = STATE_MUNSTER
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 
