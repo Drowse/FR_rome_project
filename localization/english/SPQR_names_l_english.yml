@@ -6,9 +6,33 @@
  Marius:0 "Marius"
 
   #XNG - Xiongnu
+  Qiedihou:0 "Qiedihou"
   Qiedi:0 "Qiedi"
-  Zhao:0 "Zhao"
-  Yuan:0 "Yuan"
-  Liao:0 "Liao"
-  Jiyu:0 "Jiyu"
-  Wushilu:0 "Wushilu"
+
+  #GRE - Greece
+  Alexander:0 "Alexander"
+  Antigonid:0 "Antigonid"
+
+  #ARM - Armenia
+  Tigranes:0 "Tigranes"
+  Artaxiad:0 "Artaxiad"
+
+  #CHI - China
+  Han:0 "Han"
+  Wu:0 "Wu"
+
+  #IGK - Indo-Greek Kingdom
+  Hermaeus:0 "Hermaeus"
+  Eucratid:0 "Eucratid"
+
+  #PON - Pontus
+  Mithradates:0 "Mithradates"
+  Eupator:0 "Eupator"
+
+  #PRT - Parthia
+  Mithradates:0 "Mithradates"
+  Arsacid:0 "Arsacid"
+
+  #SEL - Selucids
+  Antiochus:0 "Antiochus"
+  Grypus:0 "Grypus"

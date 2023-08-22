@@ -1,0 +1,34 @@
+﻿#Example
+#
+#CYR = {
+#	dynamic_country_name = {
+#		name = dyn_CYR_empire # This can be left empty, and then default tag name will be used
+#		adjective = dyn_CYR_empire_adj # This can be left empty, and then default tag adjective will be used
+#
+#		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+#		priority = 0 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+#		
+#		trigger = { # Scripted trigger, country-scope
+#			coa_def_monarchy_flag_trigger = yes
+#			scope:actor = {
+#				owns_entire_state_region = STATE_TUNISIA
+#			}
+#		}
+#	}	
+#}
+
+ACH = {
+	dynamic_country_name = {
+		name = dyn_ACH_league
+		adjective = dyn_ACH_league_adj
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			c:ACH = {
+				has_journal_entry = je_ach_league_stability
+			}
+		}
+	}
+}

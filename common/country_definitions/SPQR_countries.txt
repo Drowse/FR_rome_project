@@ -399,7 +399,7 @@ SRM = { #Sarmatians
 	capital = STATE_LUHANSK
 }
 
-GRE = { #Greece, Antigonids at start
+GRE = { #Macedonia
 	color = { 80 126 165 }
 
 	country_type = recognized
@@ -413,4 +413,52 @@ GRE = { #Greece, Antigonids at start
 	religion = hellenism
 
 	capital = STATE_WESTERN_THRACE
+}
+
+ACH = { #Achaea
+	color = { 125 91 110 }
+
+	country_type = recognized
+
+	tier = principality
+
+	religion = hellenism
+
+	capital = STATE_PELOPONNESE
+}
+
+DRD = { #Dardania
+	color = { 205 96 75 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	religion = hellenism
+
+	capital = STATE_SOUTHERN_SERBIA
+}
+
+ILL = { #Illyria
+	color = { 176 176 111 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	religion = hellenism
+
+	capital = STATE_SOUTHERN_SERBIA
+}
+
+ARE = { #Autariatae
+	color = { 45 84 173 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	religion = hellenism
+
+	capital = STATE_BOSNIA
 }

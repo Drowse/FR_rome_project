@@ -101,5 +101,17 @@
  SRM:0 "Sarmatians"
  SRM_ADJ:0 "Sarmatians"
 
- GRE:0 "Antigonid Kingdom"
- GRE_ADJ:0 "Antigonid"
+ GRE:0 "Macedonia"
+ GRE_ADJ:0 "Macedonian"
+
+ ACH:0 "Achaea"
+ ACH_ADJ:0 "Achaean"
+
+ DRD:0 "Dardania"
+ DRD_ADJ:0 "Dardanian"
+
+ ILL:0 "Illyria"
+ ILL_ADJ:0 "Illyrian"
+
+ ARE:0 "Autariatae"
+ ARE_ADJ:0 "Autariataen"
