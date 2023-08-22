@@ -79,7 +79,7 @@
 		}
 	}
 	s:STATE_VOLHYNIA = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = polish
 				size = 140004
@@ -99,7 +99,7 @@
 		}
 	}
 	s:STATE_KIEV = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = ukrainian
 				size = 3923992
@@ -119,7 +119,7 @@
 		}
 	}
 	s:STATE_BRYANSK = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = russian
 				size = 2670100
@@ -224,7 +224,7 @@
 		}
 	}
 	s:STATE_CRIMEA = {
-		region_state:RUS = {
+		region_state:PON = {
 			create_pop = {
 				culture = tatar
 				size = 158400
@@ -252,7 +252,7 @@
 		}
 	}
 	s:STATE_LUHANSK = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = ukrainian
 				size = 1914584
@@ -280,7 +280,7 @@
 		}
 	}
 	s:STATE_KURSK = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = russian
 				size = 2295600
@@ -309,7 +309,7 @@
 		}
 	}
 	s:STATE_CHERSON = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = ukrainian
 				size = 986108
@@ -394,7 +394,7 @@
 		}
 	}
 	s:STATE_ROSTOV = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = ukrainian
 				size = 356600

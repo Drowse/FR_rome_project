@@ -91,6 +91,15 @@
  
  IVE:0 "Iverni"
  IVE_ADJ:0 "Iverni"
+ 
+ HEL:0 "Helvetti"
+ HEL_ADJ:0 "Helvetti"
+ 
+ RAE:0 "Raeti"
+ RAE_ADJ:0 "Raeti"
+ 
+ SRM:0 "Sarmatians"
+ SRM_ADJ:0 "Sarmatians"
 
  GRE:0 "Antigonid Kingdom"
  GRE_ADJ:0 "Antigonid"

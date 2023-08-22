@@ -113,4 +113,16 @@
 		effect_starting_pop_literacy_baseline = yes
 		
 	}
+	c:HEL = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:RAE = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
 }

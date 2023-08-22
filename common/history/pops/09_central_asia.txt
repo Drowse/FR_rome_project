@@ -32,7 +32,7 @@
 		}
 	}
 	s:STATE_KUBAN = {
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = circassian
 				size = 328804

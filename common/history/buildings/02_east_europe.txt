@@ -130,7 +130,7 @@
 		}
 	}
 	s:STATE_VOLHYNIA={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_logging_camp"
 				level=6
@@ -152,7 +152,7 @@
 		}
 	}
 	s:STATE_KIEV={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_government_administration"
 				level=10
@@ -370,7 +370,7 @@
 		}
 	}
 	s:STATE_LUHANSK={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_livestock_ranch"
 				level=10
@@ -398,7 +398,7 @@
 		}
 	}
 	s:STATE_KURSK={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_rye_farm"
 				level=3
@@ -442,7 +442,7 @@
 		}
 	}
 	s:STATE_CHERSON={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_shipyards"
 				level=4
@@ -532,7 +532,7 @@
 		}
 	}
 	s:STATE_ROSTOV={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_livestock_ranch"
 				level=1

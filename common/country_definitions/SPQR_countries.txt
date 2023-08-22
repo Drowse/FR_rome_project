@@ -183,7 +183,7 @@ GAU = { #Gaul
 	cultures = { french occitan } 
 	religion = catholic 
 	
-	capital = STATE_TUNISIA
+	capital = STATE_RHONE
 	is_named_from_capital = yes
 }
 
@@ -364,6 +364,39 @@ IVE = { #Iverni
 	
 	cultures = { irish }
 	capital = STATE_MUNSTER
+}
+
+HEL = { #Helvetti
+	color = { 255 0 0 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { alemannic francoprovencal }
+	capital = STATE_WEST_SWITZERLAND
+}
+
+RAE = { #Raeti
+	color = { 250 200 15 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { south_german }
+	capital = STATE_TYROL
+}
+
+SRM = { #Sarmatians
+	color = { 150 200 15 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { ukrainian }
+	capital = STATE_LUHANSK
 }
 
 GRE = { #Greece, Antigonids at start

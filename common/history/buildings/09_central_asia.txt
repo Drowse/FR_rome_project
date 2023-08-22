@@ -40,7 +40,7 @@
 		}
 	}
 	s:STATE_KUBAN={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_wheat_farm"
 				level=1
@@ -226,7 +226,7 @@
 		}
 	}
 	s:STATE_ASTRAKHAN={
-		region_state:RUS={
+		region_state:SRM={
 			create_building={
 				building="building_livestock_ranch"
 				level=1

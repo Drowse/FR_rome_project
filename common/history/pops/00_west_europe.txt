@@ -584,6 +584,8 @@
 				religion = protestant
 				size = 7736
 			}
+		}
+		region_state:GAU = {
 			create_pop = {
 				culture = occitan
 				size = 711985
@@ -600,7 +602,7 @@
 			create_pop = {
 				culture = ashkenazi
 				size = 889
-			}
+			}		
 		}
 	}
 	s:STATE_FRENCH_LOW_COUNTRIES = {
@@ -1123,7 +1125,7 @@
 		}
 	}
 	s:STATE_STYRIA = {
-		region_state:AUS = {
+		region_state:RAE = {
 			create_pop = {
 				culture = south_german
 				size = 664796
@@ -1135,7 +1137,7 @@
 		}
 	}
 	s:STATE_TYROL = {
-		region_state:AUS = {
+		region_state:RAE = {
 			create_pop = {
 				culture = south_german
 				size = 429286
@@ -1211,7 +1213,7 @@
 		}
 	}
 	s:STATE_EAST_SWITZERLAND = {
-		region_state:SWI = {
+		region_state:HEL = {
 			# 895200 total
 			# 43.3% Protestant, 56.7% Catholic
 
@@ -1237,7 +1239,7 @@
 		}
 	}
 	s:STATE_WEST_SWITZERLAND = {
-		region_state:GAU = {
+		region_state:HEL = {
 			# 1070964 total
 			# 31.4% Catholic, 68.6% Protestant
 

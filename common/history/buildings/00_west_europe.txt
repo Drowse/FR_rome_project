@@ -1598,7 +1598,7 @@
 		}
 	}
 	s:STATE_RHONE={
-		region_state:SPR={
+		region_state:GAU={
 			create_building={
 				building="building_construction_sector"
 				level=2
@@ -1629,6 +1629,8 @@
 				reserves=1
 				activate_production_methods={ "pm_muskets" "pm_merchant_guilds_building_arms_industry" "pm_cannons" }
 			}
+		}
+		region_state:SPR={			
 			create_building={
 				building="building_logging_camp"
 				level=4
@@ -2724,7 +2726,7 @@
 		}
 	}
 	s:STATE_STYRIA={
-		region_state:AUS={
+		region_state:RAE={
 			create_building={
 				building="building_iron_mine"
 				level=3
@@ -2758,7 +2760,7 @@
 		}
 	}
 	s:STATE_TYROL={
-		region_state:AUS={
+		region_state:RAE={
 			create_building={
 				building="building_iron_mine"
 				level=2
@@ -2904,7 +2906,7 @@
 		}
 	}
 	s:STATE_EAST_SWITZERLAND={
-		region_state:SWI={
+		region_state:HEL={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -2950,7 +2952,7 @@
 		}
 	}
 	s:STATE_WEST_SWITZERLAND={
-		region_state:GAU={
+		region_state:HEL={
 			create_building={
 				building="building_government_administration"
 				level=2
