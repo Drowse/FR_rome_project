@@ -1,6 +1,6 @@
 ﻿POPS = {
 	s:STATE_INGRIA = {
-		region_state:RUS = {
+		region_state:FIN = {
 			create_pop = {
 				culture = russian
 				size = 858808
@@ -45,7 +45,7 @@
 		}
 	}
 	s:STATE_BREST = {
-		region_state:RUS = {
+		region_state:VNT = {
 			create_pop = {
 				culture = polish
 				size = 143992
@@ -119,7 +119,7 @@
 		}
 	}
 	s:STATE_BRYANSK = {
-		region_state:SRM = {
+		region_state:VNT = {
 			create_pop = {
 				culture = russian
 				size = 2670100
@@ -139,7 +139,7 @@
 		}
 	}
 	s:STATE_SMOLENSK = {
-		region_state:RUS = {
+		region_state:VNT = {
 			create_pop = {
 				culture = russian
 				size = 1281596
@@ -156,7 +156,7 @@
 		}
 	}
 	s:STATE_ORSHA = {
-		region_state:RUS = {
+		region_state:VNT = {
 			create_pop = {
 				culture = russian
 				size = 88400
@@ -180,7 +180,7 @@
 		}
 	}
 	s:STATE_EAST_KARELIA = {
-		region_state:RUS = {
+		region_state:FIN = {
 			create_pop = {
 				culture = russian
 				size = 102996
@@ -198,7 +198,7 @@
 		}
 	}
 	s:STATE_ARKHANGELSK = {
-		region_state:RUS = {
+		region_state:FIN = {
 			create_pop = {
 				culture = russian
 				size = 144388
@@ -211,7 +211,7 @@
 		}
 	}
 	s:STATE_TVER = {
-		region_state:RUS = {
+		region_state:FIN = {
 			create_pop = {
 				culture = russian
 				size = 2339596
@@ -292,7 +292,7 @@
 		}
 	}
 	s:STATE_NOVGOROD = {
-		region_state:RUS = {
+		region_state:FIN = {
 			create_pop = {
 				culture = russian
 				size = 802804
@@ -366,7 +366,7 @@
 		}
 	}
 	s:STATE_MINSK = {
-		region_state:RUS = {
+		region_state:VNT = {
 			create_pop = {
 				culture = polish
 				size = 139932

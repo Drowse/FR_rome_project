@@ -1,6 +1,6 @@
 ﻿﻿BUILDINGS={
 	s:STATE_INGRIA={
-		region_state:RUS={
+		region_state:FIN={
 			create_building={
 				building="building_government_administration"
 				level=10
@@ -108,7 +108,7 @@
 		}
 	}
 	s:STATE_BREST={
-		region_state:RUS={
+		region_state:VNT={
 			create_building={
 				building="building_barracks"
 				level=10
@@ -192,7 +192,7 @@
 		}
 	}
 	s:STATE_BRYANSK={
-		region_state:RUS={
+		region_state:VNT={
 			create_building={
 				building="building_textile_mills"
 				level=2
@@ -226,7 +226,7 @@
 		}
 	}
 	s:STATE_SMOLENSK={
-		region_state:RUS={
+		region_state:VNT={
 			create_building={
 				building="building_food_industry"
 				level=3
@@ -254,7 +254,7 @@
 		}
 	}
 	s:STATE_ORSHA={
-		region_state:RUS={
+		region_state:VNT={
 			create_building={
 				building="building_paper_mills"
 				level=3
@@ -282,7 +282,7 @@
 		}
 	}
 	s:STATE_EAST_KARELIA={
-		region_state:RUS={
+		region_state:FIN={
 			create_building={
 				building="building_logging_camp"
 				level=1
@@ -298,7 +298,7 @@
 		}
 	}
 	s:STATE_ARKHANGELSK={
-		region_state:RUS={
+		region_state:FIN={
 			create_building={
 				building="building_naval_base"
 				level=5
@@ -326,7 +326,7 @@
 		}
 	}
 	s:STATE_TVER={
-		region_state:RUS={
+		region_state:FIN={
 			create_building={
 				building="building_arms_industry"
 				level=6
@@ -420,7 +420,7 @@
 		}
 	}
 	s:STATE_NOVGOROD={
-		region_state:RUS={
+		region_state:FIN={
 			create_building={
 				building="building_paper_mills"
 				level=3
@@ -498,7 +498,7 @@
 		}
 	}
 	s:STATE_MINSK={
-		region_state:RUS={
+		region_state:VNT={
 			create_building={
 				building="building_government_administration"
 				level=5
