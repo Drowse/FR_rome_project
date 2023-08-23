@@ -399,7 +399,18 @@ SRM = { #Sarmatians
 	capital = STATE_LUHANSK
 }
 
-GRE = { #Macedonia
+VNT = { #Veneti
+	color = { 100 100 15 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { russian byelorussian }
+	capital = STATE_LUHANSK
+}
+
+GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 
 	country_type = recognized

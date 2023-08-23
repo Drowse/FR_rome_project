@@ -125,4 +125,10 @@
 		effect_starting_pop_literacy_baseline = yes
 		
 	}
+	c:VNT = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
 }

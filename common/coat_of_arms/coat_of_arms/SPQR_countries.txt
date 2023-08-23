@@ -227,6 +227,17 @@ SRM = {
 	}
 }
 
+VNT = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "red"
+	}
+}
+
 IVE = {
 	pattern = "pattern_solid.tga"
 	color1 = "blue"
