@@ -16,4 +16,21 @@
 			type = vassal
 		}	
 	}
+
+	c:PRT = {
+		create_diplomatic_pact = {
+			country = c:CRC
+			type = vassal
+		}
+
+		create_diplomatic_pact = {
+			country = c:ELY
+			type = vassal
+		}
+
+		create_diplomatic_pact = {
+			country = c:PER
+			type = vassal
+		}
+	}
 }

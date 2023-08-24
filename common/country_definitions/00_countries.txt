@@ -1283,14 +1283,14 @@ OMA = {
 }
 
 PER = {
-	color = { 229  170  87 }
+	color = { 15  60  10 }
 	
 	country_type = unrecognized
 	
-	tier = empire
+	tier = kingdom
 	
 	cultures = { persian azerbaijani}
-	capital = STATE_IRAKAJEMI
+	capital = STATE_FARS
 }
 
 JAB = {
@@ -1529,7 +1529,7 @@ JOD = {
 }
 
 KAL = {
-	color = { 97  98  195 }
+	color = { 47  138  25 }
 	
 	country_type = unrecognized
 	
@@ -1767,7 +1767,7 @@ CAM = {
 }
 
 CHI = {
-	color = { 252 185 61 }
+	color = { 35 110 80 }
 	
 	country_type = unrecognized
 	
@@ -3867,5 +3867,3 @@ PRC = {
 	cultures = { french }
 	capital = STATE_ILE_DE_FRANCE
 }
-
-

@@ -20,6 +20,24 @@
  MSH:0 "Mishihase"
  MSH_ADJ:0 "Mishihase"
 
+ KYE:0 "Ye"
+ KYE_ADJ:0 "Ye"
+
+ JHN:0 "Jinhan"
+ JHN_ADJ:0 "Jinhan"
+
+ BYH:0 "Byeonhan"
+ BYH_ADJ:0 "Byeonhan"
+
+ MHN:0 "Mahan"
+ MHN_ADJ:0 "Mahan"
+
+ BKJ:0 "Baekje"
+ BKJ_ADJ:0 "Baekje"
+
+ BYO:0 "Buyeo"
+ BYO_ADJ:0 "Buyeo"
+
  SEL:0 "Selucid Empire"
  SEL_ADJ:0 "Selucid"
 
@@ -116,5 +134,32 @@
  ILL:0 "Illyria"
  ILL_ADJ:0 "Illyrian"
 
- ARE:0 "Autariatae"
- ARE_ADJ:0 "Autariataen"
+ SDT:0 "Sardiatae"
+ SDT_ADJ:0 "Sardiatae"
+
+ THR:0 "Odrysian Kingdom"
+ THR_ADJ:0 "Odrysian"
+
+ BST:0 "Bastarnae"
+ BST_ADJ:0 "Bastarnae"
+
+ SCD:0 "Scordisci"
+ SCD_ADJ:0 "Scordisci"
+
+ GTE:0 "Getae"
+ GTE_ADJ:0 "Getae"
+
+ CRC:0 "Characene"
+ CRC_ADJ:0 "Characene"
+
+ ELY:0 "Elymais"
+ ELY_ADJ:0 "Elymais"
+
+ PER:0 "Persis"
+ PER_ADJ:0 "Persian"
+
+ COL:0 "Colchis"
+ COL_ADJ:0 "Colchis"
+
+ OSR:0 "Osroene Kingdom"
+ OSR_ADJ:0 "Osroene"

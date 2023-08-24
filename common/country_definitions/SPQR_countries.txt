@@ -59,7 +59,7 @@ ESH = { #Emishi, North Honshu
 	
 	tier = principality
 	
-	country_type = unrecognized
+	country_type = decentralized
 	
 	cultures = { ainu }
 	religion = animist
@@ -73,7 +73,7 @@ MSH = { #Mishihase, North Honshu
 
 	tier = principality
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	cultures = {
 		ainu
@@ -441,7 +441,7 @@ ACH = { #Achaea
 DRD = { #Dardania
 	color = { 205 96 75 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
@@ -453,7 +453,7 @@ DRD = { #Dardania
 ILL = { #Illyria
 	color = { 176 176 111 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
@@ -462,14 +462,232 @@ ILL = { #Illyria
 	capital = STATE_SOUTHERN_SERBIA
 }
 
-ARE = { #Autariatae
+SDT = { #Sardiatae
 	color = { 45 84 173 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
 	religion = hellenism
 
 	capital = STATE_BOSNIA
+}
+
+KYE = { #Ye
+	color = { 112 144 128 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SEOUL
+	is_named_from_capital = no
+}
+
+JHN = { #Jinhan
+	color = { 48 80 128 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_BUSAN
+	is_named_from_capital = yes
+}
+
+BYH = { #Byeonhan
+	color = { 155 168 181 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_BUSAN
+	is_named_from_capital = no
+}
+
+MHN = { #Mahan
+	color = { 164 138 139 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_YANGHO
+	is_named_from_capital = no
+}
+
+BKJ = { #Baekje
+	color = { 160 226 238 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SEOUL
+	is_named_from_capital = no
+}
+
+BYO = { #Buyeo
+	color = { 84 183 30 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		korean
+	}
+	religion = mahayana
+
+	captial = STATE_SOUTHERN_MANCHURIA
+	is_named_from_capital = no
+}
+
+THR = { #Odrysian Kingdom
+	color = { 85 128 0 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		bulgarian
+	}
+
+	religion = hellenism #should  be thracian polytheism
+
+	capital = STATE_NORTHERN_THRACE
+}
+
+BST = { #Bastarnae
+	color = { 170 88 52 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = { #conflicting sources on whether they were Germanic or Celtic
+		german ukrainian romanian
+	}
+
+	capital = STATE_MOLDAVIA
+}
+
+SCD = { #Scordisci
+	color = { 200 85 50 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		serb
+	}
+
+	capital = STATE_NORTHERN_SERBIA
+}
+
+GTE = { #Getae
+	color = { 0 49 82 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		romanian
+	}
+
+	capital = STATE_WALLACHIA
+}
+
+CRC = { #Characene
+	color = { 190 180 50 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_BASRA
+}
+
+ELY = { #Elymais
+	color = { 200 130 120 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		persian greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_KHUZESTAN
+}
+
+COL = { #Colchis
+	color = { 150 20 10 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		georgian
+	}
+
+	religion = hellenism
+
+	capital = STATE_GREATER_CAUCASUS
+}
+
+OSR = { #Osroene Kingdom
+	color = { 110 100 40 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		mashriqi kurdish
+	}
+
+	religion = hellenism
+
+	capital = STATE_GREATER_CAUCASUS
 }
