@@ -52,7 +52,7 @@
 		}
 	}
 	s:STATE_MOSCOW={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_government_administration"
 				level=10
@@ -476,7 +476,7 @@
 		}
 	}
 	s:STATE_GALICH={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_rye_farm"
 				level=3
@@ -560,7 +560,7 @@
 		}
 	}
 	s:STATE_PERM={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_iron_mine"
 				level=6

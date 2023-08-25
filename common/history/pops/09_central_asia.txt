@@ -166,7 +166,7 @@
 		}
 	}
 	s:STATE_SAMARA = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 1977196
@@ -202,7 +202,7 @@
 		}
 	}
 	s:STATE_KAZAN = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 2455124
@@ -224,7 +224,7 @@
 		}
 	}
 	s:STATE_TARTARIA = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 2656396

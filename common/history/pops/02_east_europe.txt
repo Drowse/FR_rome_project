@@ -33,7 +33,7 @@
 		}
 	}
 	s:STATE_MOSCOW = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 3653196
@@ -353,7 +353,7 @@
 		}
 	}
 	s:STATE_GALICH = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 1071996
@@ -418,7 +418,7 @@
 		}
 	}
 	s:STATE_PERM = {
-		region_state:RUS = {
+		region_state:UGR = {
 			create_pop = {
 				culture = russian
 				size = 1903944

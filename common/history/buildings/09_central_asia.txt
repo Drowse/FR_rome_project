@@ -130,7 +130,7 @@
 		}
 	}
 	s:STATE_SAMARA={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_arms_industry"
 				level=10
@@ -158,7 +158,7 @@
 		}
 	}
 	s:STATE_KAZAN={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -204,7 +204,7 @@
 		}
 	}
 	s:STATE_TARTARIA={
-		region_state:RUS={
+		region_state:UGR={
 			create_building={
 				building="building_iron_mine"
 				level=10

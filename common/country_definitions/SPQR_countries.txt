@@ -410,6 +410,42 @@ VNT = { #Veneti
 	capital = STATE_LUHANSK
 }
 
+UGR = { # Ugrians
+	color = { 236 159 90 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { ugrian }
+	
+	capital = STATE_PERM
+}
+
+SMY = { #Samoyed
+	color = { 139 138 160 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { ugrian }
+	
+	capital = STATE_OB
+}
+
+TNG = { #Tungusic
+	color = { 171 216 191 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { yakut }
+	
+	capital = STATE_OKHOTSK
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 

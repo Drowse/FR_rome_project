@@ -216,6 +216,39 @@ NGT = {
 	}
 }
 
+UGR = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_bear_california.dds"
+		color1 = "white"
+		color2 = "white"
+	}
+}
+
+SMY = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_bear_california.dds"
+		color1 = "white"
+		color2 = "white"
+	}
+}
+
+TNG = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_bear_california.dds"
+		color1 = "red"
+		color2 = "red"
+	}
+}
+
 SRM = {
 	pattern = "pattern_solid.tga"
 	color1 = "white"
