@@ -3562,14 +3562,14 @@ GLI = {
 }
 
 PAL = {
-	color = { 0  142  76 }
+	color = { 166  15  22 }
 	
 	country_type = unrecognized
 	
 	tier = principality
 	
 	cultures = { mashriqi }
-	religion = sunni
+	religion = jewish
 	capital = STATE_PALESTINE
 }
 

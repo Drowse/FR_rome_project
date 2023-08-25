@@ -163,3 +163,9 @@
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"
+
+ EGY:0 "Ptolemaic Kingdom"
+ EGY_ADJ:0 "Ptolemaic"
+
+ PAL:0 "Judea"
+ PAL_ADJ:0 "Judean"

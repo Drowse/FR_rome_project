@@ -13,7 +13,7 @@
 }
 
 XNG = { #Xiongnu Confederation
-	color = { 180  102  0 }
+	color = { 140  105  115 }
 	
 	tier = kingdom
 	
