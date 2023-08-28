@@ -18,7 +18,7 @@
 #}
 
 ACH = {
-	dynamic_country_name = {
+	dynamic_country_name = { #Achaean League
 		name = dyn_ACH_league
 		adjective = dyn_ACH_league_adj
 
@@ -34,7 +34,7 @@ ACH = {
 }
 
 EGY = {
-	dynamic_country_name = {
+	dynamic_country_name = { #Ptolemaic Kingdom
 		name = dyn_EGY_greek
 		adjective = dyn_EGY_greek_adj
 
@@ -43,6 +43,22 @@ EGY = {
 
 		trigger = {
 			c:EGY = {
+				exists = yes
+			}
+		}
+	}
+}
+
+KSH = {
+	dynamic_country_name = { #Yuezhi
+		name = dyn_KSH_yuezhi
+		adjective = dyn_KSH_yuezhi_adj
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			c:KSH = {
 				exists = yes
 			}
 		}

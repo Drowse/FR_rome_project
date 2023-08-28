@@ -727,3 +727,33 @@ OSR = { #Osroene Kingdom
 
 	capital = STATE_GREATER_CAUCASUS
 }
+
+SAK = { #Sakastan
+	color = { 0 62 109 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		persian #scythian??? hard to say
+	}
+
+	religion = zoroastrian
+
+	capital = STATE_SISTAN
+}
+
+KSH = { #Kushan, Yuezhi at game start
+	color = { 40 145 85 }
+
+	tier = principality
+
+	country_type = unrecognized #should probably be decentralized but they'd be a fun tag to play
+
+	cultures = {
+		kyrgyz
+	}
+
+	capital = STATE_UZBEKIA
+}

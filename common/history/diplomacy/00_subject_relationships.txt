@@ -32,5 +32,20 @@
 			country = c:PER
 			type = vassal
 		}
+
+		create_diplomatic_pact = {
+			country = c:SAK
+			type = protectorate
+		}
+
+		create_diplomatic_pact = {
+			country = c:MAK
+			type = protectorate
+		}
+
+		create_diplomatic_pact = {
+			country = c:KAL
+			type = protectorate
+		}
 	}
 }

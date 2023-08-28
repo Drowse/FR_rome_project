@@ -1529,7 +1529,7 @@ JOD = {
 }
 
 KAL = {
-	color = { 47  138  25 }
+	color = { 95 140 80 }
 	
 	country_type = unrecognized
 	
@@ -1573,7 +1573,7 @@ LAD = {
 }
 
 MAK = {
-	color = { 219  146  162 }
+	color = { 170  150  50 }
 	
 	country_type = unrecognized
 	
