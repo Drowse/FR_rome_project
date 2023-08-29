@@ -138,7 +138,7 @@
 		}
 	}
 	s:STATE_EGYPTIAN_DESERT = {
-		region_state:EGY = {
+		region_state:DFR = {
 			create_pop = {
 				culture = bedouin
 				size = 10948
@@ -211,7 +211,7 @@
 		}
 	}
 	s:STATE_ERITREA = {
-		region_state:EGY = {
+		region_state:TGR = {
 			create_pop = {
 				culture = tigray
 				size = 75764
@@ -261,7 +261,7 @@
 		}
 	}
 	s:STATE_DONGOLA = {
-		region_state:EGY = {
+		region_state:DFR = {
 			create_pop = {
 				culture = bedouin
 				size = 156000
@@ -288,7 +288,7 @@
 		}
 	}
 	s:STATE_KORDOFAN = {
-		region_state:EGY = {
+		region_state:DFR = {
 			create_pop = {
 				culture = sudanese
 				size = 224396
@@ -335,7 +335,7 @@
 		}
 	}
 	s:STATE_BLUE_NILE = {
-		region_state:EGY = {
+		region_state:DFR = {
 			create_pop = {
 				culture = sudanese
 				size = 307600
@@ -485,49 +485,22 @@
 		}
 	}
 	s:STATE_ALGIERS = {
-		region_state:MAS = {
+		region_state:CAR = {
 			create_pop = {
 				culture = maghrebi
-				size = 541914
+				size = 1300000
 			}
 			create_pop = {
 				culture = berber
-				size = 703830
+				size = 740000
 			}
 			create_pop = {
 				culture = turkish
-				size = 1023
+				size = 4000
 			}
 			create_pop = {
 				culture = sephardic
-				size = 2606
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 24012
-			}
-		}
-		region_state:FRA = {
-			create_pop = {
-				culture = maghrebi
-				size = 84722
-			}
-			create_pop = {
-				culture = berber
-				size = 40143
-			}
-			create_pop = {
-				culture = turkish
-				size = 2701
-			}
-			create_pop = {
-				culture = sephardic
-				size = 7849
-			}
-			create_pop = {
-				culture = french
-				size = 1201
+				size = 10000
 			}
 			create_pop = {
 				culture = bambara
@@ -744,6 +717,24 @@
 				size = 20000
 			}
 		}
+		region_state:EGY = {
+			create_pop = {
+				culture = bedouin
+				size = 6000
+			}
+			create_pop = {
+				culture = berber
+				size = 8000
+			}
+			create_pop = {
+				culture = maghrebi
+				size = 40000
+			}
+			create_pop = {
+				culture = sephardic
+				size = 1000
+			}
+		}
 	}
 	s:STATE_LIBYAN_DESERT = {
 		region_state:CAR = {
@@ -763,6 +754,20 @@
 				pop_type = slaves
 				culture = equatorial_bantu
 				size = 6000
+			}
+		}
+		region_state:EGY = {
+			create_pop = {
+				culture = bedouin
+				size = 2000
+			}
+			create_pop = {
+				culture = tuareg
+				size = 500
+			}
+			create_pop = {
+				culture = teda
+				size = 800
 			}
 		}
 	}

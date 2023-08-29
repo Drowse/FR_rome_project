@@ -1151,7 +1151,7 @@
 		}
 	}
 	s:STATE_SOUTH_TYROL = {
-		region_state:AUS = {
+		region_state:SPR = {
 			create_pop = {
 				culture = south_german
 				size = 174100

@@ -50,8 +50,8 @@
  PRT:0 "Parthia"
  PRT_ADJ:0 "Parthian"
 
- IGK:0 "Yavanarajya"
- IGK_ADJ:0 "Indo-Greek"
+ IGK:0 "Panchanada"
+ IGK_ADJ:0 "Panchanadan"
 
  PON:0 "Pontus"
  PON_ADJ:0 "Pontic"
@@ -190,3 +190,9 @@
 
  KSH:0 "Kushan"
  KSH_ADJ:0 "Kushani"
+
+ KAP:0 "Kapisa"
+ KAP_ADJ:0 "Kapisan"
+
+ PKV:0 "Puskalavati"
+ PKV_ADJ:0 "Puskalavatian"

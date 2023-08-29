@@ -35,17 +35,14 @@
 
 		create_diplomatic_pact = {
 			country = c:SAK
-			type = protectorate
+			type = vassal
 		}
+	}
 
+	c:IGK = {
 		create_diplomatic_pact = {
-			country = c:MAK
-			type = protectorate
-		}
-
-		create_diplomatic_pact = {
-			country = c:KAL
-			type = protectorate
+			country = c:PKV
+			type = vassal
 		}
 	}
 }

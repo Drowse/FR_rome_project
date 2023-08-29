@@ -1535,7 +1535,7 @@ KAL = {
 	
 	tier = principality
 	
-	cultures = { baluchi }
+	cultures = { greek baluchi }
 	capital = STATE_BALUCHISTAN
 }
 

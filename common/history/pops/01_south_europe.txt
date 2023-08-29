@@ -421,7 +421,7 @@
 		}
 	}
 	s:STATE_EASTERN_THRACE = {
-		region_state:TUR = {
+		region_state:THR = {
 			create_pop = {
 				culture = turkish
 				size = 832996
@@ -457,9 +457,15 @@
 				size = 16000
 			}
 		}
+		region_state:SPR = {
+			create_pop = {
+				culture = greek
+				size = 80000
+			}
+		}
 	}
 	s:STATE_DOBRUDJA = {
-		region_state:TUR = {
+		region_state:THR = {
 			create_pop = {
 				culture = turkish
 				size = 59044
@@ -481,7 +487,7 @@
 				size = 76000
 			}
 		}
-		region_state:RUS = {
+		region_state:SRM = {
 			create_pop = {
 				culture = turkish
 				size = 2560
@@ -527,7 +533,7 @@
 		}
 	}
 	s:STATE_BOSNIA = {
-		region_state:ARE = {
+		region_state:SDT = {
 			create_pop = {
 				culture = bosniak
 				size = 304908
@@ -547,7 +553,7 @@
 		}
 	}
 	s:STATE_NORTHERN_THRACE = {
-		region_state:TUR = {
+		region_state:THR = {
 			create_pop = {
 				culture = turkish
 				size = 273408
@@ -572,7 +578,7 @@
 		}
 	}
 	s:STATE_BULGARIA = {
-		region_state:TUR = {
+		region_state:THR = {
 			create_pop = {
 				culture = turkish
 				size = 210404
@@ -647,16 +653,19 @@
 				size = 282048
 			}
 			create_pop = {
-				culture = serb
-				size = 48040
-			}
-			create_pop = {
 				culture = hungarian
 				size = 16000
 			}
 			create_pop = {
 				culture = south_german
 				size = 20140
+			}
+		}
+
+		region_state:SCD = {
+			create_pop = {
+				culture = serb
+				size = 48040
 			}
 		}
 	}
@@ -720,7 +729,7 @@
 		}
 	}
 	s:STATE_NORTHERN_SERBIA = {
-		region_state:SER = {
+		region_state:SCD = {
 			create_pop = {
 				culture = serb
 				size = 809604

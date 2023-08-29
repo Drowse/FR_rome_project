@@ -757,3 +757,31 @@ KSH = { #Kushan, Yuezhi at game start
 
 	capital = STATE_UZBEKIA
 }
+
+KAP = {
+	color = { 255 220 220 }
+
+	tier = princiapality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek pashtun
+	}
+
+	capital = STATE_WESTERN_AFGHANISTAN
+}
+
+PKV = {
+	color = { 130 140 255 }
+
+	tier = princiapality
+
+	country_type = decentralized
+
+	cultures = {
+		greek pashtun
+	}
+
+	capital = STATE_PASHTUNISTAN
+}

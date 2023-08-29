@@ -445,62 +445,25 @@
 		}
 	}
 	s:STATE_PUNJAB = {
-		region_state:PAN = {
+		region_state:IGK = {
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 9033705
+				size = 9433705
 			}
 			create_pop = {
 				culture = avadhi
 				religion = hindu
-				size = 386485
+				size = 426485
 			}
 			create_pop = {
 				culture = panjabi
-				size = 1366552
+				size = 1666552
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
 				size = 2656912
-			}
-		}
-		region_state:BIC = {
-			create_pop = {
-				culture = nepali
-				size = 405027
-			}
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 33867
-			}
-			create_pop = {
-				culture = avadhi
-				religion = hindu
-				size = 326183
-			}
-			create_pop = {
-				culture = british
-				size = 3072
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nepali
-				size = 21000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = panjabi
-				religion = sunni
-				size = 3000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = panjabi
-				religion = hindu
-				size = 30200
 			}
 		}
 	}
