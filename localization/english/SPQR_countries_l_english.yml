@@ -169,6 +169,15 @@
 
  TNG:0 "Tungusic"
  TNG_ADJ:0 "Tungusic"
+ 
+ AXM:0 "Axum"
+ AXM_ADJ:0 "Axumite"
+ 
+ DRS:0 "Dorset"
+ DRS_ADJ:0 "Dorset"
+ 
+ THU:0 "Thule"
+ THU_ADJ:0 "Thulian"
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"

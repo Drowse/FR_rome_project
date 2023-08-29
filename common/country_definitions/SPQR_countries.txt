@@ -446,6 +446,52 @@ TNG = { #Tungusic
 	capital = STATE_OKHOTSK
 }
 
+DRS = { #Dorset
+	color = { 205 214 216 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { inuit athabaskan }
+	
+	capital = STATE_NUNAVUT
+}
+
+THU = { #Thule
+	color = { 88 105 137 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { inuit athabaskan }
+	
+	capital = STATE_ALASKA
+}
+
+AXM = {
+	color = { 67 118 207 }
+	country_type = recognized
+	
+	tier = kingdom
+	
+	cultures =  { tigray amhara }
+	capital = STATE_AMHARA
+}
+
+DRS = { #Dorset
+	color = { 205 214 216 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { inuit athabaskan }
+	
+	capital = STATE_NUNAVUT
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 

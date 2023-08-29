@@ -249,6 +249,28 @@ TNG = {
 	}
 }
 
+DRS = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_inuksuk.dds"
+		color1 = "red"
+		color2 = "red"
+	}
+}
+
+THU = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_inuksuk.dds"
+		color1 = "red"
+		color2 = "red"
+	}
+}
+
 SRM = {
 	pattern = "pattern_solid.tga"
 	color1 = "white"
@@ -267,6 +289,17 @@ VNT = {
 	colored_emblem = {
 		texture = "ce_tricolor_horizontal.dds"
 		color1 = "white"
+		color2 = "red"
+	}
+}
+
+AXM = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "yellow"
 		color2 = "red"
 	}
 }

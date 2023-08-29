@@ -704,7 +704,7 @@
 		}
 	}
 	s:STATE_GONDER={
-		region_state:BGM={
+		region_state:AXM={
 			create_building={
 				building="building_millet_farm"
 				level=1
@@ -728,9 +728,7 @@
 				level=14
 				reserves=1
 				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
-			}
-		}
-		region_state:WLO={
+			} 
 			create_building={
 				building="building_millet_farm"
 				level=1
@@ -754,9 +752,7 @@
 				level=16
 				reserves=1
 				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
-			}
-		}
-		region_state:AWS={
+			} 
 			create_building={
 				building="building_livestock_ranch"
 				level=1
@@ -768,9 +764,7 @@
 				level=2
 				reserves=1
 				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
-			}
-		}
-		region_state:TGR={
+			} 
 			create_building={
 				building="building_millet_farm"
 				level=1
@@ -794,9 +788,7 @@
 				level=15
 				reserves=1
 				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
-			}
-		}
-		region_state:GJM={
+			} 
 			create_building={
 				building="building_millet_farm"
 				level=1

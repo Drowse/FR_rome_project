@@ -245,7 +245,7 @@
 		}
 	}
 	s:STATE_ALASKA={
-		region_state:RUS={
+		region_state:THU={
 			create_building={
 				building="building_port"
 				level=1
@@ -1422,7 +1422,7 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:HBC={
+		region_state:DRS={
 			create_building={
 				building="building_logging_camp"
 				level=1
@@ -1432,7 +1432,7 @@
 		}
 	}
 	s:STATE_NEWFOUNDLAND={
-		region_state:GBR={
+		region_state:DRS={
 			create_building={
 				building="building_fishing_wharf"
 				level=2
@@ -1454,7 +1454,7 @@
 		}
 	}
 	s:STATE_BRITISH_COLUMBIA={
-		region_state:ORG={
+		region_state:THU={
 			create_building={
 				building="building_logging_camp"
 				level=1

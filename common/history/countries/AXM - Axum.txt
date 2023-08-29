@@ -1,0 +1,14 @@
+﻿COUNTRIES = {
+	c:AXM = {
+		
+		effect_starting_technology_tier_Grecco_Roman_tech = yes
+		
+		effect_starting_politics_reactionary = yes
+		
+		set_tax_level = medium  
+
+		ig:ig_landowners = {
+			add_ruling_interest_group = yes
+		}
+	}
+}

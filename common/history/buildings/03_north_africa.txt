@@ -177,7 +177,7 @@
 		}
 	}
 	s:STATE_ERITREA={
-		region_state:EGY={
+		region_state:AXM={
 			create_building={
 				building="building_fishing_wharf"
 				level=1
@@ -196,8 +196,6 @@
 				reserves=1
 				activate_production_methods={ "pm_anchorage" }
 			}
-		}
-		region_state:AWS={
 			create_building={
 				building="building_fishing_wharf"
 				level=1

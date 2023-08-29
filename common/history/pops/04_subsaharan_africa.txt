@@ -1288,7 +1288,7 @@
 		}
 	}
 	s:STATE_GONDER = {
-		region_state:BGM = {
+		region_state:AXM = {
 			create_pop = {
 				culture = amhara
 				size = 522000
@@ -1299,17 +1299,12 @@
 				size = 96000
 			}
 			create_pop = {
-				culture = amhara
-				religion = jewish
-				size = 24000
-			}
-			create_pop = {
 				culture = kikuyu 
 				size = 77040
 				pop_type = slaves
 			}
 		}
-		region_state:WLO = {
+		region_state: = {
 			create_pop = {
 				culture = amhara
 				size = 335200
@@ -1331,7 +1326,7 @@
 				size = 26000
 			}
 		}
-		region_state:AWS = {
+		region_state:AXM = {
 			create_pop = {
 				culture = afar
 				size = 52000
@@ -1351,15 +1346,10 @@
 				pop_type = slaves
 			}
 		}
-		region_state:TGR = {
+		region_state:AXM = {
 			create_pop = {
 				culture = amhara
 				size = 260000
-			}
-			create_pop = {
-				culture = amhara
-				religion = jewish
-				size = 24000
 			}
 			create_pop = {
 				culture = tigray
@@ -1371,7 +1361,7 @@
 				pop_type = slaves
 			}
 		}
-		region_state:GJM = {
+		region_state:AXM = {
 			create_pop = {
 				culture = amhara
 				size = 360200
