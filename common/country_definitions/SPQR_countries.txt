@@ -831,3 +831,115 @@ PKV = {
 
 	capital = STATE_PASHTUNISTAN
 }
+
+ATR = {
+	color = { 70 150 30 }
+
+	tier = kingdom
+
+	country_type = unrecognized
+
+	cultures = {
+		persian armenian greek
+	}
+
+	capital = STATE_TABRIZ
+}
+
+ABN = {
+	color = { 20 55 120 }
+
+	tier = kingdom
+
+	country_type = unrecognized
+
+	cultures = {
+		persian armenian greek
+	}
+
+	capital = STATE_MOSUL
+}
+
+SOP = {
+	color = { 90 155 200 }
+
+	tier = kingdom
+
+	country_type = unrecognized
+
+	cultures = {
+		armenian
+	}
+
+	capital = STATE_DIYARBAKIR
+}
+
+CMG = {
+	color = { 175 160 10 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		armenian
+	}
+
+	capital = STATE_DIYARBAKIR
+}
+
+EME = {
+	color = { 40 190 190 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi sephardic
+	}
+
+	capital = STATE_SYRIA
+}
+
+PLM = {
+	color = { 240 40 75 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi sephardic
+	}
+
+	capital = STATE_SYRIA
+}
+
+ITU = {
+	color = { 20 50 40 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi sephardic
+	}
+
+	capital = STATE_SYRIA
+}
+
+HTR = {
+	color = { 200 0 100 }
+
+	tier = kingdom
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi #assyrian
+	}
+
+	capital = STATE_BAGHDAD
+}

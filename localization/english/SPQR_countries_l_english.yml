@@ -205,3 +205,27 @@
 
  PKV:0 "Puskalavati"
  PKV_ADJ:0 "Puskalavatian"
+
+ ATR:0 "Atropatene"
+ ATR_ADJ:0 "Atropatenian"
+
+ ABN:0 "Adiabene"
+ ABN_ADJ:0 "Adiabenese"
+
+ SOP:0 "Sophene"
+ SOP_ADJ:0 "Sophenian"
+
+ CMG:0 "Commagene"
+ CMG_ADJ:0 "Commagenian"
+
+ EME:0 "Emessa"
+ EME_ADJ:0 "Emessan"
+
+ PLM:0 "Palmyra"
+ PLM_ADJ:0 "Palmyran"
+
+ ITU:0 "Itruaea"
+ ITU_ADJ:0 "Itruaean"
+
+ HTR:0 "Hatra"
+ HTR_ADJ:0 "Hatran"

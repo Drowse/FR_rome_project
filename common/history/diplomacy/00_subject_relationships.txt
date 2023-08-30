@@ -37,6 +37,21 @@
 			country = c:SAK
 			type = vassal
 		}
+
+		create_diplomatic_pact = {
+			country = c:ATR
+			type = vassal
+		}
+
+		create_diplomatic_pact = {
+			country = c:ABN
+			type = vassal
+		}
+
+		create_diplomatic_pact = {
+			country = c:HTR
+			type = vassal
+		}
 	}
 
 	c:IGK = {
