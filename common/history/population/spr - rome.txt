@@ -149,4 +149,22 @@
 		effect_starting_pop_literacy_baseline = yes
 		
 	}
+	c:IZY = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:PNN = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:DAC = {
+		
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_low = yes
+		
+	}
 }

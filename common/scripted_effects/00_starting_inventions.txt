@@ -88,8 +88,8 @@ effect_starting_technology_tier_4_tech = {
 	add_technology_researched = standing_army
 	add_technology_researched = navigation
 	add_technology_researched = admiralty
-	add_technology_researched = gunsmithing
-	add_technology_researched = artillery
+	#add_technology_researched = gunsmithing
+	#add_technology_researched = artillery
 	add_technology_researched = drydocks
 
 	# Cultural

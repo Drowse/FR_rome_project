@@ -1656,7 +1656,7 @@
 		}
 	}
 	s:STATE_DOBRUDJA={
-		region_state:TUR={
+		region_state:THR={
 			create_building={
 				building="building_fishing_wharf"
 				level=2
@@ -1684,7 +1684,7 @@
 		}
 	}
 	s:STATE_ALBANIA={
-		region_state:TUR={
+		region_state:ILL={
 			create_building={
 				building="building_textile_mills"
 				level=1
@@ -1712,7 +1712,7 @@
 		}
 	}
 	s:STATE_BOSNIA={
-		region_state:TUR={
+		region_state:SDT={
 			create_building={
 				building="building_tooling_workshops"
 				level=2
@@ -1752,7 +1752,7 @@
 		}
 	}
 	s:STATE_NORTHERN_THRACE={
-		region_state:TUR={
+		region_state:THR={
 			create_building={
 				building="building_furniture_manufacturies"
 				level=2
@@ -1792,7 +1792,7 @@
 		}
 	}
 	s:STATE_BULGARIA={
-		region_state:TUR={
+		region_state:THR={
 			create_building={
 				building="building_furniture_manufacturies"
 				level=3
@@ -1820,7 +1820,7 @@
 		}
 	}
 	s:STATE_SLOVENIA={
-		region_state:AUS={
+		region_state:PNN={
 			create_building={
 				building="building_wheat_farm"
 				level=3
@@ -1877,23 +1877,12 @@
 	}
 	s:STATE_CROATIA={
 		region_state:SPR={
+		
 			create_building={
 				building="building_government_administration"
 				level=3
 				reserves=1
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" }
-			}
-			create_building={
-				building="building_wheat_farm"
-				level=2
-				reserves=1
-				activate_production_methods={ "pm_simple_farming" "pm_vineyards" "pm_tools_disabled" "pm_privately_owned" }
-			}
-			create_building={
-				building="building_livestock_ranch"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
 			}
 			create_building={
 				building="building_logging_camp"
@@ -1919,10 +1908,25 @@
 				reserves=1
 				activate_production_methods={ "pm_line_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
+			
+		}
+		region_state:PNN={
+			create_building={
+				building="building_wheat_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_vineyards" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
 		}
 	}
 	s:STATE_SLAVONIA={
-		region_state:AUS={
+		region_state:PNN={
 			create_building={
 				building="building_government_administration"
 				level=2

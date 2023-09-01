@@ -1,0 +1,21 @@
+﻿COUNTRIES = {
+	c:DAC = {
+
+		ig:ig_devout = {
+			add_ruling_interest_group = yes
+		}
+		
+		add_taxed_goods = g:liquor
+		add_taxed_goods = g:wine
+		
+		effect_starting_technology_tier_5_tech = yes
+		
+		effect_starting_politics_reactionary = yes
+		
+		set_tax_level = medium
+
+		ig:ig_landowners = {
+			add_ruling_interest_group = yes
+		}
+	}
+}

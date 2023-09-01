@@ -178,6 +178,15 @@
  
  THU:0 "Thule"
  THU_ADJ:0 "Thulian"
+ 
+ DAC:0 "Dacia"
+ DAC_ADJ:0 "Dacian"
+ 
+ IZY:0 "Iazyges"
+ IZY_ADJ:0 "Iazyges"
+ 
+ PNN:0 "Pannonia"
+ PNN_ADJ:0 "Pannonian"
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"

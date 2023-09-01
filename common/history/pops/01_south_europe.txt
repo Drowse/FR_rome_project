@@ -487,7 +487,7 @@
 				size = 76000
 			}
 		}
-		region_state:SRM = {
+		region_state:PON = {
 			create_pop = {
 				culture = turkish
 				size = 2560
@@ -594,7 +594,7 @@
 		}
 	}
 	s:STATE_SLOVENIA = {
-		region_state:AUS = {
+		region_state:PNN = {
 			create_pop = {
 				culture = slovene
 				size = 464400
@@ -627,6 +627,8 @@
 				culture = croat
 				size = 563592
 			}
+		}
+		region_state:PNN = {
 			create_pop = {
 				culture = czech
 				religion = catholic
@@ -647,7 +649,7 @@
 		}
 	}
 	s:STATE_SLAVONIA = {
-		region_state:AUS = {
+		region_state:PNN = {
 			create_pop = {
 				culture = croat
 				size = 282048

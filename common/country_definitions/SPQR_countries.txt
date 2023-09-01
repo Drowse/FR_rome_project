@@ -470,7 +470,7 @@ THU = { #Thule
 	capital = STATE_ALASKA
 }
 
-AXM = {
+AXM = { #Axum
 	color = { 67 118 207 }
 	country_type = recognized
 	
@@ -490,6 +490,42 @@ DRS = { #Dorset
 	cultures = { inuit athabaskan }
 	
 	capital = STATE_NUNAVUT
+}
+
+DAC = { #Dacia
+	color = { 211 207 173 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { hungarian romanian }
+	
+	capital = STATE_SOUTHERN_TRANSYLVANIA
+}
+
+IZY = { #Iazyges
+	color = { 152 85 92 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { hungarian }
+	
+	capital = STATE_CENTRAL_HUNGARY
+}
+
+PNN = { #Panonni
+	color = { 65 91 126 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { slovene }
+	
+	capital = STATE_SLOVENIA
 }
 
 GRE = { #Greece, Antigonids at start
