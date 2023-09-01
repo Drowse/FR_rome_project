@@ -233,9 +233,9 @@ DEN = {
 FIN = {
 	color = { 205  212  228 }
 	
-	country_type = recognized
+	country_type = decentralized
 
-	tier = grand_principality
+	tier = principality
 	
 	cultures = { finnish }
 	capital = STATE_SOUTHERN_FINLAND
@@ -798,7 +798,7 @@ CRI = {
 EST = {
 	color = { 179  29  100 }
 	
-	country_type = recognized
+	country_type = decentralized
 
 	tier = principality
 	
@@ -1260,13 +1260,12 @@ MUG = {
 NEJ = {
 	color = { 209 219 116}
 	
-	country_type = unrecognized
+	country_type = decentralized
 	
 	tier = principality
 	
 	cultures = { bedouin }
 	capital = STATE_NEJD
-	is_named_from_capital = yes
 }
 
 OMA = {
@@ -1858,9 +1857,9 @@ VIE = {
 }
 
 JOH = {
-	color = { 165  151  80 }
+	color = { 38 22 255 }
 	
-	country_type = unrecognized
+	country_type = decentralized
 	
 	tier = principality
 	

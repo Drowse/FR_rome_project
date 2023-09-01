@@ -763,7 +763,7 @@ OSR = { #Osroene Kingdom
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		mashriqi kurdish
@@ -942,4 +942,46 @@ HTR = {
 	}
 
 	capital = STATE_BAGHDAD
+}
+
+NAB = {
+	color = { 145 40 110 }
+
+	tier = kingdom
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi
+	}
+
+	capital = STATE_TRANSJORDAN
+}
+
+GRR = {
+	color = { 100 45 20 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		mashriqi
+	}
+
+	capital = STATE_NEJD
+}
+
+LIB = {
+	color = { 105 135 80 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		bedouin
+	}
+
+	capital = STATE_LIBYAN_DESERT
 }

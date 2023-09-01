@@ -229,3 +229,45 @@
 
  HTR:0 "Hatra"
  HTR_ADJ:0 "Hatran"
+
+ JAP:0 "Yayoi"
+ JAP_ADJ:0 "Yayoi"
+
+ NAB:0 "Nabataean Kingdom"
+ NAB_ADJ:0 "Nabataean"
+
+ GRR:0 "Gerrha"
+ GRR_ADJ:0 "Gerrhan"
+
+ NEJ:0 "Arabians"
+ NEJ_ADJ:0 "Arabian"
+
+ SKH:0 "Nivkhs"
+ SKH_ADJ:0 "Nivkhian"
+
+ FIN:0 "Finns"
+ FIN_ADJ:0 "Finnish"
+
+ EST:0 "Baltics"
+ EST_ADJ:0 "Baltic"
+
+ JOH:0 "Malays"
+ JOH_ADJ:0 "Malay"
+
+ ZAI:0 "Sabaʾ"
+ ZAI_ADJ:0 "Sabaean"
+
+ LAH:0 "Himyar"
+ LAH_ADJ:0 "Himyari"
+
+ MAH:0 "Hadramaut"
+ MAH_ADJ:0 "Hadramauti"
+
+ KAT:0 "Qataban"
+ KAT_ADJ:0 "Qatabani"
+
+ LIB:0 "Libyans"
+ LIB_ADJ:0 "Libyan"
+
+ OMA:0 "Mazun"
+ OMA_ADJ:0 "Mazunite"
