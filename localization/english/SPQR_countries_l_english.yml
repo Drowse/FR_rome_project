@@ -187,6 +187,12 @@
  
  PNN:0 "Pannonia"
  PNN_ADJ:0 "Pannonian"
+ 
+ NUM:0 "Numidia"
+ PNN_ADJ:0 "Numidian"
+ 
+ MAU:0 "Mauretania"
+ MAU_ADJ:0 "Mauretanian"
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"

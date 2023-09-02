@@ -528,6 +528,28 @@ PNN = { #Panonni
 	capital = STATE_SLOVENIA
 }
 
+NUM = { # Numidia
+	color = { 220 202 96 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { berber }
+	capital = STATE_CONSTANTINE
+}
+
+MAU = { # Mauretania
+	color = { 224  146  113 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	cultures = { berber }
+	capital = STATE_INNER_MOROCCO
+}
+
 GRE = { #Greece, Antigonids at start
 	color = { 80 126 165 }
 
