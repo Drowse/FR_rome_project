@@ -68,7 +68,7 @@
 		}
 	}
 	s:STATE_JUTLAND = {
-		region_state:DEN = {
+		region_state:CIM = {
 			create_pop = {
 				culture = danish
 				size = 548908
@@ -1061,7 +1061,7 @@
 		}
 	}
 	s:STATE_AUSTRIA = {
-		region_state:AUS = {
+		region_state:NRC = {
 			create_pop = {
 				culture = south_german
 				size = 1964404
@@ -1087,7 +1087,7 @@
 		}
 	}
 	s:STATE_BOHEMIA = {
-		region_state:AUS = {
+		region_state:MCN = {
 			create_pop = {
 				culture = south_german
 				size = 1499608
@@ -1104,7 +1104,7 @@
 		}
 	}
 	s:STATE_MORAVIA = {
-		region_state:AUS = {
+		region_state:MCN = {
 			create_pop = {
 				culture = south_german
 				size = 480408
@@ -1125,7 +1125,7 @@
 		}
 	}
 	s:STATE_STYRIA = {
-		region_state:RAE = {
+		region_state:NRC = {
 			create_pop = {
 				culture = south_german
 				size = 664796
@@ -1184,7 +1184,7 @@
 		}
 	}
 	s:STATE_ELBE = {
-		region_state:BRE = {
+		region_state:LNG = {
 			create_pop = {
 				culture = north_german
 				size = 102004
@@ -1195,7 +1195,7 @@
 				size = 4000
 			}
 		}
-		region_state:HAM = {
+		region_state:LNG = {
 			create_pop = {
 				culture = north_german
 				size = 142404
@@ -1205,7 +1205,7 @@
 				size = 8000
 			}
 		}
-		region_state:HAN = {
+		region_state:LNG = {
 			create_pop = {
 				culture = north_german
 				size = 512788
@@ -1307,7 +1307,7 @@
 		}			
 	}
 	s:STATE_ANHALT = {
-		region_state:PRU = {
+		region_state:SUE = {
 			create_pop = {
 				culture = north_german
 				size = 1196400
@@ -1322,7 +1322,7 @@
 				size = 2996
 			}
 		}
-		region_state:ANH = {
+		region_state:SUE = {
 			create_pop = {
 				culture = north_german
 				size = 180008
@@ -1406,7 +1406,7 @@
 		}
 	}
 	s:STATE_BRANDENBURG = {
-		region_state:PRU = {
+		region_state:SUE = {
 			create_pop = {
 				culture = north_german
 				size = 1558704
@@ -1427,7 +1427,7 @@
 		}
 	}
 	s:STATE_SCHLESWIG_HOLSTEIN = {
-		region_state:HOL = {
+		region_state:AGL = {
 			create_pop = {
 				culture = north_german
 				size = 374604
@@ -1446,7 +1446,7 @@
 				size = 20000
 			}
 		}
-		region_state:LUB = {
+		region_state:AGL = {
 			create_pop = {
 				culture = north_german
 				size = 82396
@@ -1457,7 +1457,7 @@
 				size = 2000
 			}
 		}
-		region_state:SCH = {
+		region_state:AGL = {
 			create_pop = {
 				culture = north_german
 				size = 200000
@@ -1581,7 +1581,7 @@
 		}
 	}
 	s:STATE_BAVARIA = {
-		region_state:BAV = {
+		region_state:HRM = {
 			create_pop = {
 				culture = south_german
 				size = 1682000
@@ -1598,7 +1598,7 @@
 		}
 	}
 	s:STATE_FRANCONIA = {
-		region_state:BAV = {
+		region_state:HRM = {
 			create_pop = {
 				culture = south_german
 				size = 1051792
@@ -1615,7 +1615,7 @@
 		}
 	}
 	s:STATE_SAXONY = {
-		region_state:SAX = {
+		region_state:SUE = {
 			create_pop = {
 				culture = north_german
 				size = 1453212
@@ -1637,66 +1637,6 @@
 				culture = sorb
 				religion = protestant
 				size = 50106
-			}
-		}
-		region_state:MEI = {
-			create_pop = {
-				culture = north_german
-				size = 133000
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 2000
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 312
-			}
-		}
-		region_state:WEI = {
-			create_pop = {
-				culture = north_german
-				size = 230000
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 3000
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 840
-			}
-		}	
-		region_state:COB = {
-			create_pop = {
-				culture = north_german
-				size = 154000
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 2035
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 502
-			}
-		}	
-		region_state:SCW = {
-			create_pop = {
-				culture = north_german
-				size = 110000
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 1539
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 293
 			}
 		}		
 	}
@@ -1774,7 +1714,7 @@
 		}		
 	}
 	s:STATE_MECKLENBURG = {
-		region_state:MEC = {
+		region_state:SUE = {
 			create_pop = {
 				culture = north_german
 				size = 490002
@@ -1782,12 +1722,6 @@
 			create_pop = {
 				culture = ashkenazi
 				size = 3996
-			}
-		}
-		region_state:MST = {
-			create_pop = {
-				culture = north_german
-				size = 85002
 			}
 		}		
 	}

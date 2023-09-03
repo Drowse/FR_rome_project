@@ -205,7 +205,13 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = spanish
-				size = 1268400
+				size = 1008400
+			}
+		}
+		region_state:VAC = {
+			create_pop = {
+				culture = spanish
+				size = 268400
 			}
 		}
 	}
@@ -239,11 +245,17 @@
 		region_state:VAC = {
 			create_pop = {
 				culture = spanish
-				size = 1430808
+				size = 1030808
 			}
 			create_pop = {
 				culture = basque
 				size = 4000
+			}
+		}
+		region_state:LUS = {
+			create_pop = {
+				culture = portuguese
+				size = 430808
 			}
 		}
 	}
@@ -264,15 +276,18 @@
 		}
 	}
 	s:STATE_ARAGON = {
+		region_state:AQU = {
+			create_pop = {
+				culture = basque
+				size = 100008
+			}		
+		}
 		region_state:CAR = {
 			create_pop = {
 				culture = spanish
 				size = 401200
 			}
-			create_pop = {
-				culture = basque
-				size = 100008
-			}
+
 			create_pop = {
 				culture = catalan
 				size = 77996
@@ -333,7 +348,13 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = spanish
-				size = 579992
+				size = 500992
+			}
+		}
+		region_state:LUS = {
+			create_pop = {
+				culture = spanish
+				size = 79992
 			}
 		}
 	}
@@ -353,7 +374,13 @@
 		region_state:LUS = {
 			create_pop = {
 				culture = portuguese
-				size = 1620800
+				size = 920800
+			}
+		}
+		region_state:GLI = {
+			create_pop = {
+				culture = portuguese
+				size = 620800
 			}
 		}
 	}
@@ -361,7 +388,13 @@
 		region_state:LUS = {
 			create_pop = {
 				culture = portuguese
-				size = 860796
+				size = 800796
+			}
+		}
+		region_state:CAR = {
+			create_pop = {
+				culture = portuguese
+				size = 60796
 			}
 		}
 	}

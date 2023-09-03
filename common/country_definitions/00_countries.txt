@@ -278,9 +278,9 @@ SCN = {
 BEL = {
 	color = { 235 200 127 }
 	
-	country_type = recognized
+	country_type = decentralized
 
-	tier = kingdom
+	tier = principality
 	
 	cultures = { flemish wallonian }	
 	capital = STATE_FLANDERS

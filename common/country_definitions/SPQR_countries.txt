@@ -209,7 +209,7 @@ LUS = { #Lusitani
 	tier = principality
 	
 	cultures = { portuguese }
-	capital = STATE_ESTREMADURA
+	capital = STATE_BEIRA
 }
 
 VAC = { #Vaccaei
@@ -388,6 +388,28 @@ RAE = { #Raeti
 	capital = STATE_TYROL
 }
 
+MCN = { #Marcomanni
+	color = { 161 139 40 }
+	
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { czech }
+	capital = STATE_TYROL
+}
+
+NRC = { #Noricum
+	color = { 211  220  240 }
+	
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { south_german }
+	capital = STATE_STYRIA
+}
+
 SRM = { #Sarmatians
 	color = { 150 200 15 }
 	
@@ -528,6 +550,90 @@ PNN = { #Panonni
 	capital = STATE_SLOVENIA
 }
 
+HRM = { #Hermunduri
+	color = { 121  175  235 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { south_german }
+	
+	capital = STATE_BAVARIA
+}
+
+SUE = { #Suebi
+	color = { 155  147  180 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_SAXONY
+}
+
+BUR = { #Burgundiones
+	color = { 235 196 231 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_POSEN
+}
+
+VDL = { #Vandals
+	color = { 138  193  231 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german polish }
+	
+	capital = STATE_WEST_GALICIA
+}
+
+AGL = { #Angli
+	color = { 235  225  95 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german danish }
+	
+	capital = STATE_SCHLESWIG_HOLSTEIN
+}
+
+LNG = { #Longobardi
+	color = { 104  148  71 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_ELBE
+}
+
+CIM = { #Cimbri
+	color = { 1.01  0.8  0.5 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { danish }
+	
+	capital = STATE_JUTLAND
+}
+
 NUM = { # Numidia
 	color = { 220 202 96 }
 	
@@ -548,6 +654,17 @@ MAU = { # Mauretania
 	
 	cultures = { berber }
 	capital = STATE_INNER_MOROCCO
+}
+
+HPL = { # Hopewell
+	color = { 105  145  40 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { cherokee cree }
+	capital = STATE_OHIO
 }
 
 GRE = { #Greece, Antigonids at start

@@ -193,6 +193,36 @@
  
  MAU:0 "Mauretania"
  MAU_ADJ:0 "Mauretanian"
+ 
+ HPL:0 "Hopewell"
+ HPL_ADJ:0 "Hopewellian"
+ 
+ NRC:0 "Noricum"
+ NRC_ADJ:0 "Noricum"
+ 
+ MCN:0 "Marcomanni"
+ MCN_ADJ:0 "Marcomanni"
+ 
+ HRM:0 "Hermunduri"
+ HRM_ADJ:0 "Hermunduri"
+ 
+ SUE:0 "Suebi"
+ SUE_ADJ:0 "Suebi"
+ 
+ BUR:0 "Burgundiones"
+ BUR_ADJ:0 "Burgundiones"
+ 
+ VDL:0 "Vandals"
+ VDL_ADJ:0 "Vandal"
+ 
+ AGL:0 "Angli"
+ AGL_ADJ:0 "Angli"
+ 
+ CIM:0 "Cimbri"
+ CIM_ADJ:0 "Cimbri"
+ 
+ LNG:0 "Longobardi"
+ LNG_ADJ:0 "Longobardi"
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"

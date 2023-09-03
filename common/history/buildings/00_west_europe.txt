@@ -230,7 +230,7 @@
 		}
 	}
 	s:STATE_JUTLAND={
-		region_state:DEN={
+		region_state:CIM={
 			create_building={
 				building="building_rye_farm"
 				level=8
@@ -2552,7 +2552,7 @@
 		}
 	}
 	s:STATE_AUSTRIA={
-		region_state:AUS={
+		region_state:NRC={
 			create_building={
 				building="building_government_administration"
 				level=10
@@ -2616,7 +2616,7 @@
 		}
 	}
 	s:STATE_BOHEMIA={
-		region_state:AUS={
+		region_state:MCN={
 			create_building={
 				building="building_government_administration"
 				level=10
@@ -2686,7 +2686,7 @@
 		}
 	}
 	s:STATE_MORAVIA={
-		region_state:AUS={
+		region_state:MCN={
 			create_building={
 				building="building_textile_mills"
 				level=3
@@ -2726,7 +2726,7 @@
 		}
 	}
 	s:STATE_STYRIA={
-		region_state:RAE={
+		region_state:NRC={
 			create_building={
 				building="building_iron_mine"
 				level=3
@@ -2838,7 +2838,7 @@
 		}
 	}
 	s:STATE_ELBE={
-		region_state:BRE={
+		region_state:LNG={
 			create_building={
 				building="building_paper_mills"
 				level=1
@@ -2858,7 +2858,7 @@
 				activate_production_methods={ "pm_wound_dressing" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_irregular_infantry" }
 			}			
 		}
-		region_state:HAM={
+		region_state:LNG={
 			create_building={
 				building="building_furniture_manufacturies"
 				level=2
@@ -2878,7 +2878,7 @@
 				activate_production_methods={ "pm_wound_dressing" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_irregular_infantry" }
 			}			
 		}
-		region_state:HAN={
+		region_state:LNG={
 			create_building={
 				building="building_rye_farm"
 				level=2
@@ -3046,7 +3046,7 @@
 		}		
 	}
 	s:STATE_ANHALT={
-		region_state:PRU={
+		region_state:SUE={
 			create_building={
 				building="building_furniture_manufacturies"
 				level=3
@@ -3078,7 +3078,7 @@
 				activate_production_methods={ "pm_skirmish_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:ANH={
+		region_state:SUE={
 			create_building={
 				building="building_rye_farm"
 				level=2
@@ -3228,7 +3228,7 @@
 		}
 	}
 	s:STATE_BRANDENBURG={
-		region_state:PRU={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				level=13
@@ -3280,7 +3280,7 @@
 		}
 	}
 	s:STATE_SCHLESWIG_HOLSTEIN={
-		region_state:HOL={
+		region_state:AGL={
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3668,7 +3668,7 @@
 		}
 	}
 	s:STATE_SAXONY={
-		region_state:SAX={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -3718,7 +3718,7 @@
 				activate_production_methods={ "pm_mobile_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}
 		}
-		region_state:MEI = {
+		region_state:SUE = {
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3738,7 +3738,7 @@
 				activate_production_methods={ "pm_cannon_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}					
 		}
-		region_state:WEI = {
+		region_state:SUE = {
 			create_building={
 				building="building_rye_farm"
 				level=2
@@ -3764,7 +3764,7 @@
 				activate_production_methods={ "pm_cannon_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}			
 		}	
-		region_state:COB = {
+		region_state:SUE = {
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3784,7 +3784,7 @@
 				activate_production_methods={ "pm_cannon_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}					
 		}	
-		region_state:SCW = {
+		region_state:SUE = {
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3920,7 +3920,7 @@
 		}
 	}
 	s:STATE_MECKLENBURG={
-		region_state:MEC={
+		region_state:SUE={
 			create_building={
 				building="building_rye_farm"
 				level=2
@@ -3946,7 +3946,7 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:MST={
+		region_state:SUE={
 			create_building={
 				building="building_rye_farm"
 				level=1
