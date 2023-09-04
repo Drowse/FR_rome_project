@@ -254,6 +254,39 @@
  QDI:0 "Quadi"
  QDI_ADJ:0 "Quadi"
  
+ SEQ:0 "Cotini"
+ SEQ_ADJ:0 "Cotini"
+ 
+ LEC:0 "Leuci"
+ LEC_ADJ:0 "Leuci"
+ 
+ LGN:0 "Lingones"
+ LGN_ADJ:0 "Lingones"
+ 
+ HDI:0 "Haedui"
+ HDI_ADJ:0 "Haedui"
+ 
+ PRI:0 "Parisii"
+ PRI_ADJ:0 "Parisii"
+ 
+ CRN:0 "Carnutes"
+ CRN_ADJ:0 "Carnutes"
+ 
+ AVN:0 "Averni"
+ AVN_ADJ:0 "Averni"
+ 
+ ALR:0 "Aulerci"
+ ALR_ADJ:0 "Aulerci"
+ 
+ SNT:0 "Santones"
+ SNT_ADJ:0 "Santones"
+ 
+ PCT:0 "Pictones"
+ PCT_ADJ:0 "Pictones"
+ 
+ OSM:0 "Osismii"
+ OSM_ADJ:0 "Osismii"
+ 
  COT:0 "Cotini"
  COT_ADJ:0 "Cotini"
 

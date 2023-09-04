@@ -80,7 +80,7 @@ STATES = {
 	}
 	s:STATE_NORMANDY = {
 		create_state = {
-			country = c:GAU
+			country = c:ALR
 			owned_provinces = { "x065CAE" "x0B7098" "x1020C0" "x65728E" "x79C0E6" "x9020C0" "x90A040" "xA786BB" "xB06080" "xB8903B" "xD642B5" }
 		}
 		
@@ -3085,7 +3085,7 @@ STATES = {
 			owned_provinces = { "x1B4B66" "x30C060" "x73F176" "x8E88DA" "xB8E48D" "xEF4060"  }
 		}
 		create_state = {
-			country = c:GAU
+			country = c:AVN
 			owned_provinces = { "xEF4060" "x71A804" "x3369C6" "x704060" "xB04060" "x7516B6" }
 		}
 		
@@ -3111,7 +3111,7 @@ STATES = {
 	}
 	s:STATE_ALSACE_LORRAINE = {
 		create_state = {
-			country = c:GAU
+			country = c:LEC
 			owned_provinces = { "x4899A2" "x6E4891" "xCC3250" "xF0C0A0" }
 		}
 		
@@ -3121,7 +3121,7 @@ STATES = {
 	}
 	s:STATE_POITOU = {
 		create_state = {
-			country = c:GAU
+			country = c:PCT
 			owned_provinces = { "x19234B" "x3F74AF" "x50A040" "x9401C7" "xD020C0" "xD0A040" "xDD4DD0" "xE269A3" }
 		}
 		
@@ -3129,7 +3129,7 @@ STATES = {
 	}
 	s:STATE_GUYENNE = {
 		create_state = {
-			country = c:GAU
+			country = c:SNT
 			owned_provinces = { "x061121" "x086618" "x106080" "x306000" "x30E000" "x5020C0" "x7BCDC4" "xA2BBE9" "xAF89BC" "xB06000" "xC8CD2F" "xF3D359" }
 		}
 		
@@ -3138,7 +3138,7 @@ STATES = {
 	}
 	s:STATE_AUVERGNE_LIMOUSIN = {
 		create_state = {
-			country = c:GAU
+			country = c:AVN
 			owned_provinces = { "x01FD5F" "x07BCC1" "x368F00" "x3FE149" "x50A0C0" "x61609A" "x70C060" "xA27EFD" "xA8AE71" "xABE045" "xBED0F4" "xDF5770" "xF080E0" }
 		}
 		
@@ -3147,7 +3147,7 @@ STATES = {
 	}
 	s:STATE_BRITTANY = {
 		create_state = {
-			country = c:GAU
+			country = c:OSM
 			owned_provinces = { "x10A040" "x2368E7" "x2BD902" "x32C2E2" "x50F4A7" "x55607E" "x706000" "x85E5AC" "xA0B0D1" "xABF468" "xC4D7A2" "xD0E080" "xD584A0" "xF91DD2" }
 		}
 		
@@ -3156,7 +3156,7 @@ STATES = {
 	}
 	s:STATE_BURGUNDY = {
 		create_state = {
-			country = c:GAU
+			country = c:HDI
 			owned_provinces = { "x09BB96" "x10DF00" "x380D42" "x6D7896" "x7000E0" "x708060" "x79B85C" "x8329EC" "x8C3297" "x999D4B" "xC69235" "xF08060" }
 		}
 		
@@ -3164,7 +3164,7 @@ STATES = {
 	}
 	s:STATE_CHAMPAGNE = {
 		create_state = {
-			country = c:GAU
+			country = c:LGN
 			owned_provinces = { "x4B7684" "x5FEA2F" "x600883" "x669027" "x8AE8D1" "xD6A06D" "xE280FC" "xEF00DF" "xEF40A0" "xEFBF20" }
 		}
 		
@@ -3172,7 +3172,7 @@ STATES = {
 	}
 	s:STATE_FRANCHE_COMTE = {
 		create_state = {
-			country = c:GAU
+			country = c:SEQ
 			owned_provinces = { "x3D8EF9" "x700060" "xA9D961" "xB000E0" "xCF46D1" "xF00060" }
 		}
 		
@@ -3180,7 +3180,7 @@ STATES = {
 	}
 	s:STATE_LORRAINE = {
 		create_state = {
-			country = c:GAU
+			country = c:LGN
 			owned_provinces = { "x282DCC" "x3080E0" "x70BFA0" "x7FC1E6" "xB080E0" "xC5F13A" }
 		}
 		
@@ -3197,7 +3197,7 @@ STATES = {
 	}
 	s:STATE_MAINE_ANJOU = {
 		create_state = {
-			country = c:GAU
+			country = c:ALR
 			owned_provinces = { "x093DF5" "x192CA5" "x30E080" "x56E158" "x6B5474" "x7CAE05" "xB0E080" "xD02040" "xF6A48C" }
 		}
 		
@@ -3205,7 +3205,7 @@ STATES = {
 	}
 	s:STATE_ORLEANS = {
 		create_state = {
-			country = c:GAU
+			country = c:CRN
 			owned_provinces = { "x14F855" "x47B641" "x50CE72" "x6E4717" "x886277" "x90A0C0" "x90E000" "xD8BA95" "xE13BC2" "xE3E249" "xE7B296" "xF0E39E" "xF522D9" }
 		}
 		
@@ -3213,7 +3213,7 @@ STATES = {
 	}
 	s:STATE_ILE_DE_FRANCE = {
 		create_state = {
-			country = c:GAU
+			country = c:PRI
 			owned_provinces = { "x12462D" "x7080DF" "x71DA2E" "x906000" }
 		}
 		
@@ -7111,7 +7111,7 @@ STATES = {
 	}
 	s:STATE_RHINELAND = {
 		create_state = {
-			country = c:GAU
+			country = c:LEC
 			owned_provinces = { xD080A0 x904020 xC1B963 x5D7A68 x11C021 x707505 }
 		}
 		# create_state = {
@@ -7123,7 +7123,7 @@ STATES = {
 	}
 	s:STATE_NORTH_RHINE = {
 		create_state = {
-			country = c:GAU
+			country = c:BEL
 			owned_provinces = { x9F4072 x8001E0 x834B66 x518021 x29CCD6 x486F6A }
 		}
 		

@@ -1370,7 +1370,7 @@
 		}
 	}
 	s:STATE_ILE_DE_FRANCE={
-		region_state:GAU={
+		region_state:PRI={
 			create_building={
 				building="building_government_administration"
 				level=14
@@ -1494,7 +1494,7 @@
 		}
 	}
 	s:STATE_NORMANDY={
-		region_state:GAU={
+		region_state:ALR={
 			create_building={
 				building="building_government_administration"
 				level=4
@@ -1598,7 +1598,7 @@
 		}
 	}
 	s:STATE_RHONE={
-		region_state:GAU={
+		region_state:AVN={
 			create_building={
 				building="building_construction_sector"
 				level=2
@@ -1756,7 +1756,7 @@
 		}
 	}
 	s:STATE_ALSACE_LORRAINE={
-		region_state:GAU={
+		region_state:LEC={
 			create_building={
 				building="building_steel_mills"
 				level=1
@@ -1796,7 +1796,7 @@
 		}
 	}
 	s:STATE_POITOU={
-		region_state:GAU={
+		region_state:PCT={
 			create_building={
 				building="building_paper_mills"
 				level=4
@@ -1824,7 +1824,7 @@
 		}
 	}
 	s:STATE_MAINE_ANJOU={
-		region_state:GAU={
+		region_state:ALR={
 			create_building={
 				building="building_wheat_farm"
 				level=4
@@ -1846,7 +1846,7 @@
 		}
 	}
 	s:STATE_GUYENNE={
-		region_state:GAU={
+		region_state:SNT={
 			create_building={
 				building="building_textile_mills"
 				level=3
@@ -1874,7 +1874,7 @@
 		}
 	}
 	s:STATE_AUVERGNE_LIMOUSIN={
-		region_state:GAU={
+		region_state:AVN={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -1914,7 +1914,7 @@
 		}
 	}
 	s:STATE_BRITTANY={
-		region_state:GAU={
+		region_state:OSM={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -1972,7 +1972,7 @@
 		}
 	}
 	s:STATE_BURGUNDY={
-		region_state:GAU={
+		region_state:HDI={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -2018,7 +2018,7 @@
 		}
 	}
 	s:STATE_CHAMPAGNE={
-		region_state:GAU={
+		region_state:LGN={
 			create_building={
 				building="building_food_industry"
 				level=6
@@ -2046,7 +2046,7 @@
 		}
 	}
 	s:STATE_FRANCHE_COMTE={
-		region_state:GAU={
+		region_state:SEQ={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -2080,7 +2080,7 @@
 		}
 	}
 	s:STATE_LORRAINE={
-		region_state:GAU={
+		region_state:LGN={
 			create_building={
 				building="building_tooling_workshops"
 				level=4
@@ -2166,7 +2166,7 @@
 		}
 	}
 	s:STATE_ORLEANS={
-		region_state:GAU={
+		region_state:CRN={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -3094,7 +3094,7 @@
 		}
 	}
 	s:STATE_RHINELAND={
-		region_state:GAU={
+		region_state:LEC={
 			create_building={
 				building="building_government_administration"
 				level=5
@@ -3126,7 +3126,7 @@
 				activate_production_methods={ "pm_skirmish_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 		}
-		region_state:GAU={
+		region_state:LEC={
 			create_building={
 				building="building_wheat_farm"
 				level=1
@@ -3148,7 +3148,7 @@
 		}
 	}
 	s:STATE_NORTH_RHINE={
-		region_state:GAU={
+		region_state:BEL={
 			create_building={
 				building="building_arms_industry"
 				level=2

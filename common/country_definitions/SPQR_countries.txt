@@ -766,6 +766,138 @@ SUI = { #Suiones
 	capital = STATE_SVEALAND
 }
 
+OSM = { #Osismii  
+	color = { 110 25 96 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { breton }
+	
+	capital = STATE_BRITTANY
+}
+
+PCT = { #Pictones  
+	color = { 43  141  172 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_POITOU
+}
+
+SNT = { #Santones  
+	color = { 131  141  142 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_GUYENNE
+}
+
+AVN = { #Averni  
+	color = { 118  229  215 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_RHONE
+}
+
+CRN = { #Carnutes  
+	color = { 53  140  73 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_ORLEANS
+}
+
+ALR = { #Aulerci  
+	color = { 146  108  146 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_NORMANDY
+}
+
+PRI = { #Parisii  
+	color = { 114  171  184 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_ILE_DE_FRANCE
+}
+
+HDI = { #Haedui  
+	color = { 241  252  151 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_BURGUNDY
+}
+
+LGN = { #Lingones  
+	color = { 211  220  178 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_CHAMPAGNE
+}
+
+LEC = { #Leuci  
+	color = { 128  202  129 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_ALSACE_LORRAINE
+}
+
+SEQ = { #Sequani  
+	color = { 117  146  167 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+
+	cultures = { french }
+	
+	capital = STATE_FRANCHE_COMTE
+}
+
 NUM = { # Numidia
 	color = { 220 202 96 }
 	
