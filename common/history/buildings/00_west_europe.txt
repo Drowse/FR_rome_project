@@ -1,6 +1,6 @@
 ﻿BUILDINGS={
 	s:STATE_SVEALAND={
-		region_state:SWE={
+		region_state:SUI={
 			create_building={
 				building="building_government_administration"
 				level=4
@@ -76,7 +76,7 @@
 		}
 	}
 	s:STATE_GOTALAND={
-		region_state:SWE={
+		region_state:SUI={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -128,7 +128,7 @@
 		}
 	}
 	s:STATE_SCANIA={
-		region_state:SWE={
+		region_state:HRL={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -198,7 +198,7 @@
 		}
 	}
 	s:STATE_NORRLAND={
-		region_state:SWE={
+		region_state:SMI={
 			create_building={
 				building="building_logging_camp"
 				level=2
@@ -214,7 +214,7 @@
 		}
 	}
 	s:STATE_GOTLAND={
-		region_state:SWE={
+		region_state:SUI={
 			create_building={
 				building="building_port"
 				level=1
@@ -270,7 +270,7 @@
 		}
 	}
 	s:STATE_ZEALAND={
-		region_state:DEN={
+		region_state:HRL={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -334,7 +334,7 @@
 		}
 	}
 	s:STATE_WESTERN_NORWAY={
-		region_state:NOR={
+		region_state:RGI={
 			create_building={
 				building="building_fishing_wharf"
 				level=4
@@ -380,7 +380,7 @@
 		}
 	}
 	s:STATE_NORTHERN_NORWAY={
-		region_state:NOR={
+		region_state:SMI={
 			create_building={
 				building="building_fishing_wharf"
 				level=1
@@ -396,7 +396,7 @@
 		}
 	}
 	s:STATE_EASTERN_NORWAY={
-		region_state:NOR={
+		region_state:SMI={
 			create_building={
 				building="building_government_administration"
 				level=2
@@ -2200,7 +2200,7 @@
 		}
 	}
 	s:STATE_HOLLAND={
-		region_state:NET={
+		region_state:FRI={
 			create_building={
 				building="building_government_administration"
 				level=3
@@ -2282,7 +2282,7 @@
 		}
 	}
 	s:STATE_FRIESLAND={
-		region_state:NET={
+		region_state:FRI={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -2328,7 +2328,7 @@
 		}
 	}
 	s:STATE_GELRE={
-		region_state:NET={
+		region_state:FRI={
 			create_building={
 				building="building_government_administration"
 				level=2
@@ -2798,7 +2798,7 @@
 		}
 	}
 	s:STATE_POMERANIA={
-		region_state:PRU={
+		region_state:RGI={
 			create_building={
 				building="building_fishing_wharf"
 				level=3
@@ -2986,7 +2986,7 @@
 		}
 	}
 	s:STATE_WESTPHALIA={
-		region_state:PRU={
+		region_state:CHR={
 			create_building={
 				building="building_government_administration"
 				level=2
@@ -3030,7 +3030,7 @@
 				activate_production_methods={ "pm_mobile_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_skirmish_infantry" }
 			}
 		}
-		region_state:LIP = {
+		region_state:CHR = {
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3194,7 +3194,7 @@
 		}
 	}
 	s:STATE_RUHR={
-		region_state:PRU={
+		region_state:TNC={
 			create_building={
 				building="building_arms_industry"
 				level=6
@@ -3420,7 +3420,7 @@
 		}
 	}
 	s:STATE_BADEN={
-		region_state:BAD={
+		region_state:HEL={
 			create_building={
 				building="building_university"
 				level=1
@@ -3460,7 +3460,7 @@
 		}
 	}
 	s:STATE_HANNOVER={
-		region_state:OLD={
+		region_state:CCI={
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3474,7 +3474,7 @@
 				activate_production_methods={ "pm_wound_dressing" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_irregular_infantry" }
 			}
 		}
-		region_state:HAN={
+		region_state:CCI={
 			create_building={
 				building="building_government_administration"
 				level=1
@@ -3800,7 +3800,7 @@
 		}			
 	}
 	s:STATE_HESSE={
-		region_state:FRM={
+		region_state:CTI={
 			create_building={
 				building="building_textile_mills"
 				level=1
@@ -3814,7 +3814,7 @@
 				activate_production_methods={ "pm_wound_dressing" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_irregular_infantry" }
 			}			
 		}
-		region_state:HEK={
+		region_state:CTI={
 			create_building={
 				building="building_rye_farm"
 				level=2
@@ -3840,7 +3840,7 @@
 				activate_production_methods={ "pm_mobile_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}			
 		}
-		region_state:HES={
+		region_state:CTI={
 			create_building={
 				building="building_paper_mills"
 				level=1
@@ -3878,7 +3878,7 @@
 				activate_production_methods={ "pm_mobile_artillery" "pm_wound_dressing" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}
 		}
-		region_state:NAS={
+		region_state:CTI={
 			create_building={
 				building="building_rye_farm"
 				level=1
@@ -3904,7 +3904,7 @@
 				activate_production_methods={ "pm_wound_dressing" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_line_infantry" }
 			}
 		}
-		region_state:WLD = {
+		region_state:CTI = {
 			create_building={
 				building="building_rye_farm"
 				level=1

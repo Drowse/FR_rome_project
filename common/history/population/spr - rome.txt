@@ -215,6 +215,60 @@
 		effect_starting_pop_literacy_baseline = yes
 		
 	}
+	c:COT = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:QDI = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:CTI = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:CHR = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:TNC = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:CCI = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:FRI = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:GTH = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
+	c:RGI = {
+		
+		effect_starting_pop_wealth_very_low = yes
+		effect_starting_pop_literacy_baseline = yes
+		
+	}
 	c:HRM = {
 		
 		effect_starting_pop_wealth_very_low = yes

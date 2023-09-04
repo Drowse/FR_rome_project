@@ -560,7 +560,7 @@
 		}
 	}
 	s:STATE_WEST_PRUSSIA = {
-		region_state:PRU = {
+		region_state:GTH = {
 			create_pop = {
 				culture = north_german
 				size = 452400
@@ -586,7 +586,7 @@
 		}
 	}
 	s:STATE_EAST_PRUSSIA = {
-		region_state:PRU = {
+		region_state:GTH = {
 			create_pop = {
 				culture = north_german
 				size = 629796
@@ -873,7 +873,7 @@
 		}
 	}
 	s:STATE_WEST_SLOVAKIA = {
-		region_state:AUS = {
+		region_state:QDI = {
 			create_pop = {
 				culture = hungarian
 				size = 237000
@@ -906,7 +906,7 @@
 		}
 	}
 	s:STATE_EAST_SLOVAKIA = {
-		region_state:AUS = {
+		region_state:COT = {
 			create_pop = {
 				culture = hungarian
 				size = 150848

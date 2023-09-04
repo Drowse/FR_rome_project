@@ -223,6 +223,39 @@
  
  LNG:0 "Longobardi"
  LNG_ADJ:0 "Longobardi"
+ 
+ RGI:0 "Rugii"
+ RGI_ADJ:0 "Rugii"
+ 
+ GTH:0 "Gutones"
+ GTH_ADJ:0 "Gutones"
+ 
+ FRI:0 "Frisian"
+ FRI_ADJ:0 "Frisian"
+ 
+ CCI:0 "Chauci"
+ CCI_ADJ:0 "Chauci"
+ 
+ TNC:0 "Tencteri"
+ TNC_ADJ:0 "Tencteri"
+ 
+ CHR:0 "Cherusci"
+ CHR_ADJ:0 "Cherusci"
+ 
+ HRL:0 "Heruli"
+ HRL_ADJ:0 "Heruli"
+ 
+ SUI:0 "Suiones"
+ SUI_ADJ:0 "Suiones"
+ 
+ CTI:0 "Chatti"
+ CTI_ADJ:0 "Chatti"
+ 
+ QDI:0 "Quadi"
+ QDI_ADJ:0 "Quadi"
+ 
+ COT:0 "Cotini"
+ COT_ADJ:0 "Cotini"
 
  OSR:0 "Osroene Kingdom"
  OSR_ADJ:0 "Osroene"

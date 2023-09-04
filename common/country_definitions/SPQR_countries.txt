@@ -634,6 +634,138 @@ CIM = { #Cimbri
 	capital = STATE_JUTLAND
 }
 
+RGI = { #Rugii
+	color = { 177 51 34 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_POMERANIA
+}
+
+GTH = { #Goth
+	color = { 78  129  151 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_WEST_PRUSSIA
+}
+
+FRI = { #Frisian
+	color = { 20  80  80 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { dutch }
+	
+	capital = STATE_FRIESLAND
+}
+
+CCI = { #Chauci
+	color = { 164  217  127 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_HANNOVER
+}
+
+TNC = { #Tencteri
+	color = { 5 85 5 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_RUHR
+}
+
+CHR = { #Cherusci
+	color = { 203  62  185 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_WESTPHALIA
+}
+
+CTI = { #Chatti
+	color = { 169  194  107 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { north_german }
+	
+	capital = STATE_HESSE
+}
+
+QDI = { #Quadi
+	color = { 158  161  188 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { slovak }
+	
+	capital = STATE_WEST_SLOVAKIA
+}
+
+COT = { #Cotini 
+	color = { 43 89 202 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { slovak }
+	
+	capital = STATE_EAST_SLOVAKIA
+}
+
+HRL = { #Heruli 
+	color = { 251  161  22 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { danish }
+	
+	capital = STATE_ZEALAND
+}
+
+SUI = { #Suiones  
+	color = { 87  130  199 }
+	
+	country_type = decentralized
+	
+	tier = principality
+
+	cultures = { swedish }
+	
+	capital = STATE_SVEALAND
+}
+
 NUM = { # Numidia
 	color = { 220 202 96 }
 	

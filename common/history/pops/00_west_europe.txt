@@ -1,6 +1,6 @@
 ﻿POPS = {
 	s:STATE_SVEALAND = {
-		region_state:SWE = {
+		region_state:SUI = {
 			create_pop = {
 				culture = swedish
 				size = 1081208
@@ -16,7 +16,7 @@
 		}
 	}
 	s:STATE_GOTALAND = {
-		region_state:SWE = {
+		region_state:SUI = {
 			create_pop = {
 				culture = swedish
 				size = 800208
@@ -32,7 +32,7 @@
 		}
 	}
 	s:STATE_SCANIA = {
-		region_state:SWE = {
+		region_state:HRL = {
 			create_pop = {
 				culture = swedish
 				size = 512860
@@ -44,7 +44,7 @@
 		}
 	}
 	s:STATE_NORRLAND = {
-		region_state:SWE = {
+		region_state:SMI = {
 			create_pop = {
 				culture = swedish
 				size = 289400
@@ -60,7 +60,7 @@
 		}
 	}
 	s:STATE_GOTLAND = {
-		region_state:SWE = {
+		region_state:SUI = {
 			create_pop = {
 				culture = swedish
 				size = 33208
@@ -76,7 +76,7 @@
 		}
 	}
 	s:STATE_ZEALAND = {
-		region_state:DEN = {
+		region_state:HRL = {
 			create_pop = {
 				culture = danish
 				size = 647996
@@ -92,7 +92,7 @@
 		}
 	}
 	s:STATE_WESTERN_NORWAY = {
-		region_state:NOR = {
+		region_state:RGI = {
 			create_pop = {
 				culture = norwegian
 				size = 546800
@@ -100,7 +100,7 @@
 		}
 	}
 	s:STATE_NORTHERN_NORWAY = {
-		region_state:NOR = {
+		region_state:SMI = {
 			create_pop = {
 				culture = norwegian
 				size = 284860
@@ -116,7 +116,7 @@
 		}
 	}
 	s:STATE_EASTERN_NORWAY = {
-		region_state:NOR = {
+		region_state:SMI = {
 			create_pop = {
 				culture = norwegian
 				size = 345800
@@ -899,7 +899,7 @@
 	}
 	# Zuidholland, Noordholland, Zeeland, and Utrecht
 	s:STATE_HOLLAND = {
-		region_state:NET = {
+		region_state:FRI = {
 			create_pop = {
 				culture = dutch
 				size = 842331
@@ -930,7 +930,7 @@
 	}
 	# Friesland, Overijssel, Groningen, and Drenthe
 	s:STATE_FRIESLAND = { 
-		region_state:NET = {
+		region_state:FRI = {
 			create_pop = {
 				culture = dutch
 				size = 528678
@@ -953,7 +953,7 @@
 	}
 	# Noordbrabant, Gelderland, and Limburg
 	s:STATE_GELRE = {
-		region_state:NET = {
+		region_state:FRI = {
 			create_pop = {
 				culture = dutch
 				size = 192091
@@ -1163,7 +1163,7 @@
 		}
 	}
 	s:STATE_POMERANIA = {
-		region_state:PRU = {
+		region_state:RGI = {
 			create_pop = {
 				culture = north_german
 				size = 1018800
@@ -1268,7 +1268,7 @@
 		}
 	}
 	s:STATE_WESTPHALIA = {
-		region_state:PRU = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -1283,7 +1283,7 @@
 				size = 506715
 			}
 		}
-		region_state:LIP = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -1294,7 +1294,7 @@
 				size = 27336
 			}
 		}	
-		region_state:SCM = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -1389,7 +1389,7 @@
 	}
 
 	s:STATE_RUHR = {
-		region_state:PRU = {
+		region_state:TNC = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -1497,7 +1497,7 @@
 		}		
 	}
 	s:STATE_BADEN = {
-		region_state:BAD = {
+		region_state:HEL = {
 			create_pop = {
 				culture = south_german
 				size = 905246
@@ -1519,7 +1519,7 @@
 		}
 	}
 	s:STATE_HANNOVER = {
-		region_state:OLD = {
+		region_state:CCI = {
 			create_pop = {
 				culture = north_german
 				size = 219696
@@ -1530,7 +1530,7 @@
 				size = 38000
 			}
 		}
-		region_state:HAN = {
+		region_state:CCI = {
 			create_pop = {
 				culture = north_german
 				size = 942208
@@ -1551,7 +1551,7 @@
 		}
 	}
 	s:STATE_BRUNSWICK = {
-		region_state:HAN = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				size = 180000
@@ -1562,7 +1562,7 @@
 				size = 4000
 			}
 		}
-		region_state:BRA = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				size = 220400
@@ -1573,7 +1573,7 @@
 				size = 4000
 			}
 		}
-		region_state:PRU = {
+		region_state:CHR = {
 			create_pop = {
 				culture = north_german
 				size = 112000
@@ -1641,7 +1641,7 @@
 		}		
 	}
 	s:STATE_HESSE = {
-		region_state:FRM = {
+		region_state:CTI = {
 			create_pop = {
 				culture = north_german
 				size = 100872
@@ -1656,7 +1656,7 @@
 				size = 8000
 			}
 		}
-		region_state:HES = {
+		region_state:CTI = {
 			create_pop = {
 				culture = north_german
 				size = 583308
@@ -1671,7 +1671,7 @@
 				size = 5000
 			}
 		}
-		region_state:HEK = {
+		region_state:CTI = {
 			create_pop = {
 				culture = north_german
 				size = 500688
@@ -1686,7 +1686,7 @@
 				size = 3400
 			}
 		}		
-		region_state:NAS = {
+		region_state:CTI = {
 			create_pop = {
 				culture = north_german
 				size = 192004
@@ -1701,7 +1701,7 @@
 				size = 208000
 			}
 		}
-		region_state:WLD = {
+		region_state:CTI = {
 			create_pop = {
 				culture = north_german
 				size = 27436

@@ -2768,9 +2768,9 @@ CAS = {
 SMI = { # Sapmi
 	color = { 28 146 136 }
 	
-	country_type = unrecognized
+	country_type = decentralized
 	
-	tier = city_state
+	tier = principality
 	
 	cultures = { sami }
 	
