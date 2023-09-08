@@ -189,7 +189,7 @@ GRI = {
 
 JAP = {
 	color = { 194 53 60 }
-	country_type = unrecognized
+	country_type = decentralized #weebs punching sand
 	
 	tier = empire
 	
@@ -1890,11 +1890,11 @@ CMI = {
 }
 
 TIB = {
-	color = { 65  127  186 }
+	color = { 65 127 186 }
 	
-	country_type = unrecognized
+	country_type = decentralized
 	
-	tier = kingdom
+	tier = principality
 	
 	cultures = { tibetan }
 	capital = STATE_LHASA

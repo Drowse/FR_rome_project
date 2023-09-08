@@ -1,5 +1,5 @@
 COUNTRIES = {
-	c:Mahan = {
+	c:MHN = {
 
 		ig:ig_landowners = {
 			add_ruling_interest_group = yes

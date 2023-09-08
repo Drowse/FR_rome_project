@@ -80,7 +80,7 @@ MSH = { #Mishihase, North Honshu
 	}
 	religion = animist
 
-	captial = STATE_TOHOKU
+	capital = STATE_TOHOKU
 	is_named_from_capital = no
 }
 
@@ -121,10 +121,10 @@ PRT = { #Parthia
 
 	country_type = unrecognized
 
-	cultures = { persian } #should be Scythian
+	cultures = { persian } #should be Scythian too?
 	religion = zoroastrian
 
-	capital = STATE_TURKMENIA
+	capital = STATE_LURISTAN
 
 	is_named_from_capital = yes
 }
@@ -145,7 +145,7 @@ IGK = { #Indo-Greek Kingdom
 }
 
 PON = { #Pontus
-	color = { 275 30 94 }
+	color = { 190 60 100 }
 
 	tier = kingdom
 
@@ -1007,7 +1007,7 @@ KYE = { #Ye
 	}
 	religion = mahayana
 
-	captial = STATE_SEOUL
+	capital = STATE_SEOUL
 	is_named_from_capital = no
 }
 
@@ -1023,7 +1023,7 @@ JHN = { #Jinhan
 	}
 	religion = mahayana
 
-	captial = STATE_BUSAN
+	capital = STATE_BUSAN
 	is_named_from_capital = yes
 }
 
@@ -1039,7 +1039,7 @@ BYH = { #Byeonhan
 	}
 	religion = mahayana
 
-	captial = STATE_BUSAN
+	capital = STATE_BUSAN
 	is_named_from_capital = no
 }
 
@@ -1055,7 +1055,7 @@ MHN = { #Mahan
 	}
 	religion = mahayana
 
-	captial = STATE_YANGHO
+	capital = STATE_YANGHO
 	is_named_from_capital = no
 }
 
@@ -1071,7 +1071,7 @@ BKJ = { #Baekje
 	}
 	religion = mahayana
 
-	captial = STATE_SEOUL
+	capital = STATE_SEOUL
 	is_named_from_capital = no
 }
 
@@ -1087,7 +1087,7 @@ BYO = { #Buyeo
 	}
 	religion = mahayana
 
-	captial = STATE_SOUTHERN_MANCHURIA
+	capital = STATE_SOUTHERN_MANCHURIA
 	is_named_from_capital = no
 }
 
@@ -1237,7 +1237,7 @@ KSH = { #Kushan, Yuezhi at game start
 	country_type = unrecognized #should probably be decentralized but they'd be a fun tag to play
 
 	cultures = {
-		kyrgyz
+		persian
 	}
 
 	capital = STATE_UZBEKIA
@@ -1246,7 +1246,7 @@ KSH = { #Kushan, Yuezhi at game start
 KAP = {
 	color = { 255 220 220 }
 
-	tier = princiapality
+	tier = principality
 
 	country_type = unrecognized
 
@@ -1260,7 +1260,7 @@ KAP = {
 PKV = {
 	color = { 130 140 255 }
 
-	tier = princiapality
+	tier = principality
 
 	country_type = decentralized
 
@@ -1423,4 +1423,144 @@ LIB = {
 	}
 
 	capital = STATE_LIBYAN_DESERT
+}
+
+CAP = {
+	color = { 175 225 255 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek persian
+	}
+
+	capital = STATE_ANKARA
+}
+
+BIT = {
+	color = { 255 160 145 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek persian
+	}
+
+	capital = STATE_HUDAVENDIGAR
+}
+
+PEG = {
+	color = { 135 145 255 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek persian
+	}
+
+	capital = STATE_AYDIN
+}
+
+CIL = {
+	color = { 120 170 140 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek persian
+	}
+
+	capital = STATE_ADANA
+}
+
+IBE = {
+	color = { 220 140 255 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		georgian
+	}
+
+	capital = STATE_GREATER_CAUCASUS
+}
+
+CAB = {
+	color = { 80 135 100 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		georgian
+	}
+
+	capital = STATE_GREATER_CAUCASUS
+}
+
+LYD = {
+	color = { 130 60 50 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek persian
+	}
+
+	capital = STATE_KONYA
+}
+
+RHO = {
+	color = { 80 130 140 }
+
+	tier = principality
+
+	country_type = unrecognized
+
+	cultures = {
+		greek
+	}
+
+	capital = STATE_EAST_AEGEAN_ISLANDS
+}
+
+YLO = {
+	color = { 120 85 190 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		manchu han
+	}
+
+	capital = STATE_SOUTHERN_MANCHURIA
+}
+
+ALA = {
+	color = { 145 190 85 }
+
+	tier = principality
+
+	country_type = decentralized
+
+	cultures = {
+		kazakh
+	}
+
+	capital = STATE_URALSK
 }

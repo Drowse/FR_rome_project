@@ -60,4 +60,34 @@
 			type = vassal
 		}
 	}
+
+	c:PON = {
+		create_diplomatic_pact = {
+			country = c:CAP
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:BIT
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:PEG
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:COL
+			type = vassal
+		}
+	}
+
+	c:ARM = {
+		create_diplomatic_pact = {
+			country = c:IBE
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:CAB
+			type = vassal
+		}
+	}
 }

@@ -45,7 +45,7 @@
  ARM_ADJ:0 "Armenian"
 
  CHI:0 "Western Han"
- CHI_ADJ:0 "Imperial Chinese"
+ CHI_ADJ:0 "Chinese"
 
  PRT:0 "Parthia"
  PRT_ADJ:0 "Parthian"
@@ -382,3 +382,36 @@
 
  OMA:0 "Mazun"
  OMA_ADJ:0 "Mazunite"
+
+ CAP:0 "Cappadocia"
+ CAP_ADJ:0 "Cappadocian"
+
+ BIT:0 "Bithynia"
+ BIT_ADJ:0 "Bithynian"
+
+ PEG:0 "Pergamon"
+ PEG_ADJ:0 "Pergamonite"
+
+ CIL:0 "Cilicia"
+ CIL_ADJ:0 "Cilician"
+
+ IBE:0 "Iberia"
+ IBE_ADJ:0 "Iberian"
+
+ CAB:0 "Albania"
+ CAB_ADJ:0 "Albanian"
+ 
+ LYD:0 "Lydia"
+ LYD_ADJ:0 "Lydian"
+
+ RHO:0 "Rhodes"
+ RHO_ADJ:0 "Rhodian"
+
+ YLO:0 "Yilou"
+ YLO_ADJ:0 "Yilou"
+
+ ALA:0 "Alans"
+ ALA_ADJ:0 "Alanian"
+
+ TIB:0 "Tibetans"
+ TIB_ADJ:0 "Tibetan"
