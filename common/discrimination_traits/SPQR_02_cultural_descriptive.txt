@@ -1,0 +1,92 @@
+﻿#sausage_eater = {
+#}
+
+african_settler = { # Don't Use
+}
+
+finnic = { 
+}
+
+francophone = { # Don't Use
+}
+
+hispanophone = { # Non-Celtic Iberians
+}
+
+lusophone = { # Don't Use
+}
+
+anglophone = { # Don't Use
+}
+
+german_speaking = {
+}
+
+italophone = { #Non-Latin Italians
+}
+
+slavic = { #Veneti
+}
+
+jugoslav = { # Don't Use
+}
+
+jewish_group = {
+}
+
+han_chinese = {
+}
+
+arab_speaking = {
+}
+
+turkic = { #Central Asian Turks
+}
+
+sinosphere = {
+}
+
+tai = {
+}
+
+yamato = {
+}
+
+himalayan = {
+}
+
+bantu = {
+}
+
+ethiopian = {
+}
+
+caucasus_group = {
+}
+
+polynesian_group = {
+}
+
+rumelian = {
+}
+
+celtic_people = {
+}
+
+west_slavic = { # Don't Use
+}
+
+east_slavic = { # Don't Use
+}
+
+greek_culture = {
+}
+
+swiss = { # Don't Use
+}
+
+latin_speaking = {
+}
+
+phoenecian_speaking = {
+}

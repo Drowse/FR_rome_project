@@ -142,23 +142,23 @@ confucian = { # China
 tyet = { # Egyption cult of Isis
 	texture = "gfx/interface/icons/religion_icons/tyet.dds"
 	traits = {
-		mediterranean # western
+		near_east # western
 	}
 	color = { 1.0 1.0 1.0 }
 }
 
-hellenism = { # Greco-Romman Pantheon
+hellenism = { # Greco-Roman Pantheon
 	texture = "gfx/interface/icons/religion_icons/hellenism.dds"
 	traits = {
-		mediterranean # western
+		near_east # western
 	}
-	color = { 1.0 1.0 1.0 }
+	color = { 0.5 1.0 1.0 }
 }
 
 phoenician = { # Carthage's Pantheon
 	texture = "gfx/interface/icons/religion_icons/phoenician.dds"
 	traits = {
-		mediterranean # western
+		near_east # western
 	}
 	color = { 1.0 1.0 1.0 }
 }
@@ -166,7 +166,7 @@ phoenician = { # Carthage's Pantheon
 druidism = { # Celtic's Pantheon
 	texture = "gfx/interface/icons/religion_icons/druidism.dds"
 	traits = {
-		mediterranean # western
+		near_east # western
 	}
 	color = { 1.0 1.0 1.0 }
 }
@@ -174,7 +174,7 @@ druidism = { # Celtic's Pantheon
 norse = { # Germanic Pantheon
 	texture = "gfx/interface/icons/religion_icons/norse.dds"
 	traits = {
-		mediterranean # western
+		near_east # western
 	}
 	color = { 1.0 1.0 1.0 }
 }
@@ -182,7 +182,7 @@ norse = { # Germanic Pantheon
 zoroastrian = { # Persian Religion
 	texture = "gfx/interface/icons/religion_icons/zoroastrian.dds"
 	traits = {
-		mediterranean # western
+		zoroastrian
 	}
 	color = { 1.0 1.0 1.0 }
 }

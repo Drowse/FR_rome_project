@@ -1,0 +1,47 @@
+﻿european_heritage = { # "Uncivlized" European Barbarians
+	heritage = yes
+}
+
+african_heritage = { # Sub-Saharan states
+	heritage = yes
+}
+
+east_asian_heritage = { # Chinese Cultural Sphere
+	heritage = yes
+}
+
+middle_eastern_heritage = { # Persia Cultural Sphere ie Armenia
+	heritage = yes
+}
+
+american_heritage = { # Don't Use
+	heritage = yes
+}
+
+central_asian_heritage = { # Turks and Mongolic?
+	heritage = yes
+}
+
+south_asian_heritage = { #Hindu sphere
+	heritage = yes
+}
+
+indigenous_american_heritage = {
+	heritage = yes
+}
+
+southeast_asian_heritage = {
+	heritage = yes
+}
+
+indigenous_oceanic_heritage = { # Austronesian peoples
+	heritage = yes
+}
+
+north_asian_heritage = { #Siberan, Ungrian and Finnic People
+	heritage = yes
+}
+
+mediterranean_heritage = { # All cultures infleunced by ancient Egypt, ie Greeks and Phonecians
+	heritage = yes
+}

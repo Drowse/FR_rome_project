@@ -1,0 +1,31 @@
+﻿christian = { #Don't Use - Drowse
+	heritage = yes
+}
+
+muslim = { #Don't Use
+	heritage = yes
+}
+
+jewish = {
+	heritage = yes
+}
+
+eastern = { #Confuncian Philosophy
+	heritage = yes
+}
+
+animist = { # Druids, Germanic, Chakana, 
+	heritage = yes
+}
+
+buddhist = { #Don't Use
+	heritage = yes
+}
+
+near_east = { # Hellennism, Punic, Egyptian
+	heritage = yes
+}
+
+zoroastrian = { 
+	heritage = yes
+}

@@ -5,11 +5,11 @@
 	
 	country_type = recognized #[colonial] [decentralized] [unrecognized] [recognized]
 	
-	cultures = { north_italian south_italian } #need to rework these for classical era cultures
-	religion = catholic #Need to add Classical era religions
+	cultures = { latin } #need to rework these for classical era cultures
+	religion = hellenism #Need to add Classical era religions
 	
 	capital = STATE_LAZIO
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 XNG = { #Xiongnu Confederation
