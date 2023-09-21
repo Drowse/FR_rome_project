@@ -1186,7 +1186,7 @@ COL = { #Colchis
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		georgian
@@ -1218,7 +1218,7 @@ SAK = { #Sakastan
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		persian #scythian??? hard to say
@@ -1262,7 +1262,7 @@ PKV = {
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		greek pashtun
@@ -1486,7 +1486,7 @@ IBE = {
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		georgian
@@ -1500,7 +1500,7 @@ CAB = {
 
 	tier = principality
 
-	country_type = decentralized
+	country_type = unrecognized
 
 	cultures = {
 		georgian

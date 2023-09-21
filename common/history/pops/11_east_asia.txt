@@ -174,8 +174,8 @@
 			}
 		}
 	}
-	s:STATE_HINGGAN = {
-		region_state:CHI = {
+	s:STATE_HINGGAN = { #Monan in-game
+		region_state:XNG = {
 			create_pop = {
 				culture = mongol
 				size = 536940
@@ -249,7 +249,7 @@
 		}
 	}
 	s:STATE_OUTER_MANCHURIA = {
-		region_state:CHI = {
+		region_state:TNG = {
 			create_pop = {
 				culture = manchu
 				size = 1303996
@@ -263,12 +263,26 @@
 				size = 32800
 			}
 		}
-	}
-	s:STATE_SOUTHERN_MANCHURIA = {
 		region_state:XNG = {
 			create_pop = {
+				culture = mongol
+				size = 1303996
+			}
+			create_pop = {
+				culture = tatar
+				size = 11996
+			}
+			create_pop = {
+				culture = siberian
+				size = 32800
+			}
+		}
+	}
+	s:STATE_SOUTHERN_MANCHURIA = {
+		region_state:BYO = {
+			create_pop = {
 				culture = manchu
-				size = 5210800
+				size = 2210800
 			}
 			create_pop = {
 				culture = han # nanfaren
@@ -283,9 +297,45 @@
 				size = 80412
 			}
 		}
+		region_state:YLO = {
+			create_pop = {
+				culture = manchu
+				size = 1210800
+			}
+			create_pop = {
+				culture = han # nanfaren
+				size = 3011992
+			}
+			create_pop = {
+				culture = korean
+				size = 504000
+			}
+			create_pop = {
+				culture = mongol
+				size = 80412
+			}
+		}
+		region_state:XUA = {
+			create_pop = {
+				culture = korean
+				size = 2210800
+			}
+			create_pop = {
+				culture = han # nanfaren
+				size = 3011992
+			}
+			create_pop = {
+				culture = manchu
+				size = 504000
+			}
+			create_pop = {
+				culture = mongol
+				size = 80412
+			}
+		}
 	}
 	s:STATE_NORTHERN_MANCHURIA = {
-		region_state:CHI = {
+		region_state:XNG = {
 			create_pop = {
 				culture = manchu
 				size = 2821200
@@ -842,7 +892,7 @@
 		}
 	}
 	s:STATE_TONKIN = {
-		region_state:DAI = {
+		region_state:CHI = {
 			create_pop = {
 				culture = vietnamese
 				size = 1841220
@@ -1058,7 +1108,7 @@
 		}
 	}
 	s:STATE_TENASSERIM = {
-		region_state:BIC = {
+		region_state:JOH = {
 			create_pop = {
 				culture = karen
 				size = 180800
@@ -1083,29 +1133,6 @@
 				pop_type = slaves
 				culture = karen
 				size = 20000
-			}
-		}
-		region_state:SIA = {
-			create_pop = {
-				culture = burmese
-				size = 36000
-			}
-			create_pop = {
-				culture = mon
-				size = 3480
-			}
-			create_pop = {
-				culture = karen
-				size = 60800
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = karen
-				size = 20000
-			}
-			create_pop = {
-				culture = thai
-				size = 44020
 			}
 		}
 	}
@@ -1234,38 +1261,43 @@
 				size = 49500
 			}
 		}
-		region_state:JAP = {
+		region_state:ESH = {
 			create_pop = {
 				culture = ainu
-				size = 9020
+				size = 11652
 			}
+		}
+		region_state:MSH = {
 			create_pop = {
-				culture = japanese
-				size = 9862
+				culture = ainu
+				size = 9647
 			}
 		}
 	}
 	s:STATE_TOHOKU = {
-		region_state:JAP = {
+		region_state:ESH = {
 			create_pop = {
-				culture = japanese
-				size = 2374632
-			}
-			create_pop = {
-				culture = japanese
+				culture = ainu
 				religion = shinto
-				size = 917280
+				size = 1417280
+			}
+		}
+		region_state:MSH = {
+			create_pop = {
+				culture = ainu
+				religion = shinto
+				size = 1617280
 			}
 		}
 	}
 	s:STATE_KANTO = {
-		region_state:JAP = {
+		region_state:ESH = {
 			create_pop = {
-				culture = japanese
+				culture = ainu
 				size = 4050072
 			}
 			create_pop = {
-				culture = japanese
+				culture = ainu
 				religion = shinto
 				size = 1123204
 			}
@@ -1275,10 +1307,20 @@
 		region_state:JAP = {
 			create_pop = {
 				culture = japanese
-				size = 4127776
+				religion = shinto
+				size = 2745764
 			}
+		}
+		region_state:ESH = {
 			create_pop = {
 				culture = japanese
+				religion = shinto
+				size = 2745764
+			}
+		}
+		region_state:MSH = {
+			create_pop = {
+				culture = ainu
 				religion = shinto
 				size = 1745764
 			}
@@ -1371,10 +1413,16 @@
 		}
 	}
 	s:STATE_YANGHO = {
-		region_state:KOR = {
+		region_state:MHN = {
 			create_pop = {
 				culture = korean
-				size = 4552487
+				size = 3852487
+			}
+		}
+		region_state:KYE = {
+			create_pop = {
+				culture = korean
+				size = 70000
 			}
 		}
 	}
@@ -1387,7 +1435,7 @@
 		}
 	}
 	s:STATE_PYONGYANG = {
-		region_state:KOR = {
+		region_state:CHI = {
 			create_pop = {
 				culture = korean
 				size = 3612828

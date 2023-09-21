@@ -209,6 +209,30 @@
 				size = 101
 			}
 		}
+		region_state:NAB = {
+			create_pop = {
+				culture = misri
+				size = 2000
+			}
+			create_pop = {
+				culture = mashriqi
+				size = 51
+			}
+			create_pop = {
+				culture = bedouin
+				size = 111
+			}
+			create_pop = {
+				culture = misri
+				religion = oriental_orthodox
+				size = 87
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 10
+			}
+		}
 	}
 	s:STATE_ERITREA = {
 		region_state:AXM = {
@@ -741,7 +765,7 @@
 		}
 	}
 	s:STATE_LIBYAN_DESERT = {
-		region_state:CAR = {
+		region_state:LIB = {
 			create_pop = {
 				culture = bedouin
 				size = 30000

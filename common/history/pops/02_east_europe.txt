@@ -294,21 +294,16 @@
 				culture = south_german
 				size = 28000
 			}
-
 		}
-		region_state:SRM = {
+		region_state:PON = {
 			create_pop = {
 				culture = greek
-				size = 7996
+				size = 17996
 			}
 			create_pop = {
-				culture = bulgarian
+				culture = ukrainian
 				size = 12000
-			}
-			create_pop = {
-				culture = south_italian
-				size = 20000
-			}			
+			}		
 		}
 	}
 	s:STATE_GALICH = {
@@ -381,7 +376,7 @@
 		}
 	}
 	s:STATE_ESTONIA = {
-		region_state:RUS = {
+		region_state:EST = {
 			create_pop = {
 				culture = estonian
 				size = 573800
@@ -401,7 +396,7 @@
 		}
 	}
 	s:STATE_LATVIA = {
-		region_state:RUS = {
+		region_state:EST = {
 			create_pop = {
 				culture = latvian
 				size = 1047496
@@ -434,7 +429,7 @@
 		}
 	}
 	s:STATE_LITHUANIA = {
-		region_state:RUS = {
+		region_state:EST = {
 			create_pop = {
 				culture = polish
 				size = 111796

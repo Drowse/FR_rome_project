@@ -3,7 +3,7 @@
 		region_state:NEJ = {
 			create_pop = {
 				culture = bedouin
-				size = 93996
+				size = 44000
 			}
 			create_pop = {
 				culture = bedouin
@@ -17,9 +17,15 @@
 				size = 7000
 			}
 		}
+		region_state:GRR = {
+			create_pop = {
+				culture = bedouin
+				size = 54000
+			}
+		}
 	}
 	s:STATE_OMAN = {
-		region_state:OMA = {
+		region_state:NEJ = {
 			create_pop = {
 				culture = bedouin
 				religion = shiite
@@ -60,9 +66,16 @@
 				size = 9000
 			}
 		}
+		region_state:MAH = {
+			create_pop = {
+				culture = bedouin
+				religion = shiite
+				size = 4000
+			}
+		}
 	}
-	s:STATE_ABU_DHABI = {
-		region_state:ABU = {
+	s:STATE_ABU_DHABI = { #trucial coast in-game
+		region_state:GRR = {
 			create_pop = {
 				culture = bedouin
 				religion = sunni
@@ -88,6 +101,13 @@
 				culture = sephardic
 				religion = jewish
 				size = 120
+			}
+		}
+		region_state:CRC = {
+			create_pop = {
+				culture = bedouin
+				religion = sunni
+				size = 4750
 			}
 		}
 		region_state:OMA = {
@@ -216,6 +236,12 @@
 				size = 3200
 			}
 		}
+		region_state:NEJ = {
+			create_pop = {
+				culture = bedouin
+				size = 6533
+			}
+		}
 		region_state:KAT = {
 			create_pop = {
 				culture = bedouin
@@ -257,7 +283,7 @@
 		}
 	}
 	s:STATE_HEDJAZ = {
-		region_state:HDJ = {
+		region_state:NEJ = {
 			create_pop = {
 				culture = bedouin
 				religion = sunni
@@ -292,7 +318,7 @@
 		}
 	}
 	s:STATE_HAIL = {
-		region_state:JAB = {
+		region_state:GRR = {
 			create_pop = {
 				culture = bedouin
 				size = 38496
@@ -311,6 +337,33 @@
 				pop_type = slaves
 				culture = sudanese
 				size = 2300
+			}
+		}
+		region_state:NAB = {
+			create_pop = {
+				culture = bedouin
+				size = 14496
+			}
+			create_pop = {
+				culture = bedouin
+				religion = shiite
+				size = 5000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = north_caucasian
+				size = 100
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 2300
+			}
+		}
+		region_state:CRC = {
+			create_pop = {
+				culture = bedouin
+				size = 4287
 			}
 		}
 		region_state:NEJ = {
@@ -368,7 +421,7 @@
 		}
 	}
 	s:STATE_TRANSJORDAN = {
-		region_state:JAB = {
+		region_state:NAB = {
 			create_pop = {
 				culture = bedouin
 				religion = sunni
@@ -405,8 +458,57 @@
 				size = 300
 			}
 		}
+		region_state:ITU = {
+			create_pop = {
+				culture = bedouin
+				religion = sunni
+				size = 3400
+			}
+			create_pop = {
+				culture = bedouin
+				religion = orthodox
+				size = 800
+			}
+			create_pop = {
+				culture = mashriqi
+				religion = sunni
+				size = 1200
+			}
+			create_pop = {
+				culture = mashriqi
+				religion = orthodox
+				size = 850
+			}
+			create_pop = {
+				culture = mashriqi
+				religion = shiite
+				size = 75
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = north_caucasian
+				size = 100
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 300
+			}
+		}
 	}
 	s:STATE_PALESTINE = {
+		region_state:PAL = {
+			create_pop = {
+				culture = mashriqi
+				religion = sunni
+				size = 1700
+			}
+			create_pop = {
+				culture = sephardic
+				religion = jewish
+				size = 750
+			}
+		}
 		region_state:PAL = {
 			create_pop = {
 				culture = mashriqi
@@ -887,7 +989,7 @@
 		}
 		region_state:SAK = {
 			create_pop = {
-				culture = uighur
+				culture = greek
 				size = 42300
 			}
 		}

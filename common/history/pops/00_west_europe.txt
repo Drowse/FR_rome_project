@@ -1151,7 +1151,7 @@
 		}
 	}
 	s:STATE_SOUTH_TYROL = {
-		region_state:SPR = {
+		region_state:RAE = {
 			create_pop = {
 				culture = south_german
 				size = 174100
@@ -1469,7 +1469,7 @@
 		}
 	}
 	s:STATE_WURTTEMBERG = {
-		region_state:WUR = {
+		region_state:HRM = {
 			create_pop = {
 				culture = south_german
 				religion = protestant

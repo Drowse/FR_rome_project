@@ -57,37 +57,37 @@
 	c:IGK = {
 		create_diplomatic_pact = {
 			country = c:PKV
-			type = vassal
+			type = puppet
 		}
 	}
 
 	c:PON = {
 		create_diplomatic_pact = {
 			country = c:CAP
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:BIT
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:PEG
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:COL
-			type = vassal
+			type = puppet
 		}
 	}
 
 	c:ARM = {
 		create_diplomatic_pact = {
 			country = c:IBE
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:CAB
-			type = vassal
+			type = puppet
 		}
 	}
 }

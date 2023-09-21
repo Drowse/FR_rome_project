@@ -293,7 +293,7 @@
 		}
 	}
 	s:STATE_URALSK = {
-		region_state:RUS = {
+		region_state:ALA = {
 			create_pop = {
 				culture = kazak
 				size = 42000
@@ -315,10 +315,10 @@
 			}
 		}
 
-		region_state:OZH = {
+		region_state:SMY = {
 			create_pop = {
-				culture = russian
-				size = 1000
+				culture = tatar
+				size = 10000
 			}
 			create_pop = {
 				culture = kazak
@@ -450,6 +450,12 @@
 			create_pop = {
 				culture = kirgiz
 				size = 16000
+			}
+		}
+		region_state:KSH = {
+			create_pop = {
+				culture = tajik
+				size = 2110
 			}
 		}
 	}
@@ -610,8 +616,8 @@
 		}
 	}
 	# Please do not ask where these numbers come from.
-	s:STATE_JETISY = {
-		region_state:CHI = {
+	s:STATE_JETISY = { #Ili in-game
+		region_state:XNG = {
 			create_pop = {
 				culture = kazak
 				size = 200642
@@ -831,7 +837,7 @@
 				size = 21000
 			}
 		}
-		region_state:KSH = {
+		region_state:KAP = {
 			create_pop = {
 				culture = pashtun
 				size = 20000

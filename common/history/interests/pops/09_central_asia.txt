@@ -567,7 +567,7 @@
 		}
 	}
 	# Please do not ask where these numbers come from.
-	s:STATE_JETISY = {
+	s:STATE_JETISY = { #Ili in-game
 		region_state:CHI = {
 			create_pop = {
 				culture = kazak

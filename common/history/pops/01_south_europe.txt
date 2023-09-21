@@ -590,24 +590,47 @@
 		region_state:THR = {
 			create_pop = {
 				culture = turkish
-				size = 273408
+				size = 144408
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 497600
+				size = 250600
 			}
 			create_pop = {
 				culture = greek
-				size = 40004
+				size = 20004
 			}
 			create_pop = {
 				culture = bulgarian
 				religion = sunni
-				size = 35600
+				size = 14600
 			}
 			create_pop = {
 				culture = sephardic
-				size = 6996
+				size = 3596
+			}
+		}
+		region_state:GRE = {
+			create_pop = {
+				culture = turkish
+				size = 144408
+			}
+			create_pop = {
+				culture = bulgarian
+				size = 250600
+			}
+			create_pop = {
+				culture = greek
+				size = 20004
+			}
+			create_pop = {
+				culture = bulgarian
+				religion = sunni
+				size = 14600
+			}
+			create_pop = {
+				culture = sephardic
+				size = 3596
 			}
 		}
 	}
@@ -619,11 +642,21 @@
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 660000
+				size = 640000
 			}
 			create_pop = {
 				culture = sephardic
 				size = 4004
+			}
+		}
+		region_state:PON = {
+			create_pop = {
+				culture = turkish
+				size = 210
+			}
+			create_pop = {
+				culture = greek
+				size = 45134
 			}
 		}
 	}
@@ -801,7 +834,7 @@
 		}
 	}
 	s:STATE_CRETE = {
-		region_state:EGY = {
+		region_state:RHO = {
 			create_pop = {
 				culture = turkish
 				size = 59992
@@ -948,7 +981,17 @@
 				culture = lacustrine_bantu
 				size = 1500
 			}
-
+		}
+		region_state:THR = {
+			create_pop = {
+				culture = greek
+				size = 11000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = north_caucasian
+				size = 300
+			}
 		}
 	}
 	s:STATE_IONIAN_ISLANDS = {
