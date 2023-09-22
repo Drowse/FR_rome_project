@@ -2,30 +2,24 @@
 	s:STATE_LOMBARDY = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
-				size = 2376996
+				culture = gaulish
+				size = 2306996
 			}
 			create_pop = {
 				culture = latin
-				religion = jewish
-				size = 396
+				size = 76996
 			}
 		}
 	}
 	s:STATE_PIEDMONT = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
+				culture = gaulish
 				size = 2367188
 			}
 			create_pop = {
-				culture = french
+				culture = latin religion = hellenism
 				size = 93996
-			}
-			create_pop = {
-				culture = latin 
-				religion = jewish
-				size = 2804
 			}
 		}
 	}
@@ -113,15 +107,11 @@
 	s:STATE_SAVOY = {
 		region_state:SPR = {
 			create_pop = {
-				culture = french
+				culture = latin
 				size = 92032
 			}
 			create_pop = {
-				culture = francoprovencal
-				size = 195568
-			}
-			create_pop = {
-				culture = latin religion = hellenism
+				culture = gaulish
 				size = 181200
 			}
 		}
@@ -130,18 +120,12 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 472004
-			}
-		}
-		region_state:SPR = {
-			create_pop = {
-				culture = latin religion = hellenism
 				size = 108408
 			}
 		}
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
+				culture = latin
 				size = 648400
 			}
 		}
@@ -197,7 +181,7 @@
 	s:STATE_SICILY = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
+				culture = greek religion = hellenism
 				size = 1647596
 			}
 		}
@@ -205,13 +189,13 @@
 	s:STATE_TOLEDO = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = celtiberian
 				size = 1008400
 			}
 		}
 		region_state:VAC = {
 			create_pop = {
-				culture = spanish
+				culture = celtiberian
 				size = 268400
 			}
 		}
@@ -220,11 +204,11 @@
 		# 840792
 		region_state:GLI = {
 			create_pop = {
-				culture = galician
+				culture = celtiberian
 				size = 828528
 			}
 			create_pop = {
-				culture = spanish
+				culture = celtiberian
 				size = 12264
 			}
 		}
@@ -233,29 +217,21 @@
 		# please don't ask for a source
 		region_state:CNT = {
 			create_pop = {
-				culture = spanish
+				culture = celtiberian
 				size = 614264
-			}
-			create_pop = {
-				culture = basque
-				size = 32000
-			}
+			} 
 		}	
 	}
 	s:STATE_CASTILE = {
 		region_state:VAC = {
 			create_pop = {
-				culture = spanish
+				culture = celtiberian
 				size = 1030808
-			}
-			create_pop = {
-				culture = basque
-				size = 4000
 			}
 		}
 		region_state:LUS = {
 			create_pop = {
-				culture = portuguese
+				culture = celtiberian
 				size = 430808
 			}
 		}
@@ -263,58 +239,41 @@
 	s:STATE_NAVARRA = {
 		region_state:AQU = {
 			create_pop = {
-				culture = spanish
+				culture = aquitani
 				size = 579200
-			}
-			create_pop = {
-				culture = catalan
-				size = 32220
-			}
-			create_pop = {
-				culture = basque
-				size = 700060
 			}
 		}
 	}
 	s:STATE_ARAGON = {
 		region_state:AQU = {
 			create_pop = {
-				culture = basque
+				culture = aquitani
 				size = 100008
 			}		
 		}
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = iberian
 				size = 401200
-			}
-
-			create_pop = {
-				culture = catalan
-				size = 77996
 			}
 		}
 	}
 	s:STATE_CATALONIA = {
 		region_state:CAR = {
 			create_pop = {
-				culture = catalan
+				culture = iberian
 				size = 704308
-			}
-			create_pop = {
-				culture = spanish
-				size = 316804
 			}
 		}
 	}
 	s:STATE_BALEARES = {
 		region_state:CAR = {
 			create_pop = {
-				culture = catalan
+				culture = catalan # Punic
 				size = 145244
 			}
 			create_pop = {
-				culture = spanish
+				culture = iberian
 				size = 78020
 			}
 		}
@@ -322,7 +281,7 @@
 	s:STATE_ANDALUSIA = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = turdetani 
 				size = 1057592
 			}
 		}
@@ -330,57 +289,43 @@
 	s:STATE_GRANADA = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = iberian
 				size = 1218404
-			}
-		}
-		region_state:CAR = {
-			create_pop = {
-				culture = spanish
-				size = 49024
-			}
-			create_pop = {
-				culture = sephardic
-				size = 3200
 			}
 		}
 	}
 	s:STATE_BADAJOZ = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
-				size = 500992
+				culture = celtiberian
+				size = 450992
 			}
 		}
 		region_state:LUS = {
 			create_pop = {
-				culture = spanish
-				size = 79992
+				culture = celtiberian
+				size = 50992
 			}
 		}
 	}
 	s:STATE_VALENCIA = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = iberian
 				size = 989604
-			}
-			create_pop = {
-				culture = catalan
-				size = 490392
 			}
 		}
 	}
 	s:STATE_BEIRA = {
 		region_state:LUS = {
 			create_pop = {
-				culture = portuguese
+				culture = celtiberian
 				size = 920800
 			}
 		}
 		region_state:GLI = {
 			create_pop = {
-				culture = portuguese
+				culture = celtiberian
 				size = 620800
 			}
 		}
@@ -388,13 +333,13 @@
 	s:STATE_ESTREMADURA = {
 		region_state:LUS = {
 			create_pop = {
-				culture = portuguese
+				culture = celtiberian
 				size = 800796
 			}
 		}
 		region_state:CAR = {
 			create_pop = {
-				culture = portuguese
+				culture = celtiberian
 				size = 60796
 			}
 		}
@@ -402,7 +347,7 @@
 	s:STATE_ALENTEJO = {
 		region_state:CAR = {
 			create_pop = {
-				culture = portuguese
+				culture = turdetani
 				size = 372508
 			}
 		}
@@ -410,12 +355,8 @@
 	s:STATE_CAPE_VERDE = {
 		region_state:POR = {
 			create_pop = {
-				culture = portuguese
+				culture = portuguese #punic
 				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
 			}
 		}
 	}
@@ -423,12 +364,8 @@
 	s:STATE_MADEIRA = {
 		region_state:POR = {
 			create_pop = {
-				culture = portuguese
+				culture = portuguese #punic
 				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
 			}
 		}
 	}
@@ -436,7 +373,7 @@
 	s:STATE_CANARY_ISLANDS = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish
+				culture = spanish #punic
 				size = 208004
 			}
 		}
@@ -445,12 +382,8 @@
 	s:STATE_AZORES = {
 		region_state:CAR = {
 			create_pop = {
-				culture = portuguese
+				culture = portuguese #punic
 				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
 			}
 		}
 	}
