@@ -45,3 +45,7 @@ north_asian_heritage = { #Siberan, Ungrian and Finnic People
 mediterranean_heritage = { # All cultures infleunced by ancient Egypt, ie Greeks and Phonecians
 	heritage = yes
 }
+
+anatolian_heritage = {
+	heritage = yes
+}

@@ -19,6 +19,12 @@
 				size = 68004
 			}
 		}
+		region_state:XNG = {
+			create_pop = {
+				culture = uighur
+				size = 10255
+			}
+		}
 	}
 	s:STATE_TIANSHAN = {
 		region_state:CHI = {
@@ -51,7 +57,7 @@
 		}
 	}
 	s:STATE_SICHUAN = {
-		region_state:TIB = {
+		region_state:CHI = {
 			create_pop = {
 				culture = han # nanfaren
 				size = 9479900
@@ -619,8 +625,8 @@
 			}
 		}
 	}
-	s:STATE_ZHILI = {
-		region_state:XNG = {
+	s:STATE_ZHILI = { #Hebei in-game
+		region_state:CHI = {
 			create_pop = {
 				culture = han # nanfaren
 				size = 8446940

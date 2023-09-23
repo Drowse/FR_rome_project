@@ -23,7 +23,7 @@ XNG = { #Xiongnu Confederation
 	religion = mahayana
 	
 	capital = STATE_URGA
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 XUA = { #Xuantu Commandery
@@ -37,7 +37,7 @@ XUA = { #Xuantu Commandery
 	religion = mahayana
 	
 	capital = STATE_SOUTHERN_MANCHURIA
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 OKJ = { #Okjeo
@@ -51,7 +51,7 @@ OKJ = { #Okjeo
 	religion = mahayana
 	
 	capital = STATE_SARIWON
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 ESH = { #Emishi, North Honshu
@@ -65,7 +65,7 @@ ESH = { #Emishi, North Honshu
 	religion = animist
 	
 	capital = STATE_TOHOKU
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 MSH = { #Mishihase, North Honshu
@@ -81,7 +81,7 @@ MSH = { #Mishihase, North Honshu
 	religion = animist
 
 	capital = STATE_TOHOKU
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 SEL = { #Selucids
@@ -96,10 +96,10 @@ SEL = { #Selucids
 
 	capital = STATE_ALEPPO
 
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
-ARM = { #Armenia, obviously
+ARM = { #Armenia
 	color = { 172  58  52 }
 
 	tier = kingdom
@@ -111,7 +111,7 @@ ARM = { #Armenia, obviously
 
 	capital = STATE_ARMENIA
 
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 PRT = { #Parthia
@@ -126,7 +126,7 @@ PRT = { #Parthia
 
 	capital = STATE_LURISTAN
 
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 IGK = { #Indo-Greek Kingdom
@@ -141,7 +141,7 @@ IGK = { #Indo-Greek Kingdom
 
 	capital = STATE_EASTERN_AFGHANISTAN
 
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 PON = { #Pontus
@@ -151,12 +151,12 @@ PON = { #Pontus
 
 	country_type = recognized
 
-	cultures = { greek }
+	cultures = { greek persian }
 	religion = hellenism
 
 	capital = STATE_TRABZON
 
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 CAR = { #Carthage
@@ -417,7 +417,7 @@ SRM = { #Sarmatians
 
 	tier = principality
 	
-	cultures = { ukrainian }
+	cultures = { sarmatian } #alanian and scythian too
 	capital = STATE_LUHANSK
 }
 
@@ -521,7 +521,7 @@ DAC = { #Dacia
 	
 	tier = principality
 
-	cultures = { hungarian romanian }
+	cultures = { dacian }
 	
 	capital = STATE_SOUTHERN_TRANSYLVANIA
 }
@@ -545,7 +545,9 @@ PNN = { #Panonni
 	
 	tier = principality
 
-	cultures = { slovene }
+	cultures = {
+		illyrian
+	}
 	
 	capital = STATE_SLOVENIA
 }
@@ -737,7 +739,7 @@ COT = { #Cotini
 	
 	tier = principality
 
-	cultures = { slovak }
+	cultures = { gaulish }
 	
 	capital = STATE_EAST_SLOVAKIA
 }
@@ -954,7 +956,7 @@ HPL = { # Hopewell
 	capital = STATE_OHIO
 }
 
-GRE = { #Greece, Antigonids at start
+GRE = { #Macedonia
 	color = { 80 126 165 }
 
 	country_type = recognized
@@ -991,6 +993,10 @@ DRD = { #Dardania
 
 	religion = hellenism
 
+	cultures = {
+		illyrian
+	}
+
 	capital = STATE_SOUTHERN_SERBIA
 }
 
@@ -1003,6 +1009,10 @@ ILL = { #Illyria
 
 	religion = hellenism
 
+	cultures = {
+		illyrian
+	}
+
 	capital = STATE_SOUTHERN_SERBIA
 }
 
@@ -1014,6 +1024,10 @@ SDT = { #Sardiatae
 	tier = principality
 
 	religion = hellenism
+
+	cultures = {
+		illyrian
+	}
 
 	capital = STATE_BOSNIA
 }
@@ -1031,7 +1045,7 @@ KYE = { #Ye
 	religion = mahayana
 
 	capital = STATE_SEOUL
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 JHN = { #Jinhan
@@ -1047,7 +1061,7 @@ JHN = { #Jinhan
 	religion = mahayana
 
 	capital = STATE_BUSAN
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 BYH = { #Byeonhan
@@ -1063,7 +1077,7 @@ BYH = { #Byeonhan
 	religion = mahayana
 
 	capital = STATE_BUSAN
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 MHN = { #Mahan
@@ -1079,7 +1093,7 @@ MHN = { #Mahan
 	religion = mahayana
 
 	capital = STATE_YANGHO
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 BKJ = { #Baekje
@@ -1095,7 +1109,7 @@ BKJ = { #Baekje
 	religion = mahayana
 
 	capital = STATE_SEOUL
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 BYO = { #Buyeo
@@ -1111,7 +1125,7 @@ BYO = { #Buyeo
 	religion = mahayana
 
 	capital = STATE_SOUTHERN_MANCHURIA
-	is_named_from_capital = no
+	#is_named_from_capital = no
 }
 
 THR = { #Odrysian Kingdom
@@ -1122,7 +1136,7 @@ THR = { #Odrysian Kingdom
 	country_type = unrecognized
 
 	cultures = {
-		bulgarian
+		thracian
 	}
 
 	religion = hellenism #should  be thracian polytheism
@@ -1137,9 +1151,7 @@ BST = { #Bastarnae
 
 	country_type = decentralized
 
-	cultures = { #conflicting sources on whether they were Germanic or Celtic
-		german ukrainian romanian
-	}
+	cultures = { bastarnae }
 
 	capital = STATE_MOLDAVIA
 }
@@ -1152,7 +1164,7 @@ SCD = { #Scordisci
 	country_type = decentralized
 
 	cultures = {
-		noric
+		noric illyrian
 	}
 
 	capital = STATE_NORTHERN_SERBIA
@@ -1166,7 +1178,7 @@ GTE = { #Getae
 	country_type = decentralized
 
 	cultures = {
-		romanian
+		dacian
 	}
 
 	capital = STATE_WALLACHIA

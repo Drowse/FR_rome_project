@@ -22,6 +22,18 @@ anglophone = { # Don't Use
 german_speaking = {
 }
 
+greek_speaking = {
+}
+
+dacian_speaking = {
+}
+
+hebrew_speaking = {
+}
+
+syriac_speaking = {
+}
+
 italophone = { #Non-Latin Italians
 }
 

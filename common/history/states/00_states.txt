@@ -136,7 +136,7 @@ STATES = {
 			owned_provinces = { xD9E021 xB06121 x7f25cd x7763F3 x940C8D xA3D7CE x316021 }
 		}
 		create_state = {
-			country = c:PON
+			country = c:BST
 			owned_provinces = { x50F5CB }
 		}
 		
@@ -199,7 +199,7 @@ STATES = {
 			owned_provinces = { "x00D080" "x015080" "x045D1F" "x05C86D" "x1C7933" "x1F3466" "x25A8D9" "x2BA298" "x2BC1EA" "x2C7795" "x31FA95" "x3B9730" "x45A839" "x4C684C" "x540AA7" "x5469A6" "x566420" "x5FF764" "x698B74" "x6BA92A" "x7C8235" "x7CE092" "x805180" "x877DBA" "x8C259F" "x92B853" "x965A33" "xA34CA7" "xA526B5" "xA71AE3" "xAFB12B" "xAFC5AE" "xB3584E" "xBCA729" "xC05180" "xC8C540" "xCAE51A" "xCDEA34" "xCF1287" "xD1C0D1" "xD9240D" "xDDE385" "xE0A7F7" "xE0DD8E" "xE3D4F3" "xFE531B" "xFEDE19" "xFFA259" }
 		}
 		
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 		add_homeland = russian
 	}
 	s:STATE_VENETIA = {
@@ -6446,7 +6446,7 @@ STATES = {
 		add_homeland = russian
 		add_homeland = ugrian		
 	}
-	s:STATE_TARTARIA = { # Saratov in game
+	s:STATE_TARTARIA = { #Saratov in-game
 		create_state = {
 			country = c:UGR
 			owned_provinces = { x9672A5 x8447C0 x5DC7DF xD6ACAE x302B65 x0BAE1A x36696F xDB5E3F xF2884A x3BA63A x904CD8 x69239F xFAB9A8 xF0F779 x2517B5 x587F59 xD19BE5 x060F1F x60DF21 x1C9CEB xE4E080 x66929F x370996 x1233B6 xEBD048 xE8B3EC x9633B6 x5DFE91 x610EC7 xFBE9D0 xB5D0F6 x112A5D x184EBD xC7340F x8F80BA xB353F0 x4190C0 xD9BEED x53AFD2 x8840E2 xAA798E xB9D801 x6DC89F x1E7643 xEB7873 x41D846 xA2AEA2 xD7547A xF49A5A x461223 x135BEB xAE82E6 x248B83 x61384B x45E723 x79F049 x6161A0 x19C20A xC57104 x5EA87F x0B35A0 x269530 x7B5279 xBFDE90 x22B4AF x1084B6 xB80B2E x783E80 xB2B5F4 xFE56AF x352ACF x7A26E0 x7EB0D3 x006422 x003D07 x616020 x74730E xCC3356 xB3B6D0 x75659C x7D40C9 x54F76C x75FC6F x11A456 x00DA3C xE66DB2 x5F82DE x85fb7e }
@@ -6530,7 +6530,7 @@ STATES = {
 			}
 		}
 		
-		add_homeland = kazak
+		add_homeland = sarmatian
 	}
 	s:STATE_TURKMENIA = {
 		create_state = {
@@ -6773,10 +6773,7 @@ STATES = {
 			state_type = unincorporated
 
 		}
-		
-		add_homeland = north_caucasian
-		add_claim = c:CHC
-		add_claim = c:RUS
+		add_homeland = sarmatian
 	}
 	s:STATE_KUBAN = {
 		create_state = {
@@ -6789,7 +6786,7 @@ STATES = {
 		}
 		
 		add_homeland = russian
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 		add_homeland = circassian
 		add_homeland = north_caucasian
 		add_claim = c:CIR
@@ -6800,8 +6797,7 @@ STATES = {
 			country = c:SRM
 			owned_provinces = { "x015040" "x047D6D" "x0BABA7" "x0E39F5" "x12A2B2" "x12D336" "x176C7A" "x18458E" "x1B6544" "x1D7F6C" "x1EBACB" "x214E13" "x282DFB" "x2D1E10" "x2DED24" "x3AC527" "x41AA95" "x4254FA" "x444735" "x5559FD" "x653DD0" "x693D71" "x702ECE" "x70BC3A" "x741AD9" "x7C7526" "x801040" "x805140" "x8ACA65" "x96C1A2" "x9743F5" "xA79C89" "xB6EB91" "xCAF7B3" "xCC78E2" "xCFBC40" "xD19AC4" "xD4CB58" "xD559DF" "xD63384" "xD99F59" "xDC287A" "xDDC14D" "xDFC9F0" "xE06020" "xEC3999" "xEDBFF9" "xEEDC59" "xEF0EF7" "xFA0465" "xFFAEC1" }
 		}
-		add_homeland = kalmyk
-		add_homeland = russian
+		add_homeland = sarmatian
 	}
 	s:STATE_CRIMEA = {
 		create_state = {
@@ -6811,7 +6807,7 @@ STATES = {
 		
 		add_homeland = russian
 		add_homeland = tatar
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 	}
 	s:STATE_LUHANSK = {
 		create_state = {
@@ -6819,8 +6815,7 @@ STATES = {
 			owned_provinces = { x924D7E x3DA304 xB285AE xF60A93 x5BE6ED x71E061 x58331B xE6C06A x4202ED xB69E4B x580D2A x35FCF1 xF06161 xA1BAF7 x055C67 x0EBC1D xB06935 xCFBD13 x637D8D x04E110 x5AB195 x71E0E0 x76E2A3 x87109C x7020DF x386376 xAD4F1C xF0E061 x500F88 x9C070F xA0A57F xF061E0 xFA0D5E x4C5706 xBBC6BF x14786A x46BD2E x9A1118 x5B788C xC262E0 x7161E0 xBC52ED x628FBE x3C304D x19213B x7141E0 }
 		}
 		
-		add_homeland = ukrainian
-		add_homeland = russian
+		add_homeland = sarmatian
 	}
 	s:STATE_KURSK = {
 		create_state = {
@@ -6828,8 +6823,7 @@ STATES = {
 			owned_provinces = { x1A9007 x4EB8EA x20C1C2 x47C81B xC0E0E0 x69B611 x2198C8 x53EF9C xA79E4A x31B814 x3374D9 xF5419E xBEE23A xC7194D x669560 x21A0A0 xEABB0F x331CB3 x6A8F2C x4C0018 x45FA32 xF50161 x05E237 x8BEB3F xCE6B77 xE458EF x4A6AE0 xF57AA5 x4CD7AF x40DFDF x91942B x9E14B9 xF553F9 xC761A3 x0CA133 x607311 x172A98 xA6F3BC xBA2909 xAD54E9 xCF35AA x1C692E x828B91 x9E5DCB x738BEC x743EA5 x030048 x1A7021 xA87FC3 x6BEE31 xA0A0A0 x857200 }
 		}
 		
-		add_homeland = ukrainian
-		add_homeland = russian		
+		add_homeland = sarmatian	
 	}
 	s:STATE_NOVGOROD = {
 		create_state = {
@@ -6849,21 +6843,21 @@ STATES = {
 			owned_provinces = { "x000AE0" "x135B1E" "x8A09FD" "x716121" }
 		}
 		
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 	}
 	s:STATE_BESSARABIA = {
 		create_state = {
 			country = c:BST
-			owned_provinces = { x622837 x712161 xFC9EFE x8955DF xFDE796 x79D62E x8ACA9B x53D7E0 xE7274A x6BF7B8 }
+			owned_provinces = { x622837 x712161 xFC9EFE x8955DF xFDE796 x79D62E x8ACA9B x53D7E0 xE7274A x6BF7B8 xB0E0A0 }
 		}
 		
 		create_state = {
 			country = c:PON
-			owned_provinces = { xB0E0A0 x5F2259 x23621B x1E1DEF }
+			owned_provinces = { x5F2259 x23621B x1E1DEF }
 		}
 		
 		add_homeland = romanian
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 		add_claim = c:MOL
 	}
 	s:STATE_BRYANSK = {
@@ -6942,7 +6936,7 @@ STATES = {
 		}
 		
 		add_homeland = polish
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 	}
 	s:STATE_WEST_SLOVAKIA = {
 		create_state = {
@@ -7437,14 +7431,14 @@ STATES = {
 			owned_provinces = { xAFEBC8 x5A26AE x862F77 x80FB0F xAC6FAE x0EB3C7 x1A9FFE }
 		}
 		
-		add_homeland = ukrainian
+		add_homeland = ugrian
 	}
 	s:STATE_KIEV = {
 		create_state = {
 			country = c:SRM
 			owned_provinces = { "x01E0E0" "x022620" "x0319ED" "x03D6A7" "x0708A3" "x0A69A9" "x0B484F" "x1121A0" "x11F253" "x1458A6" "x18E9E1" "x1C7F2D" "x1CB8D8" "x2472F3" "x270CD8" "x2C6090" "x2C6218" "x2D80BA" "x2E05DE" "x31F90F" "x348364" "x34B4C6" "x36D880" "x387D75" "x3ACCE8" "x46B48F" "x4C92CC" "x54B5C4" "x5F64A2" "x675DF4" "x7DA787" "x7DF67D" "x7EAE07" "x817D22" "x82AE2F" "x83B302" "x85EECF" "x8CE323" "x9723F8" "x98E808" "xA12B5A" "xA8600B" "xA9FA61" "xAD965B" "xBCC260" "xBDDA3A" "xC31716" "xC482AD" "xCB4129" "xCD2CE5" "xCD72A1" "xD0DA95" "xD5E7D2" "xD6537D" "xD8EA8C" "xDAAE11" "xDCE378" "xDD344F" "xDD790F" "xE08061" "xE682D3" "xE6AF95" "xE6CADD" "xE996D1" "xEA1E16" "xF061A0" "xF0E021" "xF49A18" "xFB1DC5" "xFC92C5" "xFF7D57" }
 		}
-		add_homeland = ukrainian
+		add_homeland = sarmatian
 	}
 	s:STATE_MECKLENBURG = {
 		create_state = {

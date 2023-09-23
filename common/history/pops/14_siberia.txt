@@ -116,12 +116,8 @@
 	s:STATE_NENETSIA = {
 		region_state:UGR = {
 			create_pop = {
-				culture = russian
-				size = 20204
-			}
-			create_pop = {
 				culture = ugrian
-				size = 16000
+				size = 51641
 			}
 		}
 	}

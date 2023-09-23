@@ -611,6 +611,10 @@
 				size = 1499608
 			}
 			create_pop = {
+				culture = galatian
+				size = 32050
+			}
+			create_pop = {
 				culture = czech
 				religion = catholic
 				size = 2574808
@@ -626,6 +630,10 @@
 			create_pop = {
 				culture = south_german
 				size = 480408
+			}
+			create_pop = {
+				culture = galatian
+				size = 10200
 			}
 			create_pop = {
 				culture = czech

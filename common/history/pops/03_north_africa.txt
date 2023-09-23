@@ -187,7 +187,7 @@
 	s:STATE_SINAI = {
 		region_state:EGY = {
 			create_pop = {
-				culture = misri
+				culture = bedouin
 				size = 8012
 			}
 			create_pop = {
@@ -195,7 +195,7 @@
 				size = 512
 			}
 			create_pop = {
-				culture = bedouin
+				culture = misri
 				size = 11120
 			}
 			create_pop = {
@@ -211,7 +211,7 @@
 		}
 		region_state:NAB = {
 			create_pop = {
-				culture = misri
+				culture = bedouin
 				size = 2000
 			}
 			create_pop = {
@@ -219,7 +219,7 @@
 				size = 51
 			}
 			create_pop = {
-				culture = bedouin
+				culture = misri
 				size = 111
 			}
 			create_pop = {
