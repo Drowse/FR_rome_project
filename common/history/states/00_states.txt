@@ -1055,7 +1055,11 @@ STATES = {
 	s:STATE_SICILY = {
 		create_state = {
 			country = c:SPR
-			owned_provinces = { x805120 x8A0548 xF0AF66 xC090A0 x702CA8 x00D020 xB7B8F1 }
+			owned_provinces = { x805120 x00D020 xB7B8F1 }
+		}
+		create_state = {
+			country = c:CAR
+			owned_provinces = { x8A0548 xF0AF66 xC090A0 x702CA8 }
 		}
 		
 		add_homeland = latin
@@ -7359,7 +7363,11 @@ STATES = {
 	s:STATE_SARDINIA = {
 		create_state = {
 			country = c:SPR
-			owned_provinces = { xFD923D x80D020 xA61F49 x0D6170 xD8550D xFA1A93 x30A040 xDC4AE3 }
+			owned_provinces = { xA61F49 xD8550D xFA1A93 x30A040 xDC4AE3 }
+		}
+		create_state = {
+			country = c:CAR
+			owned_provinces = { xFD923D x80D020 x0D6170 }
 		}
 		
 		add_homeland = latin
@@ -7452,12 +7460,12 @@ STATES = {
 	}
 	s:STATE_MALTA = {
 		create_state = {
-			country = c:GBR
+			country = c:CAR
 			owned_provinces = { x015121 x3a8b51 }
 			state_type = unincorporated
 		}
 		
-		add_homeland = maltese
+		add_homeland = punic
 	}
 	s:STATE_UMBRIA = {
 		create_state = {

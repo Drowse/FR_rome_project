@@ -166,11 +166,11 @@ CAR = { #Carthage
 	
 	country_type = recognized 
 	
-	cultures = { maghrebi } 
-	religion = sunni 
+	cultures = { punic } 
+	religion = phoenician 
 	
 	capital = STATE_TUNISIA
-	is_named_from_capital = yes
+	#is_named_from_capital = yes
 }
 
 GAU = { #Gaul
@@ -180,8 +180,8 @@ GAU = { #Gaul
 	
 	country_type = unrecognized 
 	
-	cultures = { french occitan } 
-	religion = catholic 
+	cultures = { gaulish  } 
+	religion = druidism 
 	
 	capital = STATE_RHONE
 	is_named_from_capital = yes
@@ -194,8 +194,8 @@ AQU = { #Aquitani
 	
 	country_type = decentralized 
 	
-	cultures = { basque occitan } 
-	religion = catholic 
+	cultures = { aquitani  } 
+	religion = druidism 
 	
 	capital = STATE_AQUITAINE
 	is_named_from_capital = yes
@@ -208,7 +208,7 @@ LUS = { #Lusitani
 
 	tier = principality
 	
-	cultures = { portuguese }
+	cultures = { celtiberian }
 	capital = STATE_BEIRA
 }
 
@@ -219,7 +219,7 @@ VAC = { #Vaccaei
 
 	tier = principality
 	
-	cultures = { spanish }
+	cultures = { celtiberian }
 	capital = STATE_CASTILE
 }
 
@@ -230,7 +230,7 @@ GLI = { #Gallaeci
 
 	tier = principality
 	
-	cultures = { galician }
+	cultures = { celtiberian }
 	capital = STATE_GALICIA
 }
 
@@ -241,7 +241,7 @@ CNT = { #Cantabri
 
 	tier = principality
 	
-	cultures = { spanish }
+	cultures = { celtiberian }
 	capital = STATE_ASTURIAS
 }
 
@@ -252,7 +252,7 @@ DUM = { #Dumnonii
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_WEST_COUNTRY
 }
 
@@ -263,7 +263,7 @@ CTU = { #Catuvellauni
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_EAST_ANGLIA
 }
 
@@ -274,7 +274,7 @@ CRT = { #Corieltauvi
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_MIDLANDS
 }
 
@@ -285,7 +285,7 @@ BRG = { #Brigantes
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_LANCASHIRE
 }
 
@@ -296,7 +296,7 @@ ORD = { #Ordovices
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_LANCASHIRE
 }
 
@@ -307,7 +307,7 @@ VOT = { #Votadini
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_LANCASHIRE
 }
 
@@ -318,7 +318,7 @@ CLD = { #Caledonia
 
 	tier = principality
 	
-	cultures = { british }
+	cultures = { brittonic }
 	capital = STATE_LANCASHIRE
 }
 
@@ -329,7 +329,7 @@ ROB = { #Robogdii
 
 	tier = principality
 	
-	cultures = { irish }
+	cultures = { goidelic }
 	capital = STATE_ULSTER
 }
 
@@ -340,7 +340,7 @@ EBL = { #Eblani
 
 	tier = principality
 	
-	cultures = { irish }
+	cultures = { goidelic }
 	capital = STATE_LEINSTER
 }
 
@@ -351,7 +351,7 @@ NGT = { #Nagnatae
 
 	tier = principality
 	
-	cultures = { irish }
+	cultures = { goidelic }
 	capital = STATE_CONNAUGHT
 }
 
@@ -362,7 +362,7 @@ IVE = { #Iverni
 
 	tier = principality
 	
-	cultures = { irish }
+	cultures = { goidelic }
 	capital = STATE_MUNSTER
 }
 
@@ -785,7 +785,9 @@ PCT = { #Pictones
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_POITOU
 }
@@ -797,7 +799,9 @@ SNT = { #Santones
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_GUYENNE
 }
@@ -809,7 +813,9 @@ AVN = { #Averni
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_RHONE
 }
@@ -821,7 +827,9 @@ CRN = { #Carnutes
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_ORLEANS
 }
@@ -833,7 +841,9 @@ ALR = { #Aulerci
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_NORMANDY
 }
@@ -845,7 +855,9 @@ PRI = { #Parisii
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_ILE_DE_FRANCE
 }
@@ -857,7 +869,9 @@ HDI = { #Haedui
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_BURGUNDY
 }
@@ -869,7 +883,9 @@ LGN = { #Lingones
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_CHAMPAGNE
 }
@@ -881,7 +897,9 @@ LEC = { #Leuci
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	
+	religion = druidism
 	
 	capital = STATE_ALSACE_LORRAINE
 }
@@ -893,7 +911,8 @@ SEQ = { #Sequani
 	
 	tier = principality
 
-	cultures = { french }
+	cultures = { gaulish }
+	religion = druidism
 	
 	capital = STATE_FRANCHE_COMTE
 }
@@ -906,6 +925,8 @@ NUM = { # Numidia
 	tier = principality
 	
 	cultures = { berber }
+	
+	religion = animist
 	capital = STATE_CONSTANTINE
 }
 
@@ -915,6 +936,8 @@ MAU = { # Mauretania
 	country_type = unrecognized
 	
 	tier = principality
+	
+	religion = animist
 	
 	cultures = { berber }
 	capital = STATE_INNER_MOROCCO
@@ -1129,7 +1152,7 @@ SCD = { #Scordisci
 	country_type = decentralized
 
 	cultures = {
-		serb
+		noric
 	}
 
 	capital = STATE_NORTHERN_SERBIA

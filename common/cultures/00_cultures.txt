@@ -19873,7 +19873,7 @@ yemenite={
 latin={
 	color= rgb{ 213 84 79 }
 	religion = hellenism
-	traits = { latin_culture_group mediterranean_heritage }
+	traits = { latin_culture_group mediterranean_heritage italophone }
 	
 	obsessions = {
 		wine
@@ -21412,4 +21412,343 @@ aquitani={
 	ethnicities = {
 		1 = caucasian
 	}
+}
+
+punic={
+	color= hsv{ 0.32 0.58 0.30 }
+	traits = { phoenecian_speaking mediterranean_heritage }
+	religion = phoenician
+	male_common_first_names={
+		Abd_Allah
+		Abd_al-Karim
+		Abd_al-Malik
+		Abd_al-Qadir
+		Abd_al-Rahman
+		Ahmad
+		Ali
+		Fawzi
+		Fuad
+		Halil
+		Hasan
+		Hisham
+		Ibrahim
+		Ishaq
+		Iskandar
+		Jamal
+		Kamil
+		Khalid
+		Mahmud
+		Muhammad
+		Mustafa
+		Nur_al-Din
+		Sa_d_al-Din
+		Salim
+		Shukri
+		Tawfiq
+		Umar
+		Uthman
+		Yahya
+		Yusuf
+		Zafir
+	}
+	female_common_first_names = {
+		Aicha
+		Amina
+		Batoul
+		Fadhma
+		Nadia
+		Souhila
+		Touria
+		Zina
+	}	
+	noble_last_names = {
+		al-Alawi
+		ben_Gana
+		Benaissa
+		Djellouli
+		El_Djezairi
+	}
+	common_last_names={
+		al-Annabi
+		al-Araishi
+		al-Asfawi
+		al-Binzarti
+		al-Fasi
+		al-Gharyani
+		al-Jaza_iri
+		al-Miknasi
+		al-Misurati
+		al-Murrakushi
+		al-Qabisi
+		al-Qayrawani
+		al-Ribati
+		al-Safaqisi
+		al-Silawi
+		al-Sirti
+		al-Susawi
+		al-Tanjawi
+		al-Tatwani
+		al-Tilimsani
+		al-Trablusi
+		al-Tunusi
+		al-Wahrani
+		al-Warqali
+		al-Wujdi
+		ibm_Kamil
+		ibn_Abd_Allah
+		ibn_Abd_al-Qadir
+		ibn_Abu_Bakr
+		ibn_Ahmad
+		ibn_Ali
+		ibn_Fuad
+		ibn_Halil
+		ibn_Hasan
+		ibn_Hisham
+		ibn_Ishaq
+		ibn_Ja_far
+		ibn_Khalid
+		ibn_Muhammad
+		ibn_Mustafa
+		ibn_Salim
+		ibn_Umar
+		ibn_Uthman
+		ibn_Yusuf
+		Deneche
+	}
+	ethnicities = {
+		1 = caucasian
+	}
+	graphics = european
+}
+
+etruscan={
+	color= rgb{ 97 77 117 }
+	religion = hellenism
+	traits = { italophone mediterranean_heritage }
+	
+	obsessions = {
+		wine
+	}	
+	
+	male_common_first_names={
+		Alessandro Armando Augusto Achille Antonio Agesilao
+		Bartolomeo Benedetto
+		Carlo Cesare Corrado Cesidio Corradino Cristoforo Carcano Carmine
+		Domenico Donato
+		Enrico Enzo Ettore Emanuele
+		Fabio Fabrizio Ferdinando Francesco Fausto
+		Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo GiosuE_ Goffredo Giorgio Giustino
+		Ignazio
+		Leopoldo Lorenzo Ludovico Luca Luigi Ludovico
+		Marcantonio Marino Mario Matteo Marco Monaldo Michele Melchiorre
+		Nicola
+		Orazio Oronzio
+		Pierfrancesco Paolo Pasquale Pietro Pellegrino
+		Raimondo Raffaele
+		Sigismondo Salvatore Sebastiano Saverio
+		Tommasso
+		Vincenzo
+	}
+	female_common_first_names = {
+		Anna Amalia Antonia Alfonsa Alssandra Alssandrina Augusta
+		Beatrice Bianca Barbara Benedetta
+		Clotilde Carlotta Carolina Caterina Cristina Cecilia Cornelia Costanza
+		Enrichetta Eleonora Eulalia Elena Emanuela Elisabetta
+		Filippina Francesca
+		Giuseppina Giovanna Giulia Giustiniana
+		Isabella Ippolita
+		Luisa Luisa_Carlotta Lucrezia Laura Lucia Leonora
+		Maria Maria_Anna Maria_Luisa Maria_Enrichetta Mercedes Maria_Barbara Michela Margherita Marianna
+		Paolina
+		Sofia
+		Vittoria Violante
+	}	
+	noble_last_names = {
+		Afan_de_Rivera Antici d_Albergo d_Ayala
+		Barracco Berlingieri Bufalari Baccarini Di_Brocchetti
+		Caetani CalA__Ulloa Caracciolo di_Cesare Ceccarini di_Crollalanza
+		Donnorso_di_Serracapriola
+		Ercolani d_Escamard
+		Filangieri
+		Galluppi Giannuzzi-Savelli della_Genga
+		Lanfranci Lucifero de_Liguori Leopardi de_Luca
+		Montani_da_Pesaro Marchesani
+		Ondedei Osmani
+		Piccolomini Pignatelli del_Pezzo
+		de_Riseis della_Rovere De_Renzi de_Rilliet del_Re
+		Sanfelice Spinello de_Samuele_Cagnazzi Sgariglia Smeducci Sammarruco di_Sangro
+		de_Thomasis
+		d_Urso
+		Visconti
+		Winspeare
+		Zurlo Zorniotti
+	}
+	common_last_names={
+		Anfora Avitabile Alianelli Antonelli Assanti Acclavio
+		Barberini-Colonna Bonaccorsi Benci Bozzelli Baldacchini Briganti Bausan Bianchini
+		Caraga Cattaneo Chigi Clary Cosenz Cianciulli Cuoco Costa Campagna Capocci Capasso Croce Carrascosa Colletta
+		Diaz Durini Delfico
+		Ferrari Filangieri Filioli Fergola Fardella Forteguerri Ferri Fortunato
+		Gironda Gravina Grifeo Garzia Gagliardo Galdi Guarini Genoino Gussone Gio Giannuzzi Galletti
+		Imbriani Intonti
+		Lanza Lombardo Lunardi Landi Lanza Longobardi
+		Molinelli Mezzacapo Milano Morelli
+		Nunziante Naselli
+		Orsini Ottaviani Oliva
+		Pironti Pepe Poerio Palmieri Persico Parisi PaternO_ Pianell Pignatelli Pionati Parisio
+		Quandel
+		Ritucci Ruggiero Romano Rosaroll Ricciardi Rosica
+		Scammacca Scovazzo Sansone Sannia Schipa Silvati Settimo Scialoja Statella Santangelo
+		Torlonia Turrisi Troya Tommasi Tenore Tafuri Torelli Tardio Troisi
+		Vernazza Valiante Vignale Vecchione
+		Zunica Zurlo
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+illyrian={
+	color= hsv{ 0.10 0.60 0.44 }
+	religion = animist
+	traits = { albanian_language european_heritage }
+	male_common_first_names={
+		Ahmet
+		Ali
+		Azem
+		Bajram
+		Behxhet
+		Davud
+		Ekrem
+		Elez
+		Enver
+		Eqrem
+		Esad
+		Fatmir
+		Fejzi
+		Fiqri
+		Gjergj
+		Gjon
+		Hasan
+		Hashim
+		Ibrahim
+		Idhomene
+		Iliaz
+		Ishak
+		Ismail
+		Izet
+		Kara
+		Kastriot
+		Kostaq
+		Koci
+		Kopryly
+		Leke
+		Maliq
+		Marin
+		Musa
+		Mustafa
+		Pandeli
+		Petro
+		Qamil
+		Qazim
+		Ramush
+		Rexhep
+		Shefqet
+		Skender
+		Sulejman
+		Tewfik
+		Theofan
+		Turhan
+		Vasil
+		Veton
+		Xhafer
+		mehdi
+	}
+	female_common_first_names = {
+		Adile
+		Anjeze
+		Antoneta
+		Esma
+		Julika
+		Kaje
+		Kristina
+		Lenka
+		Margarita
+		Marigo
+		Melpomeni
+		Ruhije
+		Sadije
+		Senije
+		Valentina
+	}	
+	noble_last_names = {
+		Alizoti
+		Alltuni
+		Begolli
+		Bushati
+		Frasheri
+		Kryeziu
+		Mjeda
+		Taushani
+		Toptani
+		Vlora
+		Vrioni
+		Zogu
+	}
+	common_last_names={
+		Ahmeti
+		Bardha
+		Bazna
+		Bej_Alizoti
+		Bej_Bicakciu
+		Bej_Delvina
+		Bej_Frasheri
+		Bej_Libohova
+		Bej_Ndroque
+		Bej_Prishtina
+		Bej_Verlaci
+		Bej_Vrioni
+		Bej_Ypi
+		Belishi
+		Burbank
+		Bushati
+		Buza
+		Dine
+		Dragoti
+		Dukagiini
+		Dushku
+		Evangjeli
+		Feza
+		Hoxha
+		Islami
+		Kadare
+		Koculi
+		Konica
+		Konushevci
+		Kosturi
+		Kota
+		Logoreci
+		Merlika-Kruja
+		Mitrovica
+		Mula
+		Noli
+		Pashe_Permeti
+		Pashe_Tepelena
+		Pashe_Toptani
+		Poga
+		Qemal_Bej
+		Shahini
+		Skiroi
+		Thaci
+		Troja
+		Xoxe
+		al-Albani
+		Cabej
+		Ceku
+	}
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
 }

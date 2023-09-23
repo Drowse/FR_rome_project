@@ -653,25 +653,19 @@
 	s:STATE_TYROL = {
 		region_state:RAE = {
 			create_pop = {
-				culture = south_german
+				culture = etruscan
 				size = 429286
-			}
-			# Voralberg. Arbitrarily pinning this at 23% of the total population of Voralburg + Tyrol + Salzburg
-			create_pop = {
-				culture = alemannic
-				religion = catholic
-				size = 130018
 			}
 		}
 	}
 	s:STATE_SOUTH_TYROL = {
 		region_state:RAE = {
 			create_pop = {
-				culture = south_german
+				culture = etruscan
 				size = 174100
 			}
 			create_pop = {
-				culture = north_italian
+				culture = latin
 				size = 5900
 			}
 		}

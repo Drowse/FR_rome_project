@@ -24,21 +24,27 @@
 		}
 	}
 	s:STATE_SARDINIA = {
+		region_state:CAR = {
+			create_pop = {
+				culture = punic 
+				size = 324084
+			}
+		}
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
-				size = 524084
+				culture = latin 
+				size = 204084
 			}
 		}
 	}
 	s:STATE_MALTA = {
-		region_state:GBR = {
+		region_state:CAR = {
 			create_pop = {
-				culture = maltese
-				size = 117192
+				culture = punic
+				size = 17192
 			}
 			create_pop = {
-				culture = british
+				culture = greek
 				size = 2792
 			}
 		}
@@ -54,21 +60,8 @@
 	s:STATE_CORSICA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = corsican
+				culture = etruscan
 				size = 190540
-			}
-			create_pop = { # Ligurian
-				culture = latin religion = hellenism
-				size = 502
-			}
-			create_pop = { # Educated guess
-				culture = french
-				size = 16723
-			}
-			create_pop = {
-				culture = corsican
-				religion = protestant
-				size = 124
 			}
 		}
 	}
@@ -83,7 +76,7 @@
 	s:STATE_CALABRIA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
+				culture = greek religion = hellenism
 				size = 882848
 			}
 		}
@@ -91,8 +84,12 @@
 	s:STATE_APULIA = {
 		region_state:SPR = {
 			create_pop = {
+				culture = illyrian
+				size = 1004392
+			}
+			create_pop = {
 				culture = latin religion = hellenism
-				size = 1284392
+				size = 284392
 			}
 		}
 	}
@@ -119,26 +116,26 @@
 	s:STATE_EMILIA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
-				size = 108408
+				culture = etruscan religion = animist # Estruscan religion
+				size = 8408
 			}
 		}
 		region_state:SPR = {
 			create_pop = {
-				culture = latin
-				size = 648400
+				culture = etruscan
+				size = 640400
 			}
 		}
 	}
 	s:STATE_TUSCANY = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
+				culture = etruscan religion = hellenism
 				size = 1625400
 			}
 			create_pop = {
-				culture = latin 
-				religion = jewish
+				culture = etruscan 
+				religion = animist # Estruscan religion
 				size = 6996
 			}
 		}
@@ -146,8 +143,12 @@
 	s:STATE_ROMAGNA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = latin religion = hellenism
-				size = 803600
+				culture = etruscan religion = hellenism
+				size = 800600
+			}
+			create_pop = {
+				culture = etruscan religion = animist # Estruscan religion
+				size = 3600
 			}
 		}
 	}
@@ -182,7 +183,17 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = greek religion = hellenism
-				size = 1647596
+				size = 1007596
+			}
+		}
+		region_state:CAR = {
+			create_pop = {
+				culture = punic
+				size = 600596
+			}
+			create_pop = {
+				culture = greek religion = hellenism
+				size = 47596
 			}
 		}
 	}
@@ -269,7 +280,7 @@
 	s:STATE_BALEARES = {
 		region_state:CAR = {
 			create_pop = {
-				culture = catalan # Punic
+				culture = punic # Punic
 				size = 145244
 			}
 			create_pop = {
@@ -480,43 +491,17 @@
 	s:STATE_ALBANIA = {
 		region_state:ILL = {
 			create_pop = {
-				culture = albanian
+				culture = illyrian
 				size = 1004808
-			}
-			create_pop = {
-				culture = greek
-				size = 40000
-			}
-			create_pop = {
-				culture = albanian
-				religion = catholic
-				size = 127200
-			}
-			create_pop = {
-				culture = albanian
-				religion = orthodox
-				size = 91200
 			}
 		}
 	}
 	s:STATE_BOSNIA = {
-		region_state:SDT = {
+		region_state:SDT = { 
 			create_pop = {
-				culture = bosniak
-				size = 304908
-			}
-			create_pop = {
-				culture = sephardic
-				size = 3196
-			}
-			create_pop = {
-				culture = serb
+				culture = illyrian
 				size = 372400
-			}
-			create_pop = {
-				culture = croat
-				size = 183996
-			}
+			} 
 		}
 	}
 	s:STATE_NORTHERN_THRACE = {
@@ -596,24 +581,16 @@
 	s:STATE_SLOVENIA = {
 		region_state:PNN = {
 			create_pop = {
-				culture = slovene
+				culture = illyrian
 				size = 464400
-			}
-			create_pop = {
-				culture = south_german
-				size = 21388
 			}
 		}
 	}
 	s:STATE_DALMATIA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = croat
+				culture = illyrian
 				size = 297796
-			}
-			create_pop = {
-				culture = serb
-				size = 80000
 			}
 			create_pop = {
 				culture = latin religion = hellenism
@@ -624,26 +601,13 @@
 	s:STATE_CROATIA = {
 		region_state:SPR = {
 			create_pop = {
-				culture = croat
+				culture = illyrian
 				size = 563592
 			}
 		}
 		region_state:PNN = {
 			create_pop = {
-				culture = czech
-				religion = catholic
-				size = 20004
-			}
-			create_pop = {
-				culture = hungarian
-				size = 28000
-			}
-			create_pop = {
-				culture = south_german
-				size = 40396
-			}
-			create_pop = {
-				culture = serb
+				culture = illyrian
 				size = 176000
 			}
 		}
@@ -651,22 +615,14 @@
 	s:STATE_SLAVONIA = {
 		region_state:PNN = {
 			create_pop = {
-				culture = croat
+				culture = illyrian
 				size = 282048
-			}
-			create_pop = {
-				culture = hungarian
-				size = 16000
-			}
-			create_pop = {
-				culture = south_german
-				size = 20140
 			}
 		}
 
 		region_state:SCD = {
 			create_pop = {
-				culture = serb
+				culture = noric
 				size = 48040
 			}
 		}
@@ -678,62 +634,23 @@
 				size = 197800
 			}
 			create_pop = {
-				culture = hungarian
-				size = 4000
-			}
-			create_pop = {
-				culture = slovene
+				culture = illyrian
 				size = 344504
-			}
-			create_pop = {
-				culture = south_german
-				size = 9792
-			}
-			create_pop = {
-				culture = croat
-				size = 124000
-			}
+			} 
 		}
 	}
 	s:STATE_MONTENEGRO = {
-		region_state:ILL = {
+		region_state:ILL = { 
 			create_pop = {
-				culture = bosniak
-				size = 43196
-			}
-			create_pop = {
-				culture = serb
+				culture = illyrian
 				size = 184000
-			}
-			create_pop = {
-				culture = albanian
-				size = 43800
-			}
-		}
-		# Cattaro Region, downscaled version of 1880 census, with inflated Italian numbers, and decreased German ones
-		region_state:AUS = {
-			create_pop = {
-				culture = serb
-				size = 15662
-			}
-			create_pop = {
-				culture = croat
-				size = 5261
-			}
-			create_pop = {
-				culture = latin religion = hellenism
-				size = 1281
-			}
-			create_pop = {
-				culture = south_german
-				size = 524
-			}
+			} 
 		}
 	}
 	s:STATE_NORTHERN_SERBIA = {
 		region_state:SCD = {
 			create_pop = {
-				culture = serb
+				culture = noric
 				size = 809604
 			}
 		}
@@ -741,29 +658,9 @@
 	s:STATE_SOUTHERN_SERBIA = {
 		region_state:DRD = {
 			create_pop = {
-				culture = turkish
-				size = 124400
-			}
-			create_pop = {
-				culture = bosniak
-				size = 22396
-			}
-			create_pop = {
-				culture = serb
+				culture = illyrian
 				size = 581800
-			}
-			create_pop = {
-				culture = greek
-				size = 8000
-			}
-			create_pop = {
-				culture = albanian
-				size = 192596
-			}
-			create_pop = {
-				culture = bulgarian
-				size = 49404
-			}
+			} 
 		}
 	}
 	s:STATE_CRETE = {
