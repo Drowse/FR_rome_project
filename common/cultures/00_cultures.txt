@@ -2108,7 +2108,7 @@ british={ # "English" in localization
 irish={
 	color= hsv{ 0.35 0.58 0.54 }
 	religion = catholic
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	# could have anglophone but would make them non-discriminated in Britain
 	male_common_first_names={
 		Alexander
@@ -3491,7 +3491,7 @@ occitan={
 breton={
 	color= hsv{ 0.16 0.39 0.95 }
 	religion = catholic
-	traits = { francophone celtic_people european_heritage }
+	traits = { francophone celtic_culture_group european_heritage }
 	male_common_first_names={
 		Aimery
 		Alphonse
@@ -19955,7 +19955,7 @@ latin={
 gaulish={
 	color= rgb{ 76 118 155 }
 	religion = druidism
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	
 	obsessions = {
 		wine
@@ -20073,7 +20073,7 @@ gaulish={
 celtiberian={	
 	color= hsv{ 0.16 0.56 0.86 }
 	religion = druidism
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	male_common_first_names={
 		Agustin
 		Alberto
@@ -20252,7 +20252,7 @@ celtiberian={
 brittonic={
 	color= rgb{ 210 156 140 }
 	religion = druidism
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	
 	obsessions = {
 		tea
@@ -20394,7 +20394,7 @@ brittonic={
 goidelic={
 	color= hsv{ 0.35 0.58 0.54 }
 	religion = catholic
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	male_common_first_names={
 		Alexander
 		Arthur
@@ -20570,7 +20570,7 @@ goidelic={
 belgae={
 	color= hsv{ 0.74 0.59 0.74 }
 	religion = druidism
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	male_common_first_names={
 		Albert
 		Alexandre
@@ -20823,7 +20823,7 @@ belgae={
 noric={
 	color= hsv{ 0.50 0.43 0.45 }
 	religion = druidism
-	traits = { celtic_people european_heritage }
+	traits = { celtic_culture_group european_heritage }
 	male_common_first_names={
 		Adolf Albrecht Alexander Alfons Alois Anton Arthur Albert Arnulf
 		Bernhard Benignus

@@ -26,6 +26,10 @@ near_east = { # Hellennism, Punic, Egyptian
 	heritage = yes
 }
 
+paleo_european = { # Druidism
+	heritage = yes
+}
+
 zoroastrian = { 
 	heritage = yes
 }

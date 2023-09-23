@@ -166,7 +166,7 @@ phoenician = { # Carthage's Pantheon
 druidism = { # Celtic's Pantheon
 	texture = "gfx/interface/icons/religion_icons/druidism.dds"
 	traits = {
-		near_east # western
+		paleo_european
 	}
 	color = { 1.0 1.0 1.0 }
 }
@@ -174,7 +174,7 @@ druidism = { # Celtic's Pantheon
 norse = { # Germanic Pantheon
 	texture = "gfx/interface/icons/religion_icons/norse.dds"
 	traits = {
-		near_east # western
+		paleo_european
 	}
 	color = { 1.0 1.0 1.0 }
 }

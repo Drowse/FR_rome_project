@@ -133,11 +133,11 @@ muslim_clothes_pop_trigger = {
 			religion = {
 				has_discrimination_trait = muslim
 			}
-			culture = {
-				OR = {
-					has_discrimination_trait = latin_culture_group
-				}
-			}
+			# culture = {
+				# OR = {
+					# has_discrimination_trait = latin_culture_group
+				# }
+			# }
 		}
 	}
 }
@@ -366,7 +366,7 @@ chinese_court_clothes_pop_trigger = {
 
 african_clothes_trigger = {
 	exists = scope:character
-	scope:character = {
+	scope:character = { 
 		culture = {
 			OR = {
 				has_discrimination_trait = central_african_culture_group
@@ -374,9 +374,11 @@ african_clothes_trigger = {
 				has_discrimination_trait = west_african_culture_group
 				has_discrimination_trait = southern_african_culture_group
 				has_discrimination_trait = malagasy_language
+				has_discrimination_trait = mediterranean_heritage
+				has_discrimination_trait = celtic_culture_group
 			}
-		}
-	}     
+		}   
+	}
 }
 
 arabic_fez_trigger = {
@@ -467,7 +469,7 @@ arabic_clothes_trigger = {
 			culture = {
 				OR = {
 					has_discrimination_trait = middle_eastern_heritage
-					has_discrimination_trait = latin_culture_group
+					#has_discrimination_trait = latin_culture_group
 					has_discrimination_trait = central_asian_heritage #Currently no point having a different check
 				}
 			}
@@ -505,7 +507,7 @@ european_clothes_trigger = {
 	exists = scope:character
 	scope:character = {
 		culture = {
-			has_discrimination_trait = european_heritage
+			has_discrimination_trait = american_heritage
 		}
 		NOT = {
 			culture = cu:circassian
@@ -731,7 +733,7 @@ european_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
 		culture = {
-			has_discrimination_trait = european_heritage
+			has_discrimination_trait = american_heritage
 		}
 		NOT = {
 			culture = cu:circassian
@@ -803,6 +805,8 @@ african_clothes_pop_trigger = {
 				has_discrimination_trait = west_african_culture_group
 				has_discrimination_trait = southern_african_culture_group
 				has_discrimination_trait = malagasy_language
+				has_discrimination_trait = mediterranean_heritage
+				has_discrimination_trait = celtic_culture_group
 			}
 		}   
 	}
