@@ -86,6 +86,7 @@
 				size = 251120
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_APULIA = {
 		region_state:SPR = {
@@ -208,6 +209,7 @@
 				size = 47596
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_TOLEDO = {
 		region_state:CAR = {
@@ -464,6 +466,7 @@
 				size = 3200
 			}
 		}
+		add_homeland = thracian
 	}
 	s:STATE_ALBANIA = {
 		region_state:ILL = {
@@ -506,6 +509,7 @@
 				size = 9200
 			}
 		}
+		add_homeland = thracian
 	}
 	s:STATE_BULGARIA = {
 		region_state:THR = {
@@ -532,6 +536,7 @@
 				size = 4860
 			}
 		}
+		add_homeland = thracian
 	}
 	s:STATE_SLOVENIA = {
 		region_state:PNN = {
@@ -629,6 +634,7 @@
 				size = 80000
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_WEST_AEGEAN_ISLANDS = {
 		region_state:GRE = {
@@ -637,6 +643,7 @@
 				size = 80404
 			}
 		}
+		add_homeland = greek
 	}
 
 	s:STATE_EAST_AEGEAN_ISLANDS = {
@@ -646,6 +653,7 @@
 				size = 15800
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_ATTICA = {
 		region_state:GRE = {
@@ -666,6 +674,7 @@
 				size = 3665
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_THESSALIA = {
 		region_state:GRE = {
@@ -674,6 +683,7 @@
 				size = 458521
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_SKOPIA = {
 		region_state:GRE = {
@@ -690,6 +700,8 @@
 				size = 7560
 			}
 		}
+		add_homeland = thracian
+		add_homeland = greek
 	}
 	s:STATE_MACEDONIA = {
 		region_state:GRE = {
@@ -711,6 +723,7 @@
 				size = 200
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_WESTERN_THRACE = {
 		region_state:GRE = {
@@ -746,6 +759,7 @@
 				size = 300
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_IONIAN_ISLANDS = {
 		region_state:GRE = {
@@ -762,6 +776,7 @@
 				size = 2000
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_PELOPONNESE = {
 		region_state:ACH = {
@@ -770,5 +785,6 @@
 				size = 221996
 			}
 		}
+		add_homeland = greek
 	}
 }

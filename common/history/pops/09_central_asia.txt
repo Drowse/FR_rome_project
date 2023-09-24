@@ -561,11 +561,15 @@
 		region_state:PKV = {
 			create_pop = {
 				culture = pashtun
-				size = 655212
+				size = 210032
 			}
 			create_pop = {
 				culture = panjabi
 				size = 1992
+			}
+			create_pop = {
+				culture = indo_greek
+				size = 47893
 			}
 		}
 	}
@@ -673,6 +677,10 @@
 				size = 135004
 			}
 			create_pop = {
+				culture = indo_greek
+				size = 20233
+			}
+			create_pop = {
 				pop_type = slaves
 				culture = hazara
 				size = 43000
@@ -695,6 +703,10 @@
 			create_pop = {
 				culture = tajik
 				size = 35733
+			}
+			create_pop = {
+				culture = indo_greek
+				size = 8966
 			}
 		}
 		region_state:KAL = {
@@ -749,68 +761,63 @@
 		region_state:KAP = {
 			create_pop = {
 				culture = pashtun
-				size = 20000
+				size = 89690
 			}
 			create_pop = {
-				culture = uzbek
-				size = 10000
-			}
-			create_pop = {
-				culture = tajik
-				size = 70000
+				culture = indo_greek
+				size = 17800
 			}
 		}
 	}
 	s:STATE_BALUCHISTAN = {
-		region_state:MAK = {
-			create_pop = {
-				culture = baluchi
-				size = 440296
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 14800
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = baluchi
-				size = 7000
-			}
-		}
-		region_state:KAL = {
-			create_pop = {
-				culture = baluchi
-				size = 512392
-			}
-			create_pop = {
-				culture = pashtun
-				size = 204000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 21000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = baluchi
-				size = 10000
-			}
-		}
+		#region_state:MAK = {
+		#	create_pop = {
+		#		culture = baluchi
+		#		size = 440296
+		#	}
+		#	create_pop = {
+		#		pop_type = slaves
+		#		culture = lacustrine_bantu
+		#		size = 14800
+		#	}
+		#	create_pop = {
+		#		pop_type = slaves
+		#		culture = baluchi
+		#		size = 7000
+		#	}
+		#}
+		#region_state:KAL = {
+		#	create_pop = {
+		#		culture = baluchi
+		#		size = 512392
+		#	}
+		#	create_pop = {
+		#		culture = pashtun
+		#		size = 204000
+		#	}
+		#	create_pop = {
+		#		pop_type = slaves
+		#		culture = lacustrine_bantu
+		#		size = 21000
+		#	}
+		#	create_pop = {
+		#		pop_type = slaves
+		#		culture = baluchi
+		#		size = 10000
+		#	}
+		#}
 		region_state:PRT = {
 			create_pop = {
 				culture = baluchi
-				size = 4100
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 300
+				size = 365200
 			}
 			create_pop = {
 				culture = bedouin
 				size = 160
+			}
+			create_pop = {
+				culture = indo_greek
+				size = 32550
 			}
 		}
 	}

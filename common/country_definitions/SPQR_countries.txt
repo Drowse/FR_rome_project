@@ -136,10 +136,10 @@ IGK = { #Indo-Greek Kingdom
 
 	country_type = recognized
 
-	cultures = { greek pashtun panjabi }
-	religion = hellenism
+	cultures = { indo_greek greek pashtun panjabi }
+	religion = mahayana
 
-	capital = STATE_EASTERN_AFGHANISTAN
+	capital = STATE_PUNJAB
 
 	#is_named_from_capital = yes
 }

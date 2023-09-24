@@ -291,16 +291,16 @@
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 382000
+				size = 182000
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 155200
+				size = 89200
 			}
 			create_pop = {
 				culture = yemenite
-				size = 40600
+				size = 20600
 			}
 			create_pop = {
 				culture = israelite
@@ -519,6 +519,8 @@
 				size = 152
 			}
 		}
+		add_homeland = israelite
+		add_homeland = mashriqi
 	}
 	s:STATE_LEBANON = {
 		region_state:SEL = {
@@ -532,6 +534,7 @@
 				size = 16000
 			}
 		}
+		add_homeland = mashriqi
 	}
 	s:STATE_SYRIA = {
 		region_state:SEL = {
@@ -606,6 +609,7 @@
 				size = 2025
 			}
 		}
+		add_homeland = mashriqi
 	}
 	s:STATE_ALEPPO = {
 		region_state:SEL = {
@@ -634,6 +638,7 @@
 				size = 3650
 			}
 		}
+		add_homeland = mashriqi
 	}
 	s:STATE_BAGHDAD = {
 		region_state:HTR = {
@@ -643,7 +648,7 @@
 				size = 36545
 			}
 			create_pop = {
-				culture = mashriq
+				culture = mashriqi
 				religion = oriental_orthodox
 				size = 88481
 			}
@@ -674,6 +679,8 @@
 				size = 5881
 			}
 		}
+		add_homeland = assyrian
+		add_homeland = mashriqi
 	}
 	s:STATE_MOSUL = {
 		region_state:ABN = {
@@ -720,6 +727,7 @@
 				size = 951
 			}
 		}
+		add_homeland = mashriqi
 	}
 	s:STATE_DEIR_EZ_ZOR = {
 		region_state:OSR = {
@@ -800,12 +808,14 @@
 				size = 8200
 			}
 		}
+		add_homeland = assyrian
+		add_homeland = mashriqi
 	}
 	s:STATE_BASRA = {
 		region_state:CRC = {
 			create_pop = {
 				culture = mashriqi
-				size = 192000
+				size = 132000
 			}
 			create_pop = {
 				culture = bedouin
@@ -816,6 +826,7 @@
 				size = 13250
 			}
 		}
+		add_homeland = mashriqi
 	}
 	s:STATE_FARS = {
 		region_state:PER = {
@@ -912,8 +923,12 @@
 		}
 		region_state:SAK = {
 			create_pop = {
-				culture = greek
-				size = 42300
+				culture = indo_greek
+				size = 12300
+			}
+			create_pop = {
+				culture = persian
+				size = 7522
 			}
 		}
 	}
@@ -1166,6 +1181,7 @@
 				size = 2056
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_AYDIN = {
 		region_state:PEG = {
@@ -1193,6 +1209,7 @@
 				size = 3200
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_KONYA = {
 		region_state:PEG = {
@@ -1259,6 +1276,9 @@
 				size = 5126
 			}
 		}
+		add_homeland = lydian
+		add_homeland = phrygian
+		add_homeland = cappadocian
 	}
 	s:STATE_KASTAMONU = {
 		region_state:PON = {
@@ -1286,6 +1306,7 @@
 				size = 4500
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_DIYARBAKIR = {
 		region_state:SOP = {
@@ -1356,6 +1377,7 @@
 				size = 4000
 			}
 		}
+		add_homeland = assyrian
 	}
 	s:STATE_ADANA = {
 		region_state:CIL = {
@@ -1402,6 +1424,7 @@
 				size = 13500
 			}
 		}
+		add_homeland = greek
 	}
 	s:STATE_ERZURUM = {
 		region_state:ARM = {
@@ -1497,5 +1520,7 @@
 				size = 1568
 			}
 		}
+		add_homeland = cappadocian
+		add_homeland = galatian
 	}
 }

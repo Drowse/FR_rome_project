@@ -448,22 +448,15 @@
 		region_state:IGK = {
 			create_pop = {
 				culture = panjabi
-				religion = sunni
-				size = 9433705
+				size = 4512360
 			}
 			create_pop = {
 				culture = avadhi
-				religion = hindu
 				size = 426485
 			}
 			create_pop = {
-				culture = panjabi
-				size = 1666552
-			}
-			create_pop = {
-				culture = panjabi
-				religion = hindu
-				size = 2656912
+				culture = indo_greek
+				size = 1020699
 			}
 		}
 	}
