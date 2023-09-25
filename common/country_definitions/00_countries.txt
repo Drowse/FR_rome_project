@@ -2518,16 +2518,16 @@ SLK = {
 	capital = STATE_ARAUCANIA
 }
 
-TNG = {
-	color = { 69 38 162 }
+# TNG = {
+	# color = { 69 38 162 }
 	
-	country_type = decentralized
+	# country_type = decentralized
 	
-	tier = principality
+	# tier = principality
 	
-	cultures = { polynesian }
-	capital = STATE_TONGA
-}
+	# cultures = { polynesian }
+	# capital = STATE_TONGA
+# }
 
 WIN = {
 	color = { 50  150  50 }

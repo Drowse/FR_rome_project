@@ -376,6 +376,7 @@ african_clothes_trigger = {
 				has_discrimination_trait = malagasy_language
 				has_discrimination_trait = mediterranean_heritage
 				has_discrimination_trait = celtic_culture_group
+				has_discrimination_trait = iberian_culture_group
 			}
 		}   
 	}
@@ -707,14 +708,15 @@ overweight_trigger = {
 east_asian_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
-		NOR = { 
-			culture = cu:yakut 
-			culture = cu:siberian
-		}
+		# NOR = { 
+			# culture = cu:yakut 
+			# culture = cu:siberian
+		# }
 		culture = {
 			OR = {
 				has_discrimination_trait = east_asian_heritage
 				has_discrimination_trait = north_asian_heritage
+				has_discrimination_trait = german_speaking
 			}
 		}   
 	}
@@ -780,7 +782,10 @@ circumpolar_clothes_pop_trigger = {
 		OR = {
 			culture = cu:inuit
 			culture = {
-				has_discrimination_trait = siberian_culture_group
+				OR = {
+					has_discrimination_trait = siberian_culture_group
+					#has_discrimination_trait = german_speaking
+				}
 			}
 		}
 		NOT = { is_pop_type = slaves }
@@ -790,7 +795,14 @@ circumpolar_clothes_pop_trigger = {
 sami_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
-		culture = cu:sami
+		OR = {
+			culture = cu:sami
+			culture = cu:istvaeonic
+			culture = cu:ingvaeonic
+			culture = cu:irminonic
+			culture = cu:vistulan
+			culture = cu:scandinavian						
+		}
 	}
 }
 
@@ -807,6 +819,7 @@ african_clothes_pop_trigger = {
 				has_discrimination_trait = malagasy_language
 				has_discrimination_trait = mediterranean_heritage
 				has_discrimination_trait = celtic_culture_group
+				has_discrimination_trait = iberian_culture_group
 			}
 		}   
 	}
@@ -885,7 +898,13 @@ cold_clothes_pop_trigger = {
 			has_pop_culture = inuit
 			has_pop_culture = athabaskan
 			has_pop_culture = siberian
-		}
+			culture = {
+				OR = {
+					has_discrimination_trait = siberian_culture_group
+					has_discrimination_trait = german_speaking
+				}
+			}			
+		}		
 	}
 }
 
