@@ -31,7 +31,16 @@
  irminonic:0 "Irminonic"
  vistulan:0 "Vistulan"
  scandinavian:0 "Scandinavian"
- 
+ saurashtran:0 "Saurashtran"
+ indo_scythian:0 "Indo-Scythian"
+ saka:0 "Saka" #Sakan?
+ alan:0 "Alan"
+ yuezhi:0 "Yuezhi"
+ sogdian:0 "Sogdian"
+ wusun:0 "Wusun"
+
+ iranic_heritage:0 "Iranic"
+
  
  mediterranean_heritage:0 "Mediterranean"
  anatolian_heritage:0 "Anatolian"

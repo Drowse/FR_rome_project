@@ -52,6 +52,11 @@
 			country = c:HTR
 			type = vassal
 		}
+
+		create_diplomatic_pact = {
+			country = c:KAP
+			type = vassal
+		}
 	}
 
 	c:IGK = {

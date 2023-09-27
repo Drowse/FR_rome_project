@@ -14,6 +14,10 @@ middle_eastern_heritage = { # Persia Cultural Sphere ie Armenia
 	heritage = yes
 }
 
+iranic_heritage = {
+	heritage = yes
+}
+
 american_heritage = { # Don't Use
 	heritage = yes
 }

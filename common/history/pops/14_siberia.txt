@@ -2,73 +2,28 @@
 	s:STATE_URAL = {
 		region_state:SMY = {
 			create_pop = {
-				culture = russian
-				size = 677296
-			}
-			create_pop = {
-				culture = tatar
-				size = 5996
-			}
-			create_pop = {
 				culture = ugrian
-				size = 13504
+				size = 412220
+			}
+			create_pop = {
+				culture = siberian
+				size = 113504
 			}
 		}
 	}
 	s:STATE_TOMSK = {
-		region_state:XNG = {
-			create_pop = {
-				culture = russian
-				size = 1170008
-			}
+		region_state:SMY = {
 			create_pop = {
 				culture = siberian
-				size = 2008
-			}
-			create_pop = {
-				culture = tatar
-				religion = animist
-				size = 24000
-			}
-			create_pop = {
-				culture = tatar
-				size = 24000
-			}
-			create_pop = {
-				culture = tatar
-				religion = gelugpa
-				size = 16000
-			}
-		}
-		region_state:XNG = {
-			create_pop = {
-				culture = tatar
-				size = 36000
-			}
-			create_pop = {
-				culture = tatar
-				religion = gelugpa
-				size = 16000
+				size = 1170008
 			}
 		}
 	}
 	s:STATE_TOBOLSK = {
-		region_state:XNG = {
-			create_pop = {
-				culture = russian
-				size = 252000
-			}
-			create_pop = {
-				culture = tatar
-				size = 2000
-			}
-			create_pop = {
-				culture = ugrian
-				size = 7380
-			}
+		region_state:SMY = {
 			create_pop = {
 				culture = siberian
-				size = 3980
+				size = 252000
 			}
 		}
 	}
@@ -197,14 +152,10 @@
 
 
 	s:STATE_TRANS_BAIKAL = {
-		region_state:XNG = {
-			create_pop = {
-				culture = russian
-				size = 122000
-			}
+		region_state:TNG = {
 			create_pop = {
 				culture = yakut
-				size = 5992
+				size = 122000
 			}
 			create_pop = {
 				culture = manchu
@@ -214,25 +165,17 @@
 				culture = mongol
 				size = 36000
 			}
-			create_pop = {
-				culture = siberian
-				size = 17996
-			}
 		}
 	}
 	s:STATE_IRKUTSK = {
-		region_state:XNG = {
+		region_state:SMY = {
 			create_pop = {
-				culture = russian
+				culture = siberian
 				size = 388408
 			}
 			create_pop = {
 				culture = mongol
 				size = 116004
-			}
-			create_pop = {
-				culture = siberian
-				size = 4996
 			}
 		}
 	}

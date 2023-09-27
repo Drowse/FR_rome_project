@@ -257,25 +257,11 @@
 	s:STATE_OUTER_MANCHURIA = {
 		region_state:TNG = {
 			create_pop = {
-				culture = manchu
+				culture = yakut
 				size = 1303996
 			}
 			create_pop = {
 				culture = korean
-				size = 11996
-			}
-			create_pop = {
-				culture = siberian
-				size = 32800
-			}
-		}
-		region_state:XNG = {
-			create_pop = {
-				culture = mongol
-				size = 1303996
-			}
-			create_pop = {
-				culture = tatar
 				size = 11996
 			}
 			create_pop = {

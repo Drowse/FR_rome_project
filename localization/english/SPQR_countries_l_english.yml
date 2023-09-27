@@ -410,7 +410,7 @@
  YLO:0 "Yilou"
  YLO_ADJ:0 "Yilou"
 
- ALA:0 "Alans"
+ ALA:0 "Alanians"
  ALA_ADJ:0 "Alanian"
 
  TIB:0 "Tibetans"
@@ -418,3 +418,18 @@
 
  BEL:0 "B*lgium"
  BEL_ADJ:0 "B*lgian"
+
+ SAU:0 "Saurashtra"
+ SAU_ADJ:0 "Saurashtran"
+
+ SOG:0 "Sogdians"
+ SOG_ADJ:0 "Sogdian"
+
+ KHW:0 "Chorasmia"
+ KHW_ADJ:0 "Chorasmian"
+
+ IAT:0 "Iastae"
+ IAT_ADJ:0 "Iastaen"
+
+ WSN:0 "Wusun"
+ WSN_ADJ:0 "Wusun"
