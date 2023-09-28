@@ -3,11 +3,11 @@
 		region_state:SUI = {
 			create_pop = {
 				culture = scandinavian
-				size = 1081208
+				size = 108120
 			}
 			create_pop = {
 				culture = finnish
-				size = 32000
+				size = 3200
 			}
 		}
 	}
@@ -15,11 +15,11 @@
 		region_state:SUI = {
 			create_pop = {
 				culture = scandinavian
-				size = 800208
+				size = 80208
 			}
 			create_pop = {
 				culture = finnish
-				size = 9000
+				size = 900
 			}
 		}
 	}
@@ -27,7 +27,7 @@
 		region_state:HRL = {
 			create_pop = {
 				culture = scandinavian
-				size = 512860
+				size = 51286
 			}
 		}
 	}
@@ -43,7 +43,7 @@
 		region_state:SUI = {
 			create_pop = {
 				culture = scandinavian
-				size = 33208
+				size = 3328
 			}
 		}
 	}
@@ -51,7 +51,7 @@
 		region_state:CIM = {
 			create_pop = {
 				culture = ingvaeonic
-				size = 548908
+				size = 60989
 			}
 		}
 	}
@@ -59,7 +59,7 @@
 		region_state:HRL = {
 			create_pop = {
 				culture = ingvaeonic
-				size = 647996
+				size = 71999
 			}
 		}
 	}
@@ -67,7 +67,7 @@
 		region_state:RGI = {
 			create_pop = {
 				culture = scandinavian
-				size = 546800
+				size = 54680
 			}
 		}
 	}
@@ -75,7 +75,7 @@
 		region_state:SMI = { 
 			create_pop = {
 				culture = sami
-				size = 40000
+				size = 20000
 			} 
 		}
 	}
@@ -83,7 +83,11 @@
 		region_state:SMI = { 
 			create_pop = {
 				culture = sami
-				size = 7000
+				size = 14000
+			}
+			create_pop = {
+				culture = scandinavian
+				size = 4000
 			}
 		}
 	}
@@ -96,7 +100,7 @@
 		}
 	}
 	s:STATE_GREENLAND = {
-		region_state:DEN = {
+		region_state:DRS = {
 			create_pop = {
 				culture = inuit
 				religion = animist
@@ -113,7 +117,7 @@
 		region_state:FIN = { 
 			create_pop = {
 				culture = finnish
-				size = 690000
+				size = 11500
 			}
 		}
 	}
@@ -121,7 +125,7 @@
 		region_state:FIN = {
 			create_pop = {
 				culture = finnish
-				size = 177000
+				size = 7000
 			}
 		}
 	}
@@ -137,7 +141,7 @@
 		region_state:FIN = {
 			create_pop = {
 				culture = finnish
-				size = 360000
+				size = 6000
 			}
 		}
 	}
@@ -145,7 +149,7 @@
 		region_state:BEL = {
 			create_pop = {
 				culture = belgae
-				size = 2657596
+				size = 147644
 			} 
 		}
 	}
@@ -153,7 +157,7 @@
 		region_state:BRG = {
 			create_pop = {
 				culture = brittonic
-				size = 1986404
+				size = 110355
 			}
 		}
 	}
@@ -161,7 +165,7 @@
 		region_state:ORD = {
 			create_pop = {
 				culture = brittonic
-				size = 194639
+				size = 94639
 			}
 		}
 	}
@@ -169,7 +173,7 @@
 		region_state:BRG = {
 			create_pop = {
 				culture = brittonic
-				size = 2026592
+				size = 112588
 			}
 		}
 	}
@@ -177,7 +181,7 @@
 		region_state:CLD = {
 			create_pop = {
 				culture = goidelic
-				size = 672396
+				size = 37355
 			}
 		}
 	}
@@ -185,7 +189,7 @@
 		region_state:CRT = {
 			create_pop = {
 				culture = brittonic
-				size = 2543604
+				size = 141311
 			}
 		}
 	}
@@ -193,7 +197,7 @@
 		region_state:CTU = {
 			create_pop = {
 				culture = brittonic
-				size = 1565208
+				size = 86956
 			}
 		}
 	}
@@ -201,7 +205,7 @@
 		region_state:DUM = {
 			create_pop = {
 				culture = brittonic
-				size = 1969600
+				size = 109422
 			}
 		}
 	}
@@ -209,7 +213,7 @@
 		region_state:VOT = {
 			create_pop = {
 				culture = goidelic
-				size = 1397200
+				size = 77622
 			}
 		}
 	}
@@ -217,7 +221,7 @@
 		region_state:ROB = {
 			create_pop = {
 				culture = goidelic # Catholics
-				size = 1183122
+				size = 73945
 			}
 		}
 	}
@@ -225,7 +229,7 @@
 		region_state:IVE = {
 			create_pop = {
 				culture = goidelic # Catholics
-				size = 2214388
+				size = 138399
 			}
 		}
 	}
@@ -233,7 +237,7 @@
 		region_state:EBL = {
 			create_pop = {
 				culture = goidelic # Catholics
-				size = 1677581
+				size = 104848
 			}
 		}
 	}
@@ -241,7 +245,7 @@
 		region_state:NGT = {
 			create_pop = {
 				culture = goidelic # Catholics
-				size = 1319428
+				size = 82464
 			}
 		}
 	}
@@ -249,7 +253,7 @@
 		region_state:PRI = {
 			create_pop = {
 				culture = gaulish
-				size = 1852741
+				size = 463185
 			}
 		}
 	}
@@ -257,11 +261,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = greek
-				size = 131100
+				size = 32775
 			}
 			create_pop = {
 				culture = gaulish
-				size = 1038678
+				size = 259669
 			}
 		}
 	}
@@ -269,7 +273,7 @@
 		region_state:ALR = {
 			create_pop = {
 				culture = gaulish
-				size = 2670494
+				size = 667623
 			}
 		}
 	}
@@ -277,25 +281,25 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 1994848
+				size = 498712
 			}
 			create_pop = {
 				culture = greek
-				size = 64216
+				size = 16054
 			}
 		}
 	}
 	s:STATE_RHONE = {
-		region_state:SPR = {
-			create_pop = {
-				culture = gaulish
-				size = 1709209
-			}
-		}
 		region_state:AVN = {
 			create_pop = {
 				culture = gaulish
-				size = 711985
+				size = 427302
+			}
+		}
+		region_state:SPR = {
+			create_pop = {
+				culture = gaulish
+				size = 177996
 			}		
 		}
 	}
@@ -303,7 +307,7 @@
 		region_state:BEL = {
 			create_pop = {
 				culture = belgae
-				size = 1608005
+				size = 402001
 			}
 		}
 	}
@@ -311,7 +315,7 @@
 		region_state:BEL = {
 			create_pop = {
 				culture = belgae
-				size = 1470989
+				size = 367747
 			} 
 		}
 	}
@@ -319,7 +323,7 @@
 		region_state:LEC = {
 			create_pop = {
 				culture = gaulish
-				size = 719210
+				size = 179802
 			}
 		}
 	}
@@ -327,7 +331,7 @@
 		region_state:PCT = {
 			create_pop = {
 				culture = gaulish
-				size = 1680062
+				size = 420015
 			}
 		}
 	}
@@ -335,7 +339,7 @@
 		region_state:SNT = {
 			create_pop = {
 				culture = gaulish
-				size = 1693584
+				size = 423396
 			}
 		}
 	}
@@ -343,7 +347,7 @@
 		region_state:AVN = {
 			create_pop = {
 				culture = gaulish
-				size = 1949056
+				size = 487264
 			}
 		}
 	}
@@ -351,7 +355,7 @@
 		region_state:OSM = {
 			create_pop = {
 				culture = gaulish
-				size = 1018017
+				size = 254504
 			}
 		}
 	}
@@ -359,7 +363,7 @@
 		region_state:HDI = {
 			create_pop = {
 				culture = gaulish
-				size = 1561366
+				size = 390341
 			}
 		}
 	}
@@ -367,7 +371,7 @@
 		region_state:ALR = {
 			create_pop = {
 				culture = gaulish
-				size = 1608973
+				size = 402243
 			}
 		}
 	}
@@ -375,7 +379,7 @@
 		region_state:LGN = {
 			create_pop = {
 				culture = gaulish
-				size = 1153438
+				size = 288359
 			}
 		}
 	}
@@ -383,7 +387,7 @@
 		region_state:SEQ = {
 			create_pop = {
 				culture = gaulish
-				size = 770731
+				size = 192682
 			}
 		}
 	}
@@ -391,7 +395,7 @@
 		region_state:LGN = {
 			create_pop = {
 				culture = gaulish
-				size = 1133731
+				size = 283432
 			}
 		}
 	}
@@ -399,7 +403,7 @@
 		region_state:AQU = {
 			create_pop = {
 				culture = aquitani
-				size = 1703916
+				size = 425979
 			}
 		}
 	}
@@ -407,7 +411,7 @@
 		region_state:CRN = {
 			create_pop = {
 				culture = gaulish
-				size = 1375047
+				size = 343761
 			}
 		}
 	}
@@ -416,7 +420,7 @@
 		region_state:FRI = {
 			create_pop = {
 				culture = istvaeonic
-				size = 842331
+				size = 120333
 			}
 		}
 	}
@@ -425,7 +429,7 @@
 		region_state:FRI = {
 			create_pop = {
 				culture = istvaeonic
-				size = 528678
+				size = 75525
 			}
 		}
 	}
@@ -434,7 +438,7 @@
 		region_state:FRI = {
 			create_pop = {
 				culture = istvaeonic
-				size = 192091
+				size = 27441
 			}
 		}
 	}
@@ -443,7 +447,7 @@
 		region_state:BEL = { # 
 			create_pop = {
 				culture = belgae # 'Walloon & French' in census data.
-				size = 1413476
+				size = 353369
 			}
 		}
 	}
@@ -452,7 +456,7 @@
 		region_state:BEL = {
 			create_pop = {
 				culture = belgae # 'Flemish & Dutch' in census data.
-				size = 2224197
+				size = 556049
 			}
 		}
 	}
@@ -460,7 +464,7 @@
 		region_state:NRC = {
 			create_pop = {
 				culture = noric
-				size = 1964404
+				size = 327400
 			}
 		}
 	}
@@ -484,7 +488,7 @@
 		region_state:NRC = {
 			create_pop = {
 				culture = noric
-				size = 664796
+				size = 110799
 			}
 		}
 	}
@@ -492,7 +496,7 @@
 		region_state:RAE = {
 			create_pop = {
 				culture = etruscan
-				size = 429286
+				size = 107321
 			}
 		}
 	}
@@ -532,7 +536,7 @@
 		region_state:HEL = {
 			create_pop = {
 				culture = gaulish
-				size = 388400
+				size = 198400
 			}
 		}
 	}
@@ -540,7 +544,7 @@
 		region_state:HEL = {
 			create_pop = {
 				culture = gaulish
-				size = 206634
+				size = 106634
 			}
 		}
 	}
@@ -597,7 +601,7 @@
 		region_state:AGL = {
 			create_pop = {
 				culture = ingvaeonic
-				size = 374604
+				size = 41622
 			}
 		}
 	}

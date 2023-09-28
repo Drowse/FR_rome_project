@@ -3,7 +3,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 2306996
+				size = 576749
 			}
 			create_pop = {
 				culture = latin
@@ -15,7 +15,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 2367188
+				size = 591797
 			}
 			create_pop = {
 				culture = latin religion = hellenism
@@ -27,13 +27,13 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = punic 
-				size = 324084
+				size = 24084
 			}
 		}
 		region_state:SPR = {
 			create_pop = {
 				culture = latin 
-				size = 204084
+				size = 68028
 			}
 		}
 	}
@@ -53,7 +53,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 451000
+				size = 150333
 			}
 		}
 	}
@@ -61,7 +61,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan
-				size = 190540
+				size = 63513
 			}
 		}
 	}
@@ -69,7 +69,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 2557396
+				size = 852465
 			}
 		}
 	}
@@ -78,12 +78,12 @@
 			create_pop = {
 				culture = greek
 				religion = hellenism
-				size = 523620
+				size = 174540
 			}
 			create_pop = {
 				culture = latin
 				religion = hellenism
-				size = 251120
+				size = 83	706
 			}
 		}
 		add_homeland = greek
@@ -92,11 +92,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = illyrian
-				size = 1004392
+				size = 334797
 			}
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 284392
+				size = 94797
 			}
 		}
 	}
@@ -104,7 +104,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 660448
+				size = 220149
 			}
 		}
 	}
@@ -112,11 +112,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin
-				size = 92032
+				size = 30677
 			}
 			create_pop = {
 				culture = gaulish
-				size = 181200
+				size = 60400
 			}
 		}
 	}
@@ -130,7 +130,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan
-				size = 640400
+				size = 213466
 			}
 		}
 	}
@@ -138,7 +138,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 1625400
+				size = 541800
 			}
 			create_pop = {
 				culture = etruscan 
@@ -151,7 +151,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 800600
+				size = 266866
 			}
 			create_pop = {
 				culture = etruscan religion = animist # Estruscan religion
@@ -164,12 +164,7 @@
 			create_pop = {
 				culture = latin religion = hellenism
 				religion = hellenism
-				size = 1333868
-			}
-			create_pop = {
-				culture = latin 
-				religion = jewish
-				size = 5596
+				size = 444622
 			}
 		}
 	}
@@ -177,12 +172,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 1855196
-			}
-			create_pop = {
-				culture = latin 
-				religion = jewish
-				size = 2000
+				size = 618398
 			}
 		}
 	}
@@ -191,18 +181,18 @@
 			create_pop = {
 				culture = greek
 				religion = hellenism
-				size = 589871
+				size = 196623
 			}
 			create_pop = {
 				culture = latin
 				religion = hellenism
-				size = 365633
+				size = 121877
 			}
 		}
 		region_state:CAR = {
 			create_pop = {
 				culture = punic
-				size = 600596
+				size = 200198
 			}
 			create_pop = {
 				culture = greek religion = hellenism
@@ -215,13 +205,13 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = celtiberian
-				size = 1008400
+				size = 403360
 			}
 		}
 		region_state:VAC = {
 			create_pop = {
 				culture = celtiberian
-				size = 268400
+				size = 107360
 			}
 		}
 	}
@@ -230,11 +220,7 @@
 		region_state:GLI = {
 			create_pop = {
 				culture = celtiberian
-				size = 828528
-			}
-			create_pop = {
-				culture = celtiberian
-				size = 12264
+				size = 331411
 			}
 		}
 	}
@@ -243,7 +229,7 @@
 		region_state:CNT = {
 			create_pop = {
 				culture = celtiberian
-				size = 614264
+				size = 245705
 			} 
 		}	
 	}
@@ -251,13 +237,13 @@
 		region_state:VAC = {
 			create_pop = {
 				culture = celtiberian
-				size = 1030808
+				size = 412323
 			}
 		}
 		region_state:LUS = {
 			create_pop = {
 				culture = celtiberian
-				size = 430808
+				size = 172323
 			}
 		}
 	}
@@ -265,7 +251,7 @@
 		region_state:AQU = {
 			create_pop = {
 				culture = aquitani
-				size = 579200
+				size = 231680
 			}
 		}
 	}
@@ -273,13 +259,13 @@
 		region_state:AQU = {
 			create_pop = {
 				culture = aquitani
-				size = 100008
+				size = 40003
 			}		
 		}
 		region_state:CAR = {
 			create_pop = {
 				culture = iberian
-				size = 401200
+				size = 160480
 			}
 		}
 	}
@@ -287,7 +273,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = iberian
-				size = 704308
+				size = 240723
+			}
+			create_pop = {
+				culture = punic
+				size = 41723
 			}
 		}
 	}
@@ -295,11 +285,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = punic # Punic
-				size = 145244
+				size = 58097
 			}
 			create_pop = {
 				culture = iberian
-				size = 78020
+				size = 31208
 			}
 		}
 	}
@@ -307,7 +297,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = turdetani 
-				size = 1057592
+				size = 303036
+			}
+			create_pop = {
+				culture = punic 
+				size = 123036
 			}
 		}
 	}
@@ -315,7 +309,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = iberian
-				size = 1218404
+				size = 400361
+			}
+			create_pop = {
+				culture = punic
+				size = 87361
 			}
 		}
 	}
@@ -323,13 +321,13 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = celtiberian
-				size = 450992
+				size = 180396
 			}
 		}
 		region_state:LUS = {
 			create_pop = {
 				culture = celtiberian
-				size = 50992
+				size = 20396
 			}
 		}
 	}
@@ -337,7 +335,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = iberian
-				size = 989604
+				size = 300841
+			}
+			create_pop = {
+				culture = punic
+				size = 95841
 			}
 		}
 	}
@@ -345,13 +347,13 @@
 		region_state:LUS = {
 			create_pop = {
 				culture = celtiberian
-				size = 920800
+				size = 368320
 			}
 		}
 		region_state:GLI = {
 			create_pop = {
 				culture = celtiberian
-				size = 620800
+				size = 248320
 			}
 		}
 	}
@@ -359,13 +361,13 @@
 		region_state:LUS = {
 			create_pop = {
 				culture = celtiberian
-				size = 800796
+				size = 320318
 			}
 		}
 		region_state:CAR = {
 			create_pop = {
 				culture = celtiberian
-				size = 60796
+				size = 24318
 			}
 		}
 	}
@@ -373,24 +375,24 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = turdetani
-				size = 372508
+				size = 149003
 			}
 		}
 	}
 	s:STATE_CAPE_VERDE = {
-		region_state:POR = {
+		region_state:CAR = {
 			create_pop = {
-				culture = portuguese #punic
-				size = 103532
+				culture = punic #punic
+				size = 4510
 			}
 		}
 	}
 
 	s:STATE_MADEIRA = {
-		region_state:POR = {
+		region_state:CAR = {
 			create_pop = {
-				culture = portuguese #punic
-				size = 103532
+				culture = punic #punic
+				size = 4510
 			}
 		}
 	}
@@ -398,8 +400,8 @@
 	s:STATE_CANARY_ISLANDS = {
 		region_state:CAR = {
 			create_pop = {
-				culture = spanish #punic
-				size = 208004
+				culture = punic #punic
+				size = 9334
 			}
 		}
 	}
@@ -407,8 +409,8 @@
 	s:STATE_AZORES = {
 		region_state:CAR = {
 			create_pop = {
-				culture = portuguese #punic
-				size = 103532
+				culture = punic #punic
+				size = 4510
 			}
 		}
 	}
@@ -550,7 +552,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = illyrian
-				size = 297796
+				size = 99265
 			}
 			create_pop = {
 				culture = latin religion = hellenism
@@ -562,13 +564,17 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = illyrian
-				size = 563592
+				size = 180064
+			}
+			create_pop = {
+				culture = latin
+				size = 7864
 			}
 		}
 		region_state:PNN = {
 			create_pop = {
 				culture = illyrian
-				size = 176000
+				size = 58666
 			}
 		}
 	}
@@ -576,14 +582,14 @@
 		region_state:PNN = {
 			create_pop = {
 				culture = illyrian
-				size = 282048
+				size = 94016
 			}
 		}
 
 		region_state:SCD = {
 			create_pop = {
 				culture = noric
-				size = 48040
+				size = 8040
 			}
 		}
 	}
@@ -591,11 +597,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 197800
+				size = 65933
 			}
 			create_pop = {
 				culture = illyrian
-				size = 344504
+				size = 114834
 			} 
 		}
 	}
@@ -603,7 +609,7 @@
 		region_state:ILL = { 
 			create_pop = {
 				culture = illyrian
-				size = 184000
+				size = 61333
 			} 
 		}
 	}
@@ -611,7 +617,11 @@
 		region_state:SCD = {
 			create_pop = {
 				culture = noric
-				size = 809604
+				size = 200401
+			}
+			create_pop = {
+				culture = illyrian
+				size = 2401
 			}
 		}
 	}
@@ -619,7 +629,7 @@
 		region_state:DRD = {
 			create_pop = {
 				culture = illyrian
-				size = 581800
+				size = 193933
 			} 
 		}
 	}
