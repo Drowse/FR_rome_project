@@ -1,4 +1,19 @@
 ﻿DIPLOMACY = {
+	c:SPR = {
+		create_diplomatic_pact = {
+			country = c:LCN
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:SMN
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:MSI
+			type = vassal
+		}
+	}
+	
 	c:GRE = {
 		create_diplomatic_pact = {
 			country = c:ACH

@@ -29,11 +29,15 @@
 				culture = punic 
 				size = 24084
 			}
+			create_pop = {
+				culture = etruscan 
+				size = 8084
+			}
 		}
 		region_state:SPR = {
 			create_pop = {
-				culture = latin 
-				size = 68028
+				culture = etruscan 
+				size = 40028
 			}
 		}
 	}
@@ -61,7 +65,7 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan
-				size = 63513
+				size = 33513
 			}
 		}
 	}
@@ -69,7 +73,13 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 852465
+				size = 800465
+			}
+		}
+		region_state:LCN = {
+			create_pop = {
+				culture = latin religion = hellenism
+				size = 52465
 			}
 		}
 	}
@@ -83,7 +93,19 @@
 			create_pop = {
 				culture = latin
 				religion = hellenism
-				size = 83	706
+				size = 43706
+			}
+		}
+		region_state:LCN = {
+			create_pop = {
+				culture = greek
+				religion = hellenism
+				size = 4540
+			}
+			create_pop = {
+				culture = latin
+				religion = hellenism
+				size = 63706
 			}
 		}
 		add_homeland = greek
@@ -94,17 +116,31 @@
 				culture = illyrian
 				size = 334797
 			}
+		}
+		region_state:LCN = {
 			create_pop = {
 				culture = latin religion = hellenism
 				size = 94797
 			}
 		}
-	}
-	s:STATE_ABRUZZO = {
-		region_state:SPR = {
+		region_state:SMN = { 
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 220149
+				size = 30797
+			}
+		}
+	}
+	s:STATE_ABRUZZO = {
+		region_state:SMN = {
+			create_pop = {
+				culture = latin religion = hellenism
+				size = 100074
+			}
+		}
+		region_state:MSI = {
+			create_pop = {
+				culture = latin religion = hellenism
+				size = 120074
 			}
 		}
 	}
@@ -124,13 +160,21 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = animist # Estruscan religion
-				size = 8408
+				size = 18408
 			}
 		}
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan
-				size = 213466
+				size = 60733
+			}
+			create_pop = {
+				culture = gaulish
+				size = 16733
+			}
+			create_pop = {
+				culture = latin
+				size = 30733
 			}
 		}
 	}
@@ -138,12 +182,16 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 541800
+				size = 401800
+			}
+			create_pop = {
+				culture = latin religion = hellenism
+				size = 141800
 			}
 			create_pop = {
 				culture = etruscan 
 				religion = animist # Estruscan religion
-				size = 6996
+				size = 16996
 			}
 		}
 	}
@@ -151,11 +199,15 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 266866
+				size = 200866
+			}
+			create_pop = {
+				culture = latin religion = hellenism
+				size = 66866
 			}
 			create_pop = {
 				culture = etruscan religion = animist # Estruscan religion
-				size = 3600
+				size = 13600
 			}
 		}
 	}
@@ -313,7 +365,7 @@
 			}
 			create_pop = {
 				culture = punic
-				size = 87361
+				size = 154722
 			}
 		}
 	}
@@ -339,7 +391,7 @@
 			}
 			create_pop = {
 				culture = punic
-				size = 95841
+				size = 191682
 			}
 		}
 	}

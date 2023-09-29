@@ -404,12 +404,7 @@
 			create_pop = {
 				culture = punic
 				size = 3996
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 56000
-			}
+			} 
 		}
 	}
 	s:STATE_FEZ = {
@@ -421,12 +416,7 @@
 			create_pop = {
 				culture = punic
 				size = 6004
-			} 
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 62000
-			}
+			}  
 		}
 	}
 	s:STATE_AL_RIF = {
@@ -436,14 +426,9 @@
 				size = 71800
 			}
 			create_pop = {
-				culture = berber
-				size = 1800
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 34000
-			}
+				culture = punic
+				size = 21800
+			} 
 		}
 	}
 	s:STATE_INNER_MOROCCO = {
@@ -451,33 +436,24 @@
 			create_pop = {
 				culture = berber
 				size = 322000
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 24000
-			}
+			} 
 		}
 	}
 	s:STATE_ALGIERS = {
 		region_state:CAR = {
 			create_pop = {
 				culture = berber
-				size = 1300000
+				size = 220000
 			}
 			create_pop = {
 				culture = punic #punic
-				size = 10000
+				size = 120000
 			}
 		}
 		region_state:NUM = {
 			create_pop = {
 				culture = berber
-				size = 740000
-			}
-			create_pop = {
-				culture = bambara 
-				size = 3401
+				size = 650000
 			}
 		}
 	}
@@ -485,21 +461,16 @@
 		region_state:NUM = { 
 			create_pop = {
 				culture = berber
-				size = 1204215
+				size = 602107
 			} 
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 32020
-			}
 		}
 		region_state:CAR = {
 			create_pop = {
-				culture = punic # Punic
-				size = 18124
+				culture = berber # Punic
+				size = 281240
 			}
 			create_pop = {
-				culture = berber
+				culture = punic
 				size = 262139
 			}
 		}
@@ -508,20 +479,7 @@
 		region_state:NUM = { 
 			create_pop = {
 				culture = berber
-				size = 100234
-			}
-			create_pop = {
-				culture = turkish
-				size = 2084
-			}
-			create_pop = {
-				culture = sephardic 
-				size = 2910
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = bambara
-				size = 18401
+				size = 50234
 			}
 		}
 		region_state:CAR = {
@@ -531,7 +489,7 @@
 			}
 			create_pop = {
 				culture = punic # punic
-				size = 3012
+				size = 8012
 			}
 		}
 	}
@@ -539,11 +497,11 @@
 		region_state:CAR = {
 			create_pop = {
 				culture = punic # punic
-				size = 1165804
+				size = 582902
 			}
 			create_pop = {
 				culture = berber
-				size = 100000
+				size = 80902
 			}
 		}
 	}
@@ -561,7 +519,7 @@
 		region_state:LIB = {
 			create_pop = {
 				culture = berber
-				size = 36000
+				size = 26000
 			}		
 		}
 	}
@@ -573,7 +531,7 @@
 			} 
 			create_pop = {
 				culture = punic # punic
-				size = 2996
+				size = 8996
 			}
 		}
 		region_state:EGY = { 

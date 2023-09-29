@@ -12,6 +12,48 @@
 	#is_named_from_capital = yes
 }
 
+MSI = { #Marsi
+	color = { 73  152  76 }
+	
+	tier = city_state
+	
+	country_type = recognized
+	
+	cultures = { latin }
+	religion = hellenism
+	
+	capital = STATE_ABRUZZO
+	#is_named_from_capital = yes
+}
+
+SMN = { #Samnites
+	color = { 114  171  184 }
+	
+	tier = city_state
+	
+	country_type = recognized
+	
+	cultures = { latin }
+	religion = hellenism
+	
+	capital = STATE_ABRUZZO
+	#is_named_from_capital = yes
+}
+
+LCN = { #Lucanians
+	color = { 146  108  146 }
+	
+	tier = city_state
+	
+	country_type = recognized
+	
+	cultures = { latin }
+	religion = hellenism
+	
+	capital = STATE_CAMPANIA
+	#is_named_from_capital = yes
+}
+
 XNG = { #Xiongnu Confederation
 	color = { 140  105  115 }
 	

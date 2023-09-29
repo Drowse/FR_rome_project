@@ -281,7 +281,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 498712
+				size = 400712
+			}
+			create_pop = {
+				culture = latin
+				size = 98712
 			}
 			create_pop = {
 				culture = greek
@@ -299,7 +303,11 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 177996
+				size = 100996
+			}
+			create_pop = {
+				culture = gaulish
+				size = 77996
 			}		
 		}
 	}

@@ -6889,23 +6889,35 @@ STATES = {
 	s:STATE_CAMPANIA = {
 		create_state = {
 			country = c:SPR
-			owned_provinces = { x73CE17 x214415 x4090A0 xDF1CE3 x890469 x0E8BCC }
+			owned_provinces = { x73CE17 x214415 x4090A0 xDF1CE3 x0E8BCC }
+		}
+		create_state = {
+			country = c:LCN
+			owned_provinces = { x890469 }
 		}
 		
 		add_homeland = latin
 	}
 	s:STATE_ABRUZZO = {
 		create_state = {
-			country = c:SPR
-			owned_provinces = { xA6F611 x31C0A0 x0AE57A x0D3025 xF34DC0 }
+			country = c:SMN
+			owned_provinces = { x31C0A0 xF34DC0 }
+		}
+		create_state = {
+			country = c:MSI
+			owned_provinces = { xA6F611 x0AE57A x0D3025 }
 		}
 		
 		add_homeland = latin
 	}	
 	s:STATE_CALABRIA = {
 		create_state = {
+			country = c:LCN
+			owned_provinces = { xE78C7B }
+		}
+		create_state = {
 			country = c:SPR
-			owned_provinces = { xC01020 xC050E0 x785460 xE78C7B }
+			owned_provinces = { xC01020 xC050E0 x785460 }
 		}
 		
 		add_homeland = latin
@@ -6913,7 +6925,15 @@ STATES = {
 	s:STATE_APULIA = {
 		create_state = {
 			country = c:SPR
-			owned_provinces = { x704020 x2C8F44 xEFC992 x4050DF x74BD9B x836841 x30209F }
+			owned_provinces = { xEFC992 x4050DF x74BD9B  x30209F }
+		}
+		create_state = {
+			country = c:SMN
+			owned_provinces = { x704020 }
+		}
+		create_state = {
+			country = c:LCN
+			owned_provinces = { x836841 x2C8F44 }
 		}
 		
 		add_homeland = latin

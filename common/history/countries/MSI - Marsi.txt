@@ -1,0 +1,9 @@
+﻿COUNTRIES = {
+	c:MSI = {
+		
+		add_taxed_goods = g:liquor
+		add_taxed_goods = g:wine
+		
+		effect_starting_technology_tier_Grecco_Roman_tech = yes
+	}
+}

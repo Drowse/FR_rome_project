@@ -2,6 +2,15 @@
  SPR:0 "Rome"
  SPR_ADJ:0 "Roman"
  
+ MSI:0 "Marsi"
+ MSI_ADJ:0 "Marsian"
+ 
+ SMN:0 "Samnites"
+ SMN_ADJ:0 "Samnite"
+ 
+ LCN:0 "Lucanians"
+ LCN_ADJ:0 "Lucanian"
+ 
  CAR:0 "Carthage"
  CAR_ADJ:0 "Carthaginian"
 

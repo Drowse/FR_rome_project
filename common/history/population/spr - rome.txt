@@ -5,6 +5,24 @@
 		effect_starting_pop_literacy_very_high = yes
 		
 	}
+	c:MSI = {
+		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_high = yes
+		
+	}
+	c:SMN = {
+		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_high = yes
+		
+	}
+	c:LCN = {
+		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_high = yes
+		
+	}
 	c:CAR = {
 		
 		effect_starting_pop_wealth_medium = yes
