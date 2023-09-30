@@ -2,15 +2,15 @@
 	c:SPR = {
 		create_diplomatic_pact = {
 			country = c:LCN
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:SMN
-			type = vassal
+			type = puppet
 		}
 		create_diplomatic_pact = {
 			country = c:MSI
-			type = vassal
+			type = puppet
 		}
 	}
 	

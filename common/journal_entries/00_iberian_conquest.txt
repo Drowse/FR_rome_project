@@ -1,0 +1,25 @@
+﻿je_iberia_conquest_rome = {
+	icon = "gfx/interface/icons/event_icons/event_military.dds"
+	# note that if you change this, also update the decision
+	complete = {
+		owns_entire_state_region = STATE_ANDALUSIA
+		owns_entire_state_region = STATE_CATALONIA
+		owns_entire_state_region = STATE_BALEARES
+		owns_entire_state_region = STATE_GRANADA
+		owns_entire_state_region = STATE_BADAJOZ
+		owns_entire_state_region = STATE_VALENCIA
+		owns_entire_state_region = STATE_TOLEDO
+		#owns_entire_state_region = STATE_CASTILE
+		#owns_entire_state_region = STATE_BEIRA
+		#owns_entire_state_region = STATE_ESTREMADURA
+		#owns_entire_state_region = STATE_GALICIA
+		#owns_entire_state_region = STATE_ASTURIAS
+	}
+
+	on_complete = {
+		#trigger_event = { id = manifest_destiny.1 }
+	}
+
+	weight = 100
+	should_be_pinned_by_default = yes
+}

@@ -1,0 +1,176 @@
+﻿# This is a special strategy that sets the default values for different AI scores
+# All AIs always load data from this strategy, which can then be either added to or overridden by data from its other strategies
+
+ai_strategy_default_SPQR = {
+		
+	# How many maneuvers are we OK with using up in the initial phase to add more wargoals
+	# Using this value in other strategies will function additively (values below 0 or above 1 have no further effect)
+	wargoal_maneuvers_fraction = {
+		value = 0.35
+		# USA should Manifest a lot of Destiny
+		if = {
+			limit = {
+				has_journal_entry = je_iberia_conquest_rome
+				scope:enemy_country = {
+					any_scope_state = {
+						OR = {
+							state_region = s:STATE_ANDALUSIA
+							state_region = s:STATE_CATALONIA
+							state_region = s:STATE_BALEARES
+							state_region = s:STATE_GRANADA
+							state_region = s:STATE_BADAJOZ
+							state_region = s:STATE_VALENCIA
+							state_region = s:STATE_TOLEDO
+							#state_region = s:STATE_CASTILE
+							#state_region = s:STATE_BEIRA
+							#state_region = s:STATE_ESTREMADURA
+							#state_region = s:STATE_GALICIA
+							#state_region = s:STATE_ASTURIAS
+						}
+					}
+				}
+			}
+			add = 0.25
+		}			
+	}
+	# Recklessness multiplies the AI's estimation of its own strength, so at recklessness 2 it believes its forces to be twice as strong as they actually are
+	# The AI wants to have at least parity in what it believes its own forces to be and what the enemy forces are, so at recklessness 2 it's OK with only having 50% of the enemy strength
+	# Using this value in other strategies will function additively
+	recklessness = {
+		value = 1
+		# USA should be confident against owners of their Manifest Destiny states
+		if = {
+			limit = {
+				has_journal_entry = je_iberia_conquest_rome
+				scope:target_country = {
+					any_scope_state = {
+						OR = {
+							state_region = s:STATE_ANDALUSIA
+							state_region = s:STATE_CATALONIA
+							state_region = s:STATE_BALEARES
+							state_region = s:STATE_GRANADA
+							state_region = s:STATE_BADAJOZ
+							state_region = s:STATE_VALENCIA
+							state_region = s:STATE_TOLEDO
+							#state_region = s:STATE_CASTILE
+							#state_region = s:STATE_BEIRA
+							#state_region = s:STATE_ESTREMADURA
+							#state_region = s:STATE_GALICIA
+							#state_region = s:STATE_ASTURIAS
+
+						}
+					}
+				}
+			}
+			add = 1
+		}
+	}
+	
+	# How likely is the AI to start a diplomatic play against another country if their attitude allows for it
+	# Using this value in other strategies will function additively
+	aggression = {
+		value = 0
+
+		# USA should be extremely aggressive against owners of their Manifest Destiny states
+		if = {
+			limit = {
+				has_journal_entry = je_iberia_conquest_rome
+				scope:target_country = {
+					any_scope_state = {
+						OR = {
+							state_region = s:STATE_ANDALUSIA
+							state_region = s:STATE_CATALONIA
+							state_region = s:STATE_BALEARES
+							state_region = s:STATE_GRANADA
+							state_region = s:STATE_BADAJOZ
+							state_region = s:STATE_VALENCIA
+							state_region = s:STATE_TOLEDO
+							#state_region = s:STATE_CASTILE
+							#state_region = s:STATE_BEIRA
+							#state_region = s:STATE_ESTREMADURA
+							#state_region = s:STATE_GALICIA
+							#state_region = s:STATE_ASTURIAS
+						}
+					}
+				}
+			}
+			add = 25
+		}
+	}
+	
+	# How likely should the AI be to have a particular strategic desire towards another country
+	# Using this value in other strategies will function additively
+	# scope:target_country = target country
+	secret_goal_scores = {
+		conquer = {
+			value = 0
+			if = {
+				limit = {
+					has_journal_entry = je_iberia_conquest_rome
+					scope:target_country = {
+						any_scope_state = {
+							OR = {
+							state_region = s:STATE_ANDALUSIA
+							state_region = s:STATE_CATALONIA
+							state_region = s:STATE_BALEARES
+							state_region = s:STATE_GRANADA
+							state_region = s:STATE_BADAJOZ
+							state_region = s:STATE_VALENCIA
+							state_region = s:STATE_TOLEDO
+							#state_region = s:STATE_CASTILE
+							#state_region = s:STATE_BEIRA
+							#state_region = s:STATE_ESTREMADURA
+							#state_region = s:STATE_GALICIA
+							#state_region = s:STATE_ASTURIAS
+							}
+						}
+					}
+				}
+				add = 1000
+			}
+		}			
+	}
+	
+	# How much should the AI value a wargoal against another country/state
+	# Using this value in other strategies will function additively
+	# scope:target_country = wargoal target country
+	# scope:target_state = wargoal target state (if any)
+	wargoal_scores = {
+		conquer_state = {
+			value = 0
+
+			if = {
+				limit = {
+					has_journal_entry = je_iberia_conquest_rome
+					scope:target_state = {
+						OR = {
+							state_region = s:STATE_ANDALUSIA
+							state_region = s:STATE_CATALONIA
+							state_region = s:STATE_BALEARES
+							state_region = s:STATE_GRANADA
+							state_region = s:STATE_BADAJOZ
+							state_region = s:STATE_VALENCIA
+							state_region = s:STATE_TOLEDO
+							#state_region = s:STATE_CASTILE
+							#state_region = s:STATE_BEIRA
+							#state_region = s:STATE_ESTREMADURA
+							#state_region = s:STATE_GALICIA
+							#state_region = s:STATE_ASTURIAS
+						}
+					}
+				}
+				add = 50
+			}			
+		}		
+	}
+
+	# Trigger for whether this strategy can be randomly allocated to a country
+	possible = {
+		always = no
+	}
+	
+	# Chance that this strategy will be randomly allocated to a country
+	weight = {
+		value = 0		
+	}
+}
