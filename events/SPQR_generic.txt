@@ -1,0 +1,58 @@
+﻿namespace = roman_occupation
+
+# Completed Mexico JE
+roman_occupation.1 = {
+	type = country_event
+	placement = ROOT
+
+	event_image = {
+		video = "europenorthamerica_capitalists_meeting"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+	icon = "gfx/interface/icons/event_icons/event_military.dds"
+	
+	title = roman_occupation.1.t
+	desc = roman_occupation.1.d
+	flavor = roman_occupation.1.f
+	
+	duration = 3
+	
+	trigger = {
+	}
+	
+	option = {
+		name = roman_occupation.1.a
+		default_option = yes
+		ROOT = {
+			every_scope_pop = {
+				limit = {
+					is_pop_type = laborers
+					#pop_is_discriminated = yes
+					OR = {
+						pop_employment_building_group = bg_agriculture
+						pop_employment_building_group = bg_ranching
+						pop_employment_building_group = bg_plantations			
+					}
+				}
+				change_poptype = pop_type:slaves
+			}
+			add_radicals_in_state = {
+				value = medium_radicals
+			}			
+		}
+	}
+	
+	option = {
+		name = roman_occupation.2.a
+		ROOT = {	
+			kill_population_percent_in_state = {
+				percent = 0.5
+			}
+			add_radicals_in_state = {
+				value = large_radicals
+			}
+		}
+	}
+}

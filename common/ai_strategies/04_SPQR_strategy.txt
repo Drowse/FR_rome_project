@@ -30,7 +30,7 @@ ai_strategy_default_SPQR = {
 					}
 				}
 			}
-			add = 0.25
+			add = 10
 		}			
 	}
 	# Recklessness multiplies the AI's estimation of its own strength, so at recklessness 2 it believes its forces to be twice as strong as they actually are
@@ -62,7 +62,7 @@ ai_strategy_default_SPQR = {
 					}
 				}
 			}
-			add = 1
+			add = 10
 		}
 	}
 	
@@ -94,7 +94,7 @@ ai_strategy_default_SPQR = {
 					}
 				}
 			}
-			add = 25
+			add = 1000
 		}
 	}
 	
@@ -159,7 +159,7 @@ ai_strategy_default_SPQR = {
 						}
 					}
 				}
-				add = 50
+				add = 1000
 			}			
 		}		
 	}

@@ -1,59 +1,31 @@
 ﻿DIPLOMACY = {
-	c:GBR = {
+	c:CAR = {
 		create_diplomatic_pact = {
-			country = c:FRA
-			type = rivalry
-		}
-	}		
-
-	c:PRU = {
-		create_diplomatic_pact = {
-			country = c:AUS
+			country = c:SPR
 			type = rivalry
 		}
 	}
-	c:AUS = {
+	c:CAR = {
 		create_diplomatic_pact = {
-			country = c:PRU
-			type = rivalry
-		}
-	}	
-
-	c:NET = {
-		create_diplomatic_pact = {
-			country = c:BEL
+			country = c:SPR
 			type = rivalry
 		}
 	}
-	c:BEL = {
+	c:SPR = {
 		create_diplomatic_pact = {
-			country = c:NET
-			type = rivalry
-		}
-	}	
-
-	c:RUS = {
-		create_diplomatic_pact = {
-			country = c:TUR
+			country = c:CAR
 			type = rivalry
 		}
 	}
-	c:TUR = {
+	c:NUM = {
 		create_diplomatic_pact = {
-			country = c:RUS
+			country = c:CAR
 			type = rivalry
 		}
 	}
-
-	c:SIA = {
+	c:MAU = {
 		create_diplomatic_pact = {
-			country = c:DAI
-			type = rivalry
-		}
-	}
-	c:DAI = {
-		create_diplomatic_pact = {
-			country = c:SIA
+			country = c:CAR
 			type = rivalry
 		}
 	}
