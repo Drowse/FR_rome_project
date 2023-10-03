@@ -5,6 +5,7 @@ CHARACTERS = {
 			first_name = "Mithradates"
 			last_name = "Eupator"
 			historical = yes
+			religion = hellenic
 			ruler = yes
 			birth_date = 619.1.1
 			interest_group = ig_landowners
@@ -14,7 +15,7 @@ CHARACTERS = {
 			}
 			on_created = {
 				set_variable = is_married
-			}	
+			}
 		}
 	}
 }

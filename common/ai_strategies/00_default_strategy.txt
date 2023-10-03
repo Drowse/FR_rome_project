@@ -2461,6 +2461,79 @@ ai_strategy_default = {
 				}
 				add = 200
 			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:PON
+					scope:target_country = c:PON
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:PEG
+					scope:target_country = c:PEG
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:BIT
+					scope:target_country = c:BIT
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:LYD
+					scope:target_country = c:LYD
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:CIL
+					scope:target_country = c:CIL
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					exists = c:CAP
+					scope:target_country = c:CAP
+				}
+				add = 200
+			}
+
+			if = {
+				limit = {
+					has_journal_entry = je_pontic_rivalry
+					scope:target_country = {
+						any_scope_state = {
+							OR = {
+								state_region = s:STATE_KONYA
+								state_region = s:STATE_AYDIN
+								state_region = s:STATE_HUDAVENDIGAR
+								state_region = s:STATE_KASTAMONU
+								state_region = s:STATE_ANKARA
+								state_region = s:STATE_ADANA
+							}
+						}
+					}
+				}
+				add = 200
+			}
 			
 			if = {
 				limit = {

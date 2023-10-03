@@ -1,0 +1,47 @@
+je_pontic_rivalry = {
+	icon = "gfx/interface/icons/event_icons/event_military.dds"
+
+	is_shown_when_inactive = {
+		c:GRE = root
+	}
+
+	possible = {
+		c:GRE = {
+			owns_entire_state_region = STATE_ATTICA
+		}
+	}
+
+	on_monthly_pulse = {
+		random_events = {
+			10 = 0
+			1 = gre.1
+			1 = gre.2
+		}
+	}
+
+	complete = {
+		has_revolution = no
+		has_any_secessionists_broken_out = no
+		OR = {
+			any_scope_state = {
+				is_incorporated = yes
+				has_building = building_barracks
+				count >= 4
+			}
+			any_scope_state = {
+				is_incorporated = yes
+				has_building = building_conscription_center
+				count >= 6
+			}
+		}
+	}
+
+	progressbar = yes
+
+	on_complete = {
+		gre.3
+	}
+
+	weight = 100
+	should_be_pinned_by_default = yes
+}

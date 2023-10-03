@@ -53,7 +53,6 @@
 				size = 4004
 			} 
 		}
-		add_homeland = sarmatian
 	}
 	s:STATE_KIEV = {
 		region_state:SRM = {
@@ -145,8 +144,6 @@
 				size = 8996
 			}
 		}
-		add_homeland = greek
-		add_homeland = sarmatian
 	}
 	s:STATE_LUHANSK = {
 		region_state:SRM = {
@@ -388,7 +385,6 @@
 				size = 189292
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_TRANSDANUBIA = {
 		region_state:IZY = {
@@ -415,7 +411,6 @@
 				size = 10200
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_BANAT = {
 		region_state:DAC = {
@@ -428,7 +423,6 @@
 				size = 14200
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_WEST_SLOVAKIA = {
 		region_state:QDI = {
@@ -461,7 +455,6 @@
 				size = 265300
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_NORTHERN_TRANSYLVANIA = {
 		region_state:DAC = {
@@ -478,7 +471,6 @@
 				size = 35200
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_MOLDAVIA = {
 		region_state:BST = {
@@ -491,7 +483,6 @@
 				size = 23000
 			}
 		}
-		add_homeland = bastarnae
 	}
 	s:STATE_WALLACHIA = {
 		region_state:GTE = {
@@ -509,7 +500,6 @@
 				size = 3500
 			}
 		}
-		add_homeland = dacian
 	}
 	s:STATE_BESSARABIA = {
 		region_state:BST = {
@@ -532,6 +522,5 @@
 				size = 16500
 			}
 		}
-		add_homeland = bastarnae
 	}
 }

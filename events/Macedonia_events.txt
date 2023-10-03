@@ -1,0 +1,63 @@
+namespace = gre
+
+gre.1 = {
+	type = country_event
+
+	title = gre.1.t
+	desc = gre.1.d
+	flavor = gre.1.f
+
+	event_image = {
+		video = "unspecific_signed_contract"
+	}
+
+	icon = "gfx/interface/icons/event_icons/waving_flag.dds"
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+	duration = 3
+
+	trigger = {
+		always = no
+	}
+
+	fire_only_once = yes
+
+	option = {
+		name = gre.1.a
+		STATE_ATTICA = {
+			start_privately_funded_building_construction = conscription_center
+		}
+	}
+}
+
+gre.2 = {
+	type = country_event
+
+	title = gre.2.t
+	desc = gre.2.d
+	flavor = gre.2.f
+
+	event_image = {
+		video = "unspecific_signed_contract"
+	}
+
+	icon = "gfx/interface/icons/event_icons/waving_flag.dds"
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+	duration = 3
+
+	is_triggered_only = yes
+
+	trigger = {
+		always = no
+	}
+
+	option = {
+		name = gre.2.a
+		STATE_ATTICA = {
+			start_privately_funded_building_construction = building_barracks
+		}
+	}
+}

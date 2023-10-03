@@ -5961,7 +5961,7 @@ estonian={
 }
 
 greek={
-	color= hsv{ 0.94 0.45 0.48 }
+	color= rgb{ 85 95 255 }
 	religion = hellenism
 	traits = { greek_culture greek_speaking mediterranean_heritage }
 	
@@ -6217,7 +6217,7 @@ georgian={
 }
 
 armenian={
-	color= hsv{ 0.15 0.55 0.52 }
+	color= rgb{ 120 15 20 }
 	religion = oriental_orthodox
 	traits = { caucasus_group european_heritage }
 	male_common_first_names={
@@ -6946,7 +6946,7 @@ misri={
 }
 
 mashriqi={
-	color= hsv{ 0.34 0.48 0.71 }
+	color= rgb{ 105 120 70 }
 	religion = shiite
 	traits = { arab_speaking middle_eastern_heritage }
 	obsessions = {
@@ -22784,7 +22784,7 @@ baltic={
 
 
 lydian={
-	color= rgb{ 100 85 160 }
+	color= rgb{ 120 90 55 }
 	religion = hellenism
 	traits = { anatolian_heritage greek_speaking }
 	male_common_first_names={
@@ -23302,7 +23302,7 @@ assyrian={
 }
 
 galatian={
-	color= rgb{ 55 110 50 }
+	color= rgb{ 120 55 0 }
 	religion = animist
 	traits = { celtic_culture_group anatolian_heritage european_heritage }
 	
@@ -23510,7 +23510,7 @@ israelite={
 }
 
 phrygian={
-	color= rgb{ 180 180 70 }
+	color= rgb{ 120 50 40 }
 	religion = hellenism
 	traits = { anatolian_heritage greek_speaking }
 	male_common_first_names={
@@ -23572,7 +23572,7 @@ phrygian={
 }
 
 cappadocian={
-	color= rgb{ 180 20 70 }
+	color= rgb{ 120 60 30 }
 	religion = zoroastrian
 	traits = { iranian_turanian_culture_group middle_eastern_heritage anatolian_heritage greek_speaking }
 	male_common_first_names={
@@ -24321,4 +24321,68 @@ wusun={
 		1 = central_asian
 	}
 	graphics = asian
+}
+
+pontic={
+	color= rgb{ 185 80 175 }
+	religion = hellenism
+	traits = { iranic_heritage anatolian_heritage greek_culture greek_speaking }
+	male_common_first_names={
+		Abbas Abdolazim Abdolhossein Abdolsamad Abolghasem Ahmad Ali 
+		Bahram 
+		Ebrahim Esmail 
+		Fath_Ali Fazlollah
+		Hamzeh Hasan Hossein
+		Kamran Karim
+		Lotf_Ali
+		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		Naser_ed-Din Nosret
+		Reza
+		Sadegh
+	}
+	female_common_first_names = {
+		Asieh
+		Bibi_Khatoom
+		Ghazaleh
+		Marjane Marsha Maryam
+		Sedigheh
+	}	
+	noble_last_names = {
+		al-Saltaneh Alamir Astarabadi Ashtiani
+		Bakhtiari
+		Farmanfarma
+		Hakimi Hedayat
+		Khalatbari 
+		Pirnia
+		Qajar
+	}
+	common_last_names={
+		Airom Ansari Ayrum
+		Buzarjomehri
+		Davallu
+		Esfahani
+		Farhani
+		Jahanbani Jamshidian
+		Kashani Khan Khuzai
+		Meshhedi
+		Nakhchevani
+		Pesyan
+		Rokni
+		Sadegh Shafaei Shahbakhti Shirazi
+		Tabrizi Tahmasebi
+		Zahedi
+	}
+	male_regal_first_names = {
+		Ahmad
+		Fath_Ali Fereydoun
+		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		Naser_ed-Din
+		Sultan_Hamid
+	}
+	ethnicities = {
+		1 = arab
+		1 = caucasian
+		1 = slavic
+	}
+	graphics = mideast_indian
 }

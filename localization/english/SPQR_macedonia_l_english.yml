@@ -1,0 +1,21 @@
+﻿l_english:
+  #JOURNAL ENTRIES#
+  je_pontic_rivalry:0 "Outnumber Eupator's Army"
+  je_pontic_rivalry_reason:0 "The Pontic Kingdom's influence has ballooned rapidly in recent decades, we must make significant territorial advances if we are to stave off our own destruction at their hands. \n\nOur first goal should be to amass an army that can stand against that of the Pontic Warlord, for his stength has been his overwhelming numbers over the native Anatolian peoples. Over time, the people will slowly arm themselves, but we can vastly speed up the process by investing in local conscription centers and barracks for the army-to-be."
+
+
+  #EVENTS#
+  gre.1.t:0 "Conscription Centers flooded with recruits"
+  gre.1.d:0 "Our messagers in Root.StateRegion.GetCustom have reported back to us, the number of citizens getting roused up has increased dramatically, and the local conscription centers have had to balloon in size and capacity to accomidate this change. This is surely a sign that we should be putting more of our wealth into this endevour." 
+  gre.1.f:0 "Please, please, one at a time!"
+  gre.1.a:0 "The day of war draws nearer"
+  ###
+  gre.2.t:0 "Expansion of the Barracks"
+  gre.2.d:0 "Local aristocrats and nobles have gone to work expanding military barracks in order to house more soldiers in preparation of wartime. They are managing well, but it would be better if we had a hand in this upscaling."
+  gre.2.f:0 "Groundbreaking innovations in stacking more beds in less space have given us more room to operate..."
+  gre.2.a:0 "The day of war draws nearer"
+  ###
+  gre.3.t:0 "The Conquest of Asia"
+  gre.3.d:0 "The Kingdom of Pontus and the Mithridatic Dyansty have had uncontested control of Asia Minor for many years now, and soon they will sail for our shores hoping to conquer us. We must take the initiative and drive the Persians out of our domain."
+  gre.3.f:0 "Some of you may die, but that is a risk I'm willing to take"
+  gre.3.a:0 "Drive them from the shores!"
