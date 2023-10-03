@@ -428,7 +428,7 @@
 		region_state:FRI = {
 			create_pop = {
 				culture = istvaeonic
-				size = 120333
+				size = 100333
 			}
 		}
 	}
@@ -480,7 +480,7 @@
 		region_state:MCN = {
 			create_pop = {
 				culture = irminonic
-				size = 1499608
+				size = 299921
 			}
 		}
 	}
@@ -488,7 +488,7 @@
 		region_state:MCN = {
 			create_pop = {
 				culture = irminonic
-				size = 480408
+				size = 180408
 			}
 		}
 	}
@@ -524,11 +524,11 @@
 		region_state:RGI = {
 			create_pop = {
 				culture = irminonic
-				size = 1018800
+				size = 203760
 			}
 			create_pop = {
 				culture = vistulan
-				size = 104000
+				size = 52000
 			}
 		}
 	}
@@ -560,7 +560,7 @@
 		region_state:CHR = {
 			create_pop = {
 				culture = istvaeonic
-				size = 771111
+				size = 154222
 			}
 		}			
 	}
@@ -568,7 +568,7 @@
 		region_state:SUE = {
 			create_pop = {
 				culture = irminonic
-				size = 1196400
+				size = 239280
 			}
 		}
 	}
@@ -584,7 +584,7 @@
 		region_state:BEL = {
 			create_pop = {
 				culture = belgae
-				size = 830379
+				size = 166075
 			}
 		}
 	}
@@ -593,7 +593,7 @@
 		region_state:TNC = {
 			create_pop = {
 				culture = istvaeonic
-				size = 702629
+				size = 140525
 			}
 		}
 	}
@@ -601,7 +601,7 @@
 		region_state:SUE = {
 			create_pop = {
 				culture = irminonic
-				size = 1558704
+				size = 311740
 			}
 		}
 	}
@@ -617,7 +617,7 @@
 		region_state:HRM = {
 			create_pop = {
 				culture = irminonic
-				size = 926509
+				size = 185304
 			}
 		}	
 	}
@@ -625,7 +625,7 @@
 		region_state:HEL = {
 			create_pop = {
 				culture = gaulish
-				size = 905246
+				size = 181049
 			}
 		}
 	}
@@ -633,7 +633,7 @@
 		region_state:CCI = {
 			create_pop = {
 				culture = ingvaeonic
-				size = 219696
+				size = 143939
 			}
 		}
 	}
@@ -641,7 +641,7 @@
 		region_state:CHR = {
 			create_pop = {
 				culture = irminonic
-				size = 180000
+				size = 36000
 			}
 		}
 	}
@@ -649,7 +649,7 @@
 		region_state:HRM = {
 			create_pop = {
 				culture = irminonic
-				size = 1682000
+				size = 336400
 			}
 		}
 	}
@@ -657,7 +657,7 @@
 		region_state:HRM = {
 			create_pop = {
 				culture = irminonic
-				size = 1051792
+				size = 210358
 			}
 		}
 	}
@@ -665,7 +665,7 @@
 		region_state:SUE = {
 			create_pop = {
 				culture = irminonic
-				size = 1453212
+				size = 290642
 			}
 		}		
 	}
@@ -673,7 +673,7 @@
 		region_state:CTI = {
 			create_pop = {
 				culture = istvaeonic
-				size = 100872
+				size = 80174
 			}
 		}		
 	}
@@ -681,7 +681,7 @@
 		region_state:SUE = {
 			create_pop = {
 				culture = irminonic
-				size = 490002
+				size = 98000
 			}
 		}		
 	}

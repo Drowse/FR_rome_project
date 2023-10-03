@@ -3,11 +3,21 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 576749
+				size = 386422
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gaulish
+				size = 190327
 			}
 			create_pop = {
 				culture = latin
-				size = 76996
+				size = 51588
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin
+				size = 25408
 			}
 		}
 	}
@@ -15,11 +25,21 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = gaulish
-				size = 591797
+				size = 396503
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gaulish
+				size = 195293
 			}
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 93996
+				size = 62977
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 31018
 			}
 		}
 	}
@@ -57,7 +77,12 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 150333
+				size = 100723
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 49609
 			}
 		}
 	}
@@ -73,13 +98,23 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 800465
+				size = 536311
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 264153
 			}
 		}
 		region_state:LCN = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 52465
+				size = 39348
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 13116
 			}
 		}
 	}
@@ -88,7 +123,13 @@
 			create_pop = {
 				culture = greek
 				religion = hellenism
-				size = 174540
+				size = 116941
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = greek
+				religion = hellenism
+				size = 57598
 			}
 			create_pop = {
 				culture = latin
@@ -105,7 +146,12 @@
 			create_pop = {
 				culture = latin
 				religion = hellenism
-				size = 63706
+				size = 42683
+			}
+			create_pop = {
+				culture = latin
+				religion = hellenism
+				size = 21022
 			}
 		}
 	}
@@ -113,7 +159,12 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = illyrian
-				size = 334797
+				size = 224313
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = illyrian
+				size = 110483
 			}
 		}
 		region_state:LCN = {
@@ -135,11 +186,21 @@
 				culture = latin religion = hellenism
 				size = 100074
 			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 25018
+			}
 		}
 		region_state:MSI = {
 			create_pop = {
 				culture = latin religion = hellenism
 				size = 120074
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 30018
 			}
 		}
 	}
@@ -168,6 +229,11 @@
 				size = 60733
 			}
 			create_pop = {
+				pop_type = slaves
+				culture = etruscan
+				size = 6033
+			}
+			create_pop = {
 				culture = gaulish
 				size = 16733
 			}
@@ -181,11 +247,21 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 401800
+				size = 269206
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = etruscan religion = hellenism
+				size = 132594
 			}
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 141800
+				size = 95006
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 46794
 			}
 			create_pop = {
 				culture = etruscan 
@@ -198,11 +274,21 @@
 		region_state:SPR = {
 			create_pop = {
 				culture = etruscan religion = hellenism
-				size = 200866
+				size = 134580
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = etruscan religion = hellenism
+				size = 66285
 			}
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 66866
+				size = 44801
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 22065
 			}
 			create_pop = {
 				culture = etruscan religion = animist # Estruscan religion
@@ -217,13 +303,24 @@
 				religion = hellenism
 				size = 444622
 			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				religion = hellenism
+				size = 146725
+			}
 		}
 	}
 	s:STATE_VENETIA = {
 		region_state:SPR = {
 			create_pop = {
 				culture = latin religion = hellenism
-				size = 618398
+				size = 280326
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin religion = hellenism
+				size = 138071
 			}
 		}
 	}
@@ -232,12 +329,24 @@
 			create_pop = {
 				culture = greek
 				religion = hellenism
-				size = 196623
+				size = 131737
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = greek
+				religion = hellenism
+				size = 64885
 			}
 			create_pop = {
 				culture = latin
 				religion = hellenism
-				size = 121877
+				size = 81657
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = latin
+				religion = hellenism
+				size = 40219
 			}
 		}
 		region_state:CAR = {
