@@ -133,6 +133,15 @@
 
  GRE:0 "Macedonia"
  GRE_ADJ:0 "Macedonian"
+ 
+ EMP:0 "Emporion"
+ EMP_ADJ:0 "Emporion"
+ 
+ MSL:0 "Massalia"
+ MSL_ADJ:0 "Massalia"
+ 
+ SYC:0 "Syracuse"
+ SYC_ADJ:0 "Syracuse"
 
  ACH:0 "Achaea"
  ACH_ADJ:0 "Achaean"

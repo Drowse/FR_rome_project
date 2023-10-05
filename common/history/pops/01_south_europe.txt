@@ -359,6 +359,12 @@
 				size = 47596
 			}
 		}
+		region_state:SYC = {
+			create_pop = {
+				culture = greek religion = hellenism
+				size = 45796
+			}
+		}
 	}
 	s:STATE_TOLEDO = {
 		region_state:CAR = {
@@ -436,7 +442,13 @@
 			}
 			create_pop = {
 				culture = punic
-				size = 41723
+				size = 81723
+			}
+		}
+		region_state:EMP = {
+			create_pop = {
+				culture = greek
+				size = 40723
 			}
 		}
 	}

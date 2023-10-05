@@ -5,7 +5,13 @@
 	c:CAR = {
 		set_relations = { country = c:SPR value = -50 }
 		set_relations = { country = c:GRE value = 25 }
+		set_relations = { country = c:SYC value = 25 }
 		set_relations = { country = c:EGY value = -25 }
+	}
+	
+	c:SYC = {
+		set_relations = { country = c:CAR value = 50 }
+		set_relations = { country = c:SPR value = -50 }
 	}
 	c:NUM = {
 		set_relations = { country = c:CAR value = -50 }

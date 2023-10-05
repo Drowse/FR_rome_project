@@ -260,12 +260,14 @@
 	s:STATE_PROVENCE = {
 		region_state:SPR = {
 			create_pop = {
-				culture = greek
-				size = 32775
-			}
-			create_pop = {
 				culture = gaulish
 				size = 259669
+			}
+		}
+		region_state:MSL = {
+			create_pop = {
+				culture = greek
+				size = 42775
 			}
 		}
 	}

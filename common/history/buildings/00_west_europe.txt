@@ -760,13 +760,7 @@
 				level=2
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_vineyards" }
-			}
-			create_building={
-				building="building_textile_mills"
-				level=3
-				reserves=1
-				activate_production_methods={ "pm_dye_workshops" "pm_privately_owned_building_textile_mills" "pm_traditional_looms" "pm_craftsman_sewing" }
-			}
+			} 
 			create_building={
 				building="building_fishing_wharf"
 				level=2
@@ -775,19 +769,51 @@
 			} 
 			create_building={
 				building="building_wheat_farm"
-				level=10
+				level=5
 				reserves=1
 				activate_production_methods={ "pm_privately_owned" "pm_vineyards" "pm_tools_disabled" "pm_simple_farming" }
 			}
 			create_building={
 				building="building_barracks"
-				level=5
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_skirmish_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
+			} 
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+		region_state:MSL={
+			create_building={
+				building="building_wheat_farm"
+				level=6
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" }
+			}
+			create_building={
+				building="building_textile_mills"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_dye_workshops" "pm_privately_owned_building_textile_mills" "pm_traditional_looms" "pm_craftsman_sewing" }
+			}
+			create_building={
+				building="building_fishing_wharf"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_merchant_guilds_building_fishing_wharf" "pm_unrefrigerated" "pm_fishing_trawlers" }
+			}
+			create_building={
+				building="building_barracks"
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_skirmish_infantry" "pm_mobile_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			}
 			create_building={
 				building="building_naval_base"
-				level=3
+				level=1
 				reserves=1
 				activate_production_methods={ "pm_man_o_wars" "pm_frigates" "pm_commerce_raider" "pm_power_of_the_purse" }
 			}

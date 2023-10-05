@@ -1,6 +1,6 @@
 ﻿namespace = roman_occupation
 
-# Completed Mexico JE
+# 
 roman_occupation.1 = {
 	type = country_event
 	placement = ROOT
@@ -19,8 +19,7 @@ roman_occupation.1 = {
 	
 	duration = 3
 	
-	trigger = {
-	}
+	is_triggered_only = yes
 	
 	option = {
 		name = roman_occupation.1.a

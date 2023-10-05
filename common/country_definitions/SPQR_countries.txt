@@ -1014,6 +1014,54 @@ GRE = { #Macedonia
 	capital = STATE_WESTERN_THRACE
 }
 
+EMP = { #Emporion
+	color = { 80 126 165 }
+
+	country_type = recognized
+
+	tier = city_state
+
+	cultures = {
+		greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_CATALONIA
+}
+
+MSL = { #Massalia
+	color = { 101 50 253 }
+
+	country_type = recognized
+
+	tier = city_state
+
+	cultures = {
+		greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_PROVENCE
+}
+
+SYC = { #Syracuse
+	color = { 180 12 1 }
+
+	country_type = recognized
+
+	tier = city_state
+
+	cultures = {
+		greek
+	}
+
+	religion = hellenism
+
+	capital = STATE_SICILY
+}
+
 ACH = { #Achaea
 	color = { 125 91 110 }
 
